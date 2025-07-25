@@ -1,0 +1,24 @@
+        Hanwha Ocean    As of 21-Feb-2024
+                        Currency =KRW
+45000.
+42500.
+40ooo.OC
+ 7500.0C
+350oo.0C
+32500.00
+30ooo.oC
+27500.
+25000.
+22500.
+20000.
+17500.
+15000.
+12500.
+10ooo.0o
+ 7500.00
+ sooo.00
+ 2500.0C
+
+        2021/07/01  2022/01/01  2022/07/01  2023/01/01  2023/07/01  2021/01/01
+        Closing Price  Target PriceChange   RecommeroaticnChanges
+                                                        Scurce: LSEG, Nomin

@@ -1,0 +1,9 @@
+(% Fleet)                Bulk capacity tied in port (LHS)    (Knots)
+ 40                      Bulkcarrier average speed (RHS)     13.5
+
+ 35                                                          12.5
+
+ 30                                                          11.5
+
+ 25                                                          10.5
+       12    13  14  15  16  17  18  19  20  21              22  23  24

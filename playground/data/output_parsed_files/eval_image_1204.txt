@@ -1,0 +1,28 @@
+Actual Price to Book vs machine learning model predicted (Higher = more expensive)
+
+                                 Health Care  Telecoms    Basic    Utilities                    Energy                         Technology            Consumer
+                                                Materials                         Financials           Industrials    Cons. Disc              Real Estate  Staples
+
+   1     India                       27%  27%              -18%     17%           31%            6%        51%            3%     45%              128%     69%
+  9     Kuwait                   134%        35%           223%                   39%                               30%                      22%
+         Saudi Arabia                    22%       32%              142%          22%            3%         8%      3%           71%         -48%          52%
+         Qatar                               16%        %            7%           17%           11%         224%
+         Czech Republic                                             3%            2%                       23%
+         Malaysia                39%     %         -15%             28%           18%           48%         -18%         -17%                              10%
+         Taiwan                  56%     32%        5%                            22%           67%         -16%         11%     16%                       22%
+         Mexico                          227%           -8%                       s%                        0%      %                             221%     -8%
+         United Arab Emirates            15%               224%     6%            9%                30%      36%        14%                       51%
+         Thailand                53%     25%                37%     64%              -41%          228%    4%       9%         196%          28%           F11%
+         Indonesia               -6%        -20%           221%         65%       16%              -61%        %       -44%      -82%        -50%           39%
+         Philippines                         34%                       -22%           12%                   554%    23%                       -7%          -12%
+         South Africa            -23%    %                  38%                      220%           58%      10%        11%      -22%                      2%
+        Greece                                                      10%              224%          -41%     -33%        31%
+         Romania                                                        31%          224%
+         Chile                                             -36%         37%          223%          -45%                 38%                   16%          -38%
+         Brazil                  13%        227%           -46%        -18%           32%           60%    14%          34%      -38%        18%            16%
+         Colombia                                                      220%          -44%          -47%
+
+     1   Egypt                   -25%       -76%                                     -36%
+         Mainland China                      35%           228%        -32%          -45%          -46%     -65%        35%    226%          -20%          221%
+        Hungary                  62%        559%                                     -47%           69%
+         Turkiye                 -34%       -45%            63%                      -77%          -67%      55%       -70%                                -64%

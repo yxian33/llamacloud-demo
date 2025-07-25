@@ -1,0 +1,19 @@
+  ServerlstorageIPc OEMs      Smartphone OEMs    Cloud Providers
+                            Hralett Puckald    IEN  SAMSUNG  xiaomi  Pixel    Microscft Azure    amaz0n
+  NetADP                                                     vivo             Google Cloud       Tencent
+J  PURESTORAGE' Lenovo                         Inspur  oppo          LG       ORACLE
+            H3C Huawli                         HITACHI                        Dropbox  Bai &0'
+                                                          EMSIODMProviders
+   wiwynn                                      Quonio Compulc    FOXCONN  Inventec  wistron
+
+                              Assembly & Test                                 Component Providers
+            ASE Technoloqy    CHIIP BODYID                       ChipMos    SiliconMotion    BROADCOM:  #TDK
+            Holing Co,Ltd;                                                  PHISON MARVELL              juec S3enko
+
+   DRAM Manufacturers                                                       NAND Manufacturers    HDD Manufacturers
+                              &cron                                         Gcron
+J  SAMSUNG SK hynix                                              SAMSUNG SK hynix                 MD Digatarn  TOSHIBA
+                              cxmt                                          YTC KIOXIA MDBastern
+
+                                                                            Semicap Providers
+            Lam                                ARPHIEB           TEL            ASML   VLA        #ichor       UCT

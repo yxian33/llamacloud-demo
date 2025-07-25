@@ -1,0 +1,13 @@
+ Market Data
+ Madrid            Vacancy rate  Under Construction (%    Prime Yield
+ CBD                               over current stock)    602
+ City Centre                                       225
+ Decentralized             13.925
+ Out of town               14.536
+
+ Barcelona         Vacancy rate  Under Construction (%    Prime Yield
+
+ CBD                               over current stock)
+ City Centre                                      -525    4.7525
+New Business Area  20.925        -725                     4.925
+ Out of town

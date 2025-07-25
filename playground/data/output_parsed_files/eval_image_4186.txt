@@ -1,0 +1,11 @@
+3.8
+
+
+3.6
+
+3.5    VM
+
+3.4
+
+ Mar-23    Jun-23    Aug-23    Oct-23    Jan-24    Mar-24
+                     MarFA T Macro    BRLMXN

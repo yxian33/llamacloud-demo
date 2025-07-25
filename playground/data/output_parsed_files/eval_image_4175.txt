@@ -1,0 +1,2 @@
+0.2  04 Jan-07 Feb-0g Mar-11 Apr-13 May-15 Jun-17 Jul-19 Aug-21
+04      5s10s (actual)       551Os (fitted with projection)    Forwards

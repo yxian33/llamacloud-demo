@@ -1,0 +1,40 @@
+  6000
+
+  5000
+
+ 4000
+
+ 3000
+
+ 2000
+
+1000
+
+  0
+
+2QFY18
+   3QFY18
+     4QFY18
+      1QFY19
+         2QFY19
+           3QFY19
+            4QFY19
+               1QFY2O
+                 2QFY20
+                  3QFY20
+  Europe             4QFY2O
+                       1QFY21
+                        2QFY21
+            (INR mn)       3QFY21
+                             4QFY21
+                              1QFY22
+                                 2QFY22
+                                   3QFY22
+                                    4QFY22
+                                       1QFY23
+                                         2QFY23
+                                          3QFY23
+                                             4QFY23
+                                               1QFY24
+                                                2QFY24
+                                                   3QFY24

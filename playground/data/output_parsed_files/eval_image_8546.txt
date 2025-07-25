@@ -1,0 +1,14 @@
+     Zhejiang Jingsheng Mechanical & Electrical  As of 29-Feb-2024
+                                                     Currency =CNY
+
+90.00
+85.0C
+80.0C
+75.0C
+
+
+15.0C
+
+     2021/07/01  2022/01/01  2022/07/01  2023/01/01  2023/07/01  2024/01/01
+                 Closing Price  Target PriceChange  RecommeroaticnChanges
+                                                     Scurce: LSEG, Nomin

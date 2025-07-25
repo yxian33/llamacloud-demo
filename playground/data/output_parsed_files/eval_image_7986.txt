@@ -1,0 +1,11 @@
+1,80
+
+1.75
+
+1,70
+
+1,65
+
+
+  Mar-23  May-23    Jul-23    Oct-23    Dec-23  Mar-24
+                    MarFA -  Macro  DAX IBEX 35

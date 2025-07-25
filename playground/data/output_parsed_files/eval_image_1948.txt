@@ -1,0 +1,10 @@
+S14,000m    S12,900m
+S12,000m
+S10,000m
+ S8,00Om
+ S6,00Om
+ S4,00Om
+ S2,00Om    S80Om
+   SOm      04-20    04-21
+
+                     BCRED AuM

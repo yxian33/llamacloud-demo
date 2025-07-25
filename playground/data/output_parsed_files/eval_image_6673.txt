@@ -1,0 +1,13 @@
+        Data center segment sales
+
+  16,000
+  14,000
+I 12,000
+@ 10,000
+ 0 8,000
+   6,000
+   4,000
+   2,000
+
+
+   Intel  AMD  Nvidia

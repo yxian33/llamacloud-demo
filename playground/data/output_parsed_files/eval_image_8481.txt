@@ -1,0 +1,7 @@
+1.5
+
+
+ Ded-04 Mar-07 Jun-09 Sep-1  Dec-13 Mar-16 Jun-18 Sep-20
+0.5
+
+        2s1Os (actual)    2s10s (fitted with projection)    Forwards

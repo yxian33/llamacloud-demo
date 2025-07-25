@@ -1,0 +1,8 @@
+1.8     MSCI Europe
+1.6     Price to 12m trailing Sales 6m lead
+        Trailing Margin % (rhs)
+1.4
+1.2
+
+
+88888888888888888888

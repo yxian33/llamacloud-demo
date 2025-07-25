@@ -1,0 +1,12 @@
+   Capex (INR bn)  FCF (post-interest & dividend) (INR bn)
+  100
+   80
+   60
+   40
+   20
+
+ (20)
+ (40)
+ (60)
+ (80)
+(100) 22222222222222

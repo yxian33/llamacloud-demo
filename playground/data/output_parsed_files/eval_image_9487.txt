@@ -1,0 +1,9 @@
+Denser network with ~30% fewer towers
+30%/0
+
+35    35    42
+24          30
+
+24    35    24    12
+
+dtac    TRUE  Truetdtac  Single Grid

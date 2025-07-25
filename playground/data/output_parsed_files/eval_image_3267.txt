@@ -1,0 +1,10 @@
+         Indonesia     Philippines
+20.0     Singapore     Thailand
+17.5     ASEAN USD     Malaysia
+15.0
+12.5
+10.0
+ 7.5
+ 5.0
+ 2.5
+ 0.0

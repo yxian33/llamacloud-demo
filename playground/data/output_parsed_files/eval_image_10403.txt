@@ -1,0 +1,14 @@
+01                            02 Application Layer03    04
+MailzSummary                  CallzSummary    q DSAT Analysis    Knowledge Management
+
+                              Finetune Layer
+
+CLIENT SPECIFIC    LOB SPECIFIC    INDUSTRY SPECIFIC    LANGUAGE SPECIFIC  COUNTRY SPECIFIC
+
+                                   Integration Layer
+                                                      BYOM       9 #
+API BASED                          AGNOSTIC                      cOo MODULAR
+
+GPT-X              LLaMA 2         PaLM 2             Bedrock              Open-Source
+
+OpenAI             OOMeta          Google             aws                  Models

@@ -1,0 +1,19 @@
+Car production by degree of automation (SAE level)
+
+ 100%   100%    100%
+
+                Lo
+ 80%    LO
+
+                L1
+ 60%
+
+                     L1/LZIL2+
+ 40%                 to reach ~75% in 2030,
+        L1      L2   up from ~55% in 2023
+
+ 20%                 L3/L4IL5
+        L2      L2t  to reach ~5% in 2030,
+                     up from  ~0% in 2023
+   %
+        2023    2030

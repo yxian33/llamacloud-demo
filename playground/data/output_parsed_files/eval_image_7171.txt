@@ -1,0 +1,15 @@
+           8 8 8 8 2
+
+ EURJPY            5
+                   2
+ AUDJPY            1
+
+ GBPJPY            9
+                   8
+EURCHF
+
+EURGBP
+
+EURAUD
+
+AUDNZD

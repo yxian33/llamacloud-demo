@@ -1,0 +1,22 @@
+      ICICI Prudential Life Insurance    As of 25-Jan-2024
+                                         Currency =INR
+800.0C
+750.
+700.00
+650.0C
+600.0C
+550.
+50o.OC
+450.0C
+400.
+350.00
+300.0C
+250.0C
+200.00
+150.0C
+100.00
+ 50.0C
+
+      2021/07/01  2022/01/01  2022/07/01  2023/01/01  2023/07/01  2024/01/01
+      Closing Price  Target PriceChange   RecommeroaticnChanges
+                                                      Scurce: LSEG, Nomin

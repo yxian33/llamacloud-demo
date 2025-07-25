@@ -1,0 +1,10 @@
+300
+250
+200
+150
+
+
+   2015  2023  2015  2023  2015  2023  2015  2023  2015  2023  2015  2023
+   China       India       Japan       Vietnam           UK          US
+
+            Solar (non-tracking)  Wind onshore  Wind offshore  Gas (CCGT)  Coal

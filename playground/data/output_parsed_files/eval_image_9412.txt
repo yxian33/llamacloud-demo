@@ -1,0 +1,20 @@
+120
+
+100    78  76  83  9  87  90  80  83  84    86  97
+
+ 80                                         72
+
+ 60                                         59
+
+ 40
+
+20
+
+ 0
+
+ 1QFY21    4QFY21
+               1QFY22     4QFY22
+           3QFY21    2QFY22    1QFY23       1QFY24  3QFY24
+                         3QFY22          3QFY23
+       2QFY21                      2QFY23   4QFY23  2QFY24
+           US Sales incl. sales to Indian partners (USD mn)

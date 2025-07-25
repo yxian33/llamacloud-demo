@@ -1,0 +1,22 @@
+      Thunder Software                                  As of 20-Feb-2024
+                                                            Currency =CNY
+170.0C
+160.
+150.
+140.
+130.0C
+120.0C
+110.0C
+100.0o
+
+70.0C
+60.0C
+50.00
+40.0C
+
+20.0C
+10.00
+
+      2021/07/01  2022/01/01  2022/07/01  2023/01/01  2023/07/01  2021/01/01
+      Closing Price  Target Pricechange   RecommeroaticnChanges
+                                                      Scurce: LSEG, Nomin

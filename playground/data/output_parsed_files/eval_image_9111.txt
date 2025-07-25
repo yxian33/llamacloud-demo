@@ -1,0 +1,12 @@
+5.0
+
+ 4.0
+
+
+   2.0
+
+   1,0    Aug  Sep  Oct  Nov
+
+          May  Jun  Jul    Kerosene
+   0.0Jan  Feb  Mar  Apr    Diesel
+                Gacoline

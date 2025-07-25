@@ -1,0 +1,21 @@
+         Celltrion
+                  As of 2+-Jan-2024
+                  Currency =KRW
+350ooo.0C
+325000.00
+30oooo.
+275000.0C
+250000.
+225000.
+200ooo.
+175000.
+ soooo.OC
+125000.0C
+1ooooo.0o
+ 75000.00
+ soooo.0o
+ 25000.0C
+
+         2021/07/01  2022/01/01  2022/07/01  2023/01/01  2023/07/01  202+/01/01
+         Closing Price  Target Pricechange   RecommeroaticnChanges
+                                                         Scurce: LSEG, Nomin

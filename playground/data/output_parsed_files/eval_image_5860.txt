@@ -1,0 +1,27 @@
+BNP Paribas GDP growth forecasts
+ Developed Markets   ANNUAL GROWTH (% yly)                       QUARTERLY GROWTH (% qlq)
+                     2023       2024           2025  2023  2023      2023  2023  2024  2024      2024    2024
+                                                      Q1              03          Q1              03      04
+ US                  2.5    2.0    1.4
+ Eurozone            0.5    0.6     8                            ~0.
+  Germany
+  France             0.8                                        -0.1
+  Italy                     0.9
+  Spain              2.4     45                8                 0.3
+ China               5.2
+Japan                2.1    0.8                       1.2
+ UK                  0.3    -0.1               1.1    0.3
+
+ BNP Paribas consumer price inflation forecasts
+ Developed Markets   ANNUAL GROWTH (% yly)                       QUARTERLY GROWTH (% qlq)
+                     2023       2024           2025  2023    2023    2023  2023  2024    2024    2024    2024
+                                                      Q1      02      03    04    Q1      02      03      04
+ US                                2.3                   4.0               3.2           2.7    2.6
+ Eurozone            5.4           1.9                   6.2               2.7           2.0     18
+  Germany                                                                  3.0    1.9
+  France                           1.6                                     4.2    2.3             :
+  Italy              6.0           2.0                   7.8
+  Spain              3.4                       139       2.8        3.3          2.1
+ China               0.4           1.9                                     2.9           1.5
+ Japan               3.2                                 3.4                             2.2    1.8
+ UK                  7.4           2.3                   8.4               4.4           1.6    1.8

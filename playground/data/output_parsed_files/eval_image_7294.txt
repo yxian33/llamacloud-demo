@@ -1,0 +1,18 @@
+  Genting Malaysia    As of 29-Feb-2024
+                      Currency =MYR
+
+
+2.75
+2.50
+2.25
+2.00
+
+1.50
+1.25
+1.00
+0.75
+
+
+  2021/07/01  2022/01/01  2022/07/01  2023/01/01  2023/07/01  2024/01/01
+              Closing Price  Target PriceChange  RecommeroaticnChanges
+                                                  Scurce: LSEG, Nomin

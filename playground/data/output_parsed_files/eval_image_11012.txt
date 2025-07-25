@@ -1,0 +1,15 @@
+(x     LPPF PIE Band
+ 30
+
+ 25
+
+ 20    MA
+
+ 15
+
+ 10
+
+  5
+      Jan-17    Jan-18    Jan-19
+
+       Fw. PIE (x)  3-year mean  +1STD  +2STD  -1STD  '~ZSTD

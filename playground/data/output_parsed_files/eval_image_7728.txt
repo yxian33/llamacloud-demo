@@ -1,0 +1,25 @@
+4,000,000
+3,500,000
+3,000,000
+2,500,000
+2,000,000
+1,500,000
+1,000,000
+  500,000
+
+         TTTTTT7
+
+         1QFY11  1QFY14    1QFY2O
+         4QFY11
+                 3QFY12
+                 2QFY13 4QFY14
+                           3QFY15
+                              2QFY16
+                                 1QFY17
+                                    4QFY17
+                                       3QFY18
+                                          2QFY19 4QFY2O"
+  2QFY1O                                     3QFY21 1QFY23
+                                                        2QFY22 4QFY23
+                                                          3QFY24
+  Commodities (T12M, INR mn)

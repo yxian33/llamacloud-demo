@@ -1,0 +1,16 @@
+5000     ~2%f
+4500    -4%  6%
+4000
+3500
+3000           13%  15%    14%
+2500                19%    18%  18%
+2000                            21%
+1500                               -24% 25% -25%/
+1000
+ 500
+
+        Jan-23  Apr-23     Jul-23  Oct-23
+  Dec-22     Feb-23      Jun-23    Sep-23
+                Mar-23 May-23    Aug-23  Dec-23
+                                         Nov-23
+        Electronic transistors production (mn units)  Y-y growth

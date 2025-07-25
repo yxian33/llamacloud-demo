@@ -1,0 +1,19 @@
+      100%                         Stoxx 600 Sectors
+
+       80%     Oil & Gas
+
+       80%     Basic                            Insurance
+              Resources
+     1 40%                         Banks        Food & Bev
+     2 209     Chemicals           Telecom          Healthcare
+ @      0%              Utilities  Autos &      Media    Travel &
+2 (20%)                             Parts                 Leis
+                                   Fin Svs
+   (40%)       Real Estate         Cons &    Cons Prd &
+
+   (609)       Retail              Mats         SVcs
+                                   Ind Gds &           Technology
+   80%) 59)                        Svs
+               (10%)               (59)         0%  59        10%
+              Correlation of relative return with US 5Y Nominal Yield
+                                   (last 3 years

@@ -1,0 +1,22 @@
+                       Jan  Feb  Mar  Apr  May  Jun  Jul  Aug  Sep  Oct  Nov  Dec
+    1Oy Bund yield     14                            12    18       11    11
+      Bund ASW
+    10y OAT ASW
+    30y OAT ASW
+    10y OATIBund
+BTP IBund 5s10s box
+   BTPIBund 10s30sbox  10
+    EUR swap 2s10s               10
+    EUR swap 10s30s
+   EUR swap 2sSs
+   EUR swap 5s10s
+      10y Gilt               14                 15   16    21       13    18
+    10y Gilt ASW
+    GBP swap 2s5s
+   GBP swap 2s10s
+   GBP swap 5s10s
+  GBP swap 10s30s
+  GBP swap 30s50s
+
+                                   0                8
+                                   8

@@ -1,0 +1,11 @@
+                                 ARISTA
+Main Challenge for 3200G is Power
+  LPO  LAO  DSP2  DSP
+                     LPO and LRO provide the
+                       lowest power solutions for
+                       3200G Optics Modules
+                       DSP2 assumes Znm DSP
+                     and low power modulators
+                       (2026/2027 timeframe)
+
+  800G  iECOG     32005

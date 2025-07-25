@@ -1,0 +1,14 @@
+100                             60%
+
+ 90                             45%
+
+ 80                             30%
+
+ 70                             15%
+
+ 60                             0%
+
+ 50    8 8 8 8 ? 8 8 8          -15%
+
+       Launches ('000 units)    Sales ('000 units)
+       Sales growth y-y %

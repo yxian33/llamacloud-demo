@@ -1,0 +1,16 @@
+
+# FIGUR 3 Kundetilfredshet 2023 privatmarked
+
+| Leverandør          | Kundetilfredshet |
+| ------------------- | ---------------- |
+| Altibox             | 66,5             |
+| Øvrige leverandører | 66,1             |
+| Telenor             | 65,9             |
+| Bransjenitt         | 64,3             |
+| GlobalConnect       | 62,3             |
+| Telia               | 59,1             |
+| NextGenTel          | 58,6             |
+
+
+ekser
+Modum

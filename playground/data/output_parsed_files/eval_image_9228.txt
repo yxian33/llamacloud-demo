@@ -1,0 +1,20 @@
+         Lotte Shopping    As of 14-Feb-2024
+                           Currency =KRW
+
+130000.
+120000.
+110000.
+1ooooo.0o
+ 90ooo.OC
+ 8oooo.00
+ 70000.
+ 6oooo.0o
+ soooo.0o
+ 40ooo.OC
+ 30ooo.0o
+ 20000.=
+ 1oooo.0o
+
+         2021/07/01  2022/01/01  2022/07/01  2023/01/01  2023/07/01  2024/01/01
+         Closing Price  Target PriceChange   RecommeroaticnChanges
+                                                         Scurce: LSEG, Nomin

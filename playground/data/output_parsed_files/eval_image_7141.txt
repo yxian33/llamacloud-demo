@@ -1,0 +1,22 @@
+       Consumer  Application  Cloud Security  Data Privacy
+    Security     Security     3%                   1%
+Software                                      Data Security
+   4%                                         Idezllty
+
+                                              Access
+                                              Management
+                                              8%
+
+                                             Infrastructure
+Security                                       Protection
+Services                                      15%
+    45%
+
+                                              Integrated
+                                 Risk
+                              Management
+
+Other Information             Network         3%
+Security Software             Security
+       5%                     Equipment
+                                  11%

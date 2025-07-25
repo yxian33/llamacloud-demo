@@ -1,0 +1,20 @@
+    SimeDarby    As of 21-Feb-2024
+
+                 Currency =MYR
+
+2.75
+
+2.25
+
+2 C0
+
+1.75
+1.50
+1.25
+1.00
+0.75
+
+
+  2021/07/01  2022/01/01  2022/07/01  2023/01/01  2023/07/01  2024/01/01
+              Closing Price  Target PriceChange  RecommeroaticnChanges
+                                                  Scurce: LSEG, Nomin

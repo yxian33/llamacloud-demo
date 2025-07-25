@@ -1,0 +1,12 @@
+   (USDIton)    PX spread  MEG spread  PTA spread
+ 800
+
+ 600
+ 400
+
+ 200
+
+-200
+
+-400
+-600

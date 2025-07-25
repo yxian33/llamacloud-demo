@@ -1,0 +1,26 @@
+   {CNY)
+   500
+
+   400
+
+  300
+
+  200
+
+ 100
+
+  0
+
+Jun-18
+   Dec-18
+      Jun-19
+         Dec-19
+            Jun-20
+               Dec-20
+                  Jun-21
+                     Dec-21
+      Price             Jun-22
+                           Dec-22
+                              Jun-23
+      6x             2x          Dec-23
+                     8x          4x

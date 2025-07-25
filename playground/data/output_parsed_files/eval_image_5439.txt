@@ -1,0 +1,13 @@
+(KRW)    Pan Ocean (LHS)  iron    (USDItonne)
+ 10,000                           ore (RHS)    250
+
+  8,000
+                                               200
+  6,000
+                                               150
+ 4,000
+                                               100
+ 2,000
+                                               50
+   0
+   Jan-19  Jan-20  Jan-21  Jan-22  Jan-23      Jan-240

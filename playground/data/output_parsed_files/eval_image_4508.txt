@@ -1,0 +1,10 @@
+1. Initial silicon
+                  2. Oxidation
+                  3. Implantation
+                  Cleaning and bonding
+
+
+Splitting
+
+Annealing and CMP
+7. Donor wafer becomes new wafer A    SOl wafer    touch polishing

@@ -1,0 +1,8 @@
+main models imported:  2023: 109 k units
+                       2024e: 96   units
+                      2025e: 109 k units
+
+
+BMW:
+X3,X4,X5,
+X6,X7, XM

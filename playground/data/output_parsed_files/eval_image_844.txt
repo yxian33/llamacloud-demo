@@ -1,0 +1,13 @@
+(8Gb eq, US cents)    % q-q        % y-y    inventory write-off
+ 20%                              Due to    &reversal
+                             inventory
+ 10%                         write off
+  0%
+-10%
+    -20%                                    thanks to
+    -30%                     sucessful 128L
+                                            transition
+ -40%                        Reversal of
+ ~so%                        inventory
+                             write-off
+ -60%       8 8 8     8 8 8 8 8 8           8

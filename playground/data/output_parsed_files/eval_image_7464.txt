@@ -1,0 +1,15 @@
+100     6    7      8           6  6             6  6     7
+ 90    26    25   19    15         22   21          28            22
+ 80                                                       30
+ 70
+ 60     30   32   39    38         36   38                        30
+ 50                                                 34    29
+
+ 40
+
+ 30     15   15     18  21         19   17          16    18      24
+ 20
+ 10     23   20     16  20         17   18          17    16      16
+
+       FY18  FY19  FY2O FY21       FY22 FY23        FY24F FY25F FY26F
+   Dom Auto       Dom Non-Auto     DExport Auto     Exp Non Auto  Others

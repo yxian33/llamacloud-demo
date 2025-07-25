@@ -1,0 +1,15 @@
+    Water Risk Rating
+              Scored between 1to 4*
+Categorised into High, Medium, Low and Negligible
+
+    Water Risk Exposure Classification    Water Risk Management
+    Scored between 1 to 4*                  Performance Score
+    (Categorised into High, Medium; Low and Negligible            Scored between 1to 4 *
+
+    Operational Risk Exposure  Supply Chain Risk Exposure         Risk Management Score      Controversy Score
+    Scored between 1 to 4*     Classified as High, Medium, and    Scored between 1 to 4 *    Scored between -10 to 0⁴⁸
+                               Low
+
+   Industry Risk Exposure    Physical Risk Exposure
+ Classified as High; Medium;and    Scored between 1 t0 48                                    Scale: 1-4 (1= high risk poor risk management)
+    Low                                                                                      Scale:-1O to 0 (0 =no controversies

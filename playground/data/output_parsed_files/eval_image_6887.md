@@ -1,0 +1,10 @@
+
+
+|                                   | SEPARATION                                                                            | FEED & BIOFUEL                                                                | PUMPS                                                                   | CLEAN AIR TECHNOLOGIES                                                 | GREEN HYDROGEN                                                                |
+| --------------------------------- | ------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ----------------------------------------------------------------------- | ---------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| Underlying mid-term market growth | 4.5-5%                                                                                | 3-4%                                                                          | 4%                                                                      | 3-10%<br/>(10% incl. carbon capture market with \~15% growth per year) | 25-30%                                                                        |
+| Current strong regional markets   | EMEA,<br/>North America,<br/>Asia (India)                                             | EMEA,<br/>APAC                                                                | EMEA,<br/>Asia                                                          | EMEA,<br/>North America                                                | EMEA,<br/>Asia                                                                |
+| Special growth opportunities      | Battery minerals, waste to energy, food valorization, desalination, plastic recycling | Plant solutions, automation and digitalization, biomass, alternative proteins | Water management, desalination, efficiency driven pump upgrade, biofuel | Emission regulations, new decarbonized production processes            | Renewable energy transition, plant solutions and complete life cycle services |
+
+
+

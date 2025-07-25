@@ -1,0 +1,15 @@
+Bailly CPO Interconnect Solution
+  51T THS Switch co-packaged with 8x 6.4T OE Chiplets (FR4)
+  Pluggable Laser Modules x16 (field serviceable/FRU)
+  Cable Assembly
+                                                           Ficnipanel
+                                                           Ports VO
+                Cable Assembly                             Conneciion
+
+  Pluqqablc
+    Laser
+  Total Lasers per system  128
+  Compare with 512 lasers for pluggable transceivers
+  Translates into better reliability
+
+                                                           BROADCOM

@@ -1,0 +1,15 @@
+  Monterey    Dumrnic  Wumany  dumrrnux    Jentchoz
+
+Fronthaul Gateway    Cell Slte Router      Metro Access
+
+                                                       Data Center
+  Fronthaul
+                       Backhaul
+
+                                                       Metro    Metro Core    Core  DCI
+  Enterprlse                                       Aggregatlon
+              Access
+
+
+  VCPE    OLT  VBNG  Metro Edge    Metro Core    DCI  Data Center    Data Center
+                                                         spine           Leaf

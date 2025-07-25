@@ -1,0 +1,13 @@
+60    2,500
+
+55    }  2,000
+
+                                                               1,500
+50
+                                                               1,000
+
+45                                                             500
+
+40
+ Mar-17  Mar-18  Mar-19  Mar-20  Mar-21  Mar-22  Mar-23  Mar-24
+         Gross Margin Ratio (%)          Share price (TWD, RHS)

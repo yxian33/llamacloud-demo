@@ -1,0 +1,10 @@
+  Property loan growth (y-y) by type
+20.0%
+
+10.0%
+
+ 0.0% 1Q21 2021 3Q021 4Q21 1Q22 2Q22 3022 4Q22 1Q23 2023 3023 4Q23
+
+-10.0%
+      Total property loans    Mortgage loans
+      Property developer loans    Subsidized housing developer loan

@@ -1,0 +1,14 @@
+ 1.0
+
+ 0.5
+
+ 0.0
+
+-0.5
+
+-1.0
+
+-1.5
+  Jan-21 Jul-21 Jan-22 Jul-22 Jan-23 Jul-23 Jan-24
+                CTA 20d beta to 10Y UST future
+                +/-2 standard deviation confidence

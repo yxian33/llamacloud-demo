@@ -1,0 +1,15 @@
+800    China  Real Estate sales (RMBbn, 3mma)    2000
+                      Tier
+700                   Tier                       1800
+
+600           Tier 2 (RHS)                       600
+                                                 1400
+500                                               200
+
+400                                              1000
+300
+200                                              600
+                                                 400
+                                                 200
+
+ Jan-10       Jan-13  Jan-16  Jan-19  Jan-22

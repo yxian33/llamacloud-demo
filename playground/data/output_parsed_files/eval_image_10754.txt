@@ -1,0 +1,12 @@
+Data center GPUs market share    Cloud market share
+
+AMD
+   Othe                          Others 1990
+
+                                 Alibabu    AWS 3906
+                                 Cloud 606
+                                 Google
+                                 Cloud 13%
+
+           Nvidia                           Microsoft
+           929                              Azure 2490

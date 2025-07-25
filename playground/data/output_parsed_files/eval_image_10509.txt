@@ -1,0 +1,15 @@
+  Supermax    As of 20-Feb-2024
+              Currency =MYR
+
+
+4.00
+
+2.50
+2.00
+
+1.0C
+0.50
+
+    2021/07/01  2022/01/01  2022/07/01  2023/01/01  2023/07/01  2024/01/01
+                Closing Price  Target Price Change  RecommeroaticnChanges
+                                                    Scurce: LSEG, Nomin

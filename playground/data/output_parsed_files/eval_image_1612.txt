@@ -1,0 +1,13 @@
+   6.0
+
+   5.0    SBI Cards
+
+   4.0    CholamanHalam    Bajaj Finance    Five Star
+1  3.0    Bajaj FinservAavas Financiers    CreditAccess Grameen
+   2.0    M&M Finance    Shriram Finance    Spandana MUTH
+
+   1.0                   LTFH               FusiomFGFL
+          LIC Housing Finance
+   0.0
+   1.0%    2.0%                  3.0%       4.0%    5.0%       6.0%    7.0%    8.0%
+                                            ROA (%) (Average FY24-26E)

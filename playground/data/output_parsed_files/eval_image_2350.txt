@@ -1,0 +1,18 @@
+       CEAT    As of 25-Jan-2024
+               Currency =INR
+3000.00
+2750.00
+2500.
+2250.00
+2000.
+1750.
+1500.
+1250.
+10oo.0o
+ 750.00
+ s00.00
+ 250.0C
+
+       2021/07/01  2022/01/01  2022/07/01  2023/01/01  2023/07/01  2024/01/01
+       Closing Price  Target PriceChange   RecommeroaticnChanges
+                                                       Scurce: LSEG, Nomin

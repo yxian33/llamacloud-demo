@@ -1,0 +1,11 @@
+2 8.0
+   6.0
+ 8 4.0
+   2.0
+2 0.0
+8 2.0
+  -4.0
+  -6.0
+      30 -25 -20 -15 -10    10 15 20 25
+      6m1y rate change (bp)
+      Change in fixed strike vol Dec present

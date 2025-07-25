@@ -1,0 +1,81 @@
+                                                                                                                       FY 2023                                      FY 2024                           Pert; Lc
+
+                                                                                                                       change in        Cons: Adj     change in     change in        Cons: Adj        perf: since
+BBG Ticker   Stock                                      Country       Industry Group                       FS Mcap Adj earnings         Earnings      revenues     Adj earnings      Earnings         31st
+                                                                                                           (S bn)      since 31 Dec     Growthrate    since 31 Dec since 31 Dec      Growth rate      Dec'23
+                                                                                                                       23               yly           23            23               yly
+2330 TT       TSMC                                       Taiwan         Semiconductors & Semi: Eqpt:            632               2%           18%        2%                   0%              18%
+005930 KS     Samsung Electronics Co., Ltd.              Korea        Technology Hardware & Equipment                            31%           749        0%                   2%              99%
+700 HK        Tencent Holdings Ltd_                     China          Media & Entertainment                                                   30%
+9988 HK       Alibaba Group Holding Limited              China          Consumer Disc. Dist: & Retail                                                                         10%
+1299 HK        AIA Group Limited                         Hong Kong      Insurance                                                                         6%
+PDD US        PDD Holdings Inc                          China           Consumer Disc. Dist. & Retail                                                                          2%
+000660 KS     SK hynix Inc_                              Korea          Semiconductors & Semi. Eqpt              93                                                           33%    20               18
+939 HK        China Construction Bank Corporation        China          Banks                                    59
+3690 HK        Meituan                                   China          Consumer Services                                                                                      5%
+2454 TT       MediaTek Inc                                Taiwan        Semiconductors & Semi: Eqpt:                                                                                                   28
+9999 HK       Netease Inc                               China          Media & Entertainment                                                                                   5%
+2317 TT        Hon Hai Precision Industry Co_ Ltd_        Taiwan      Technology Hardware & Equipment            48                                       0%                   0%
+005935 KS     Samsung Electronics (Non Voting)           Korea        Technology Hardware & Equipment           369                                                            2%              00%
+388 HK       Hong Kong Exchanges & Clearing Ltd.        HongKong        Financial Services                                       10%                                           3%               0%    (10)
+1398 HK      ICBC                                        China          Banks                              247
+3988 HK       Bank of China Limited                     China           Banks                              167
+2318 HK       PingAn Insurance (Group)                   China          Insurance                                99              10%                                                            8%
+9888 HK       Baidu; Inc, Class A                       China          Media & Entertainment                     28                                                            3%                         (16)
+9618 HK       JDcom; Inc_ Class A                       China           Consumer Disc_ Dist: & Retail                                                                          2%               4%        (12)
+2015 HK       Li Auto; Inc Class                         China          Automobiles & Components                 33                                                           20%
+1810 HK       Xiaomi Corp_ Class B                      China         Technology Hardware & Equipment            35
+1211 HK       BYD Company Limited Class H                China          Automobiles & Components
+005380 KS     Hyundai Motor Company                      Korea          Automobiles & Components                 47                                                            3%              2%/    24
+9961 HK       Tripcom Group Ltd:                         China          Consumer Services                        30                                                            0%
+000270 KS     Kia Corp.                                  Korea          Automobiles & Components                  1                                                            2%                     8
+005490 KS     POSCO Holdings Inc:                        Korea         Materials                                                                                              26%
+058270 KS     Celltrion; Inc:                            Korea          Pharma Biotech                                                                    0%                   2%
+2382 TT        Quanta Computer Inc_                       Taiwan        Technology Hardware & Equipment                    na
+035420 KS     NAVER Corp_                                Korea         Media & Entertainment                                                                             2%                               (15)
+105560 KS     KB Financial Group Inc_                    Korea          Banks                                                                                           2%                      0%    34
+2308 TT       Delta Electronics Inc_                      Taiwan        Technology Hardware & Equipment                                                                                               8
+600519 CH      Kweichow Moutai Co , Ltd. Class           China          Food Beverage & Tobacco                 296                                                      0%
+YUMC US       Yum China Holdings; Inc_                   China          Consumer Services                  17
+2303 TT       United Microelectronics Corp                Taiwan        Semiconductors & Semi. Eqpt              25
+051910 KS     LG Chem Ltd                                 Korea        Materials                                                                                                               90%        (13)
+2881 TT       Fubon Financial Holding Co., Ltd.           Taiwan        Insurance                               220
+857 HK         PetroChina Company Limited Class H        China        Energy
+2891          CTBC Financial Holding Company Ltd.        Taiwan        Banks                                     22
+006400 KS     Samsung SDI Co-, Ltd                       Korea        Technology Hardware & Equipment                                                                                                        1
+3968 HK       China Merchants Bank Co.     Ltd.          China          Banks                                   108                                                      3%
+16 HK         Sun Hung Kai Properties Limited           HongKong        Real Estate                               1
+2412 TT        Chunghwa Telecom Co , Ltd                 Taiwan         Telecommunication Services
+669 HK         Techtronic Industries Co , Ltd           HongKong        Capital Goods
+055550 KS     Shinhan Financial Group Co. Ltd,           Korea          Banks
+9901 HK        New Oriental Education & Tech Group       China          Consumer Services                                                                                                                  (6)
+373220 KS     LG Energy Solution Ltd.                    Korea          Capital Goods                                                                                                           8%
+2886 TT      Mega Financial Holding Co., Ltd             Taiwan         Banks
+2 HK          CLP Holdings Limited                      HongKong        Utilities                                98                                                                            80%
+386 HK        China Petroleum & Chemical Corporation     China        Energy                                                                                                   0%
+2882 TT       Cathay Financial Holdings Co. Lta;          Taiwan        Insurance                          24                                                                                   4%
+3711 TT       ASE Technology Holding Co ,Ltd_             Taiwan        Semiconductors & Semi: Eqpt:            102                                                            6%                          {8)
+1024 HK       Kuaishou Technology Class B                China         Media & Entertainment
+1088 HK       China ShenhuaEnergy Co. Ltd                China         Energy                              ]                                                                   2%                     12
+823 HK        Link Real Estate Investment Trust         Hong Kong      REITs                                                                                                   0%                         (16)
+035720 KS    Kakao Corp_                                 Korea          Media & Entertainment                              nm                                                                 173%
+086790 KS     Hana Financial Group Inc                   Korea          Banks
+2020 HK       ANTA Sports Products Ltd_                 China          Consumer Durables & Apparel                                                                            2%/              20%
+27 HK         Galaxy Entertainment Group Limited        Hong Kong       Consumer Services                                                      5%                       -11%                   44%        (10)
+1216 TT       Uni-President Enterprises Corp.             Taiwan        Food Beverage & Tobacco                                                                                0%              10%
+1288 HK        Agricultural Bank of China Limited       China           Banks                                                                                                  0%
+2884 TT       E.SUN Financial Holding Co ,Ltd:            Taiwan        Banks                                     1                                                      5%                           1
+012330 KS     Hyundai Mobis Co. Ltd                      Korea          Automobiles & Components
+9633 HK      Nongfu Spring Co. Ltd_                      China          Food Beverage & Tobacco                                                                                2%               6%
+3034 TT        Novatek Microelectronics Corp_             Taiwan        Semiconductors & Semi. Eqpt
+207940 KS     SAMSUNG BIOLOGICS Co:,Ltd                  Korea          Pharma Biotech                                                                                                          2%    15
+3661 TT       Alchip Technologies Ltd.                    Taiwan        Semiconductors & Semi. Eqpt:              7                                                            5%              90%    (9)
+2357 TT       Asustek Computer Inc:                       Taiwan       Technology Hardware & Equipment                                                                         0%
+028260 KS     SAMSUNG CeT CORP                           Korea          Capital Goods                                                                                                          10%     30
+247540 KS     Ecopro BM Co , Ltd.                         Korea         Capital Goods                                      -78%                                         69%                     7%    (25}
+1109 HK       China Resources Land Limited              China          Real Estate
+3231 TT        Wistron Corporation                        Taiwan       Technology Hardware & Equipment                                                                                                23
+2388 HK       BOC Hong Kong (Holdings) Limited           HongKong       Banks                                                                                                                   0%    22
+2328 HK       PICC Property & Casualty Co , Ltd.        China           Insurance                                                                                                              23%
+992 HK         Lenovo Group Limited                      China        Technology Hardware & Equipment                                                     2%            10%                    44%    04
+2892 TT       First Financial Holding Co. Ltd.           Taiwan         Banks                                                                             2%                   0%               4%

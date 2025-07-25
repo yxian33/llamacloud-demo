@@ -1,0 +1,13 @@
+    MOBILE COMMUNICATIONS    AUTOMOTIVE & INDUSTRIAL    SMART DEVICES
+
+
+  Connect RF-SOI  Connect FD-SOI          Connect POI    Auto Power-Sol              Auto FD-SOl               Smart FD-SOI  Smart Imager-SOI
+ For nghyefricent  Inzeg-ated technology  Hghperfonnance  Powe- managementICNN,  MCUs, ADAS radarzs,    Crossover : CUs, connected    Forimproved imager
+mobile communiajon                          Scfilters    SBC, BMS & gate drivers      ADASvision            MCUs, slable FPCAs             petomanceMNIR
+
+
+    Si0 50
+
+    Connect RF-CaN      Connect SmartCaN    Auto SmartSicTh          Auto SmartGaN        Smart Photonics-SOl        Smart PD-SOI
+    Hictrpero mnance    RF pe -fomnance,    Autothnotne              DC-DC converters     Optici  Tansceiversand    Hgh-pe fomance
+    poweramplifen       PA integraton writhSwitch    electihaton     &On-board chingen    Co-Fackaged Opta (CPOI      computing

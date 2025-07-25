@@ -1,0 +1,21 @@
+        Dabur India    As of 20-Feb-2024
+
+750.                   Currency =INR
+700.0C
+650.
+600.OC
+550.
+s00.OC
+450.
+400.OC
+350.
+300.0C
+250.
+200.0C
+150.
+1Co.OC
+ 50.0C
+
+        2021/07/01  2022/01/01  2022/07/01  2023/01/01  2023/07/01  2024/01/01
+        Closing Price  Target Pricechange   RecommeroaticnChanges
+                                                        Scurce: LSEG, Nomin

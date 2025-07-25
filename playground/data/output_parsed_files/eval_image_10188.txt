@@ -1,0 +1,75 @@
+                 Index Name             Latest                  1W           Performance (%)
+FShanghai Composite (China)                    2,866                       IM          3M               6M                YTD          1Y
+                                                                    0.0      (1.0)                         9.0)                            (11.8)
+ CSI 300 (China)                          3,365                     0.0      1.9        5.8)            (11.9)             (1.9)       (17.8)
+ Hang Seng(Hong Kong)                         16,340                3.8         3.0     8.41            (10.9)             (4.2)           (22.1)
+ s&P BSE Sensex 30 (India)               72,427                     1.2     (1.0)            9.8                  10.5      0.3         18.1
+ CNX Nifty50 (India)                     22,041                                 0.0     11.5                      13.2      1.4             22.2
+ Jakarta Composite (Indonesia)                 7,336                            1.3          5.4                   6.3          0.9          6.4
+ KOSPI South Korea)                            2,649                          6.1            6.5                   4.9     (0.3)             7.0
+ FTSE Bursa Malaysia KLCI (Malaysia)      1,534                                 2.7          4.7            4.8                 5.4          3.3
+ Philippines SE (PSEI) (Philippines)           6,873                0.3         3.6     11.0                       7.2      6.6              0.8
+ Strait Times Index (Singapore)           3,222                                            4 2.8            0.3            (0.6)          (2.7)
+ Taiwan SE Taiwan)                       18,607                     2.8                      8.4          13.1                  3.8      19.7
+ SET (Thailand)                                1,386            (0.2)                   (2.1)              (8.8)          (2.1)        (16.4)
+ Nikkei 225 (Japan)                      38,487                     4.3      8.1            15.2              21.2        15.0             39.0
+ TOPIX (Japan)                                 2,625                2.6         4.8         10.8         16.1             10.9             31.2
+ s&P 500 (USA)                                 5,006            (0.4)        5.0        11.0                  13.7              4.9        22.4
+ MSCI China USS                           53.0                                  2.2            (8.8)    (11.7)             (4.5)           (23.0)
+ MSCIHong Kong USS                                    8125.2        2.6         1.8            (5.7)       (8.4)           (5.5)           (22.4)
+ MSCI India USS                                        967.0        1.3         2.8         15.6                  19.3      4.9             30.1
+ MSCI Indonesia USS                                    835.0        2.9      2.6             8.2                   1.5      3.1              3.0
+ MSCI Korea USS                                        489.2        0.2         6.2          3.3                   6.2     (4.3)             5.0
+ MSCI Malaysia US$                                     250.7        1.4         0.6          1.5                   0.3      0.3           (6.4)
+ MSCI Philippines US$                                  448.2        0.2         3.5     11.6                       9.9          5.3          2.0
+ MSCI Singapore USS                                   3050.9     3.1            2.9          4.2                   2.9     (1.6)          (5.5)
+ MSCI Taiwan USS                          659.4                     3.2       9.6       12.4                  17.0          3.2             15.3
+ MSCI Thailand USS                                     319.2    (0.3)        (2.6)      (4.5)           (11.0)             (7.7)       (19.2)
+ MSCI Japan USS                                       3893.8        2.3       3.1           11.6                  14.2      5.3             18.8
+ MSCI USA USS                             4775.1                (0.4)         5.1           11.3          14.1                  4.9         22.6
+ MSCI UK USS                                          1160.2        1.5           4          5.4            4.0             4)             0.7
+ MSCI ASEAN USS                                        626.5        1.9                      3.4           (0.2)           (1.0)          (6.5)
+ MSCI Asia ex Japan USS                                635.8        2.4                      2.6                   2.8     (0.9)           (3
+ MSCI Europe US $                                     2023.6    1.2          2.9             7.9               6.6          0.2              6.6
+ MSCI Europe ex UK USS                                2531.6    1.1             3.3          8.6                  7.44      0.6              8.5
+ MSCI Emerging Markets USS                            1016.2     2.1          3.7            3.5           4.1             (0.               0.5
+ MSCI World USS                           3285.                  0.1          4.4       10.5                      12.3                     17.7
+ MSCI Asia ex Japan Growth USS                         181.6        2.9        44       1.2                1.44            (1.0)           (6.13
+ MSCI Asia ex Japan Value USS                          136.0    1.8             3.9     ;                   4.4                              0.2
+ MSCI Asia ex Japan Momentum USS          4596.=                    2.9      7.8                                   0.8      3.3            4.5
+ MSCI ASEAN Growth USS                                 358.2                                               0.4
+                                                                                                           (1              (0.
+ MSCI ASEAN Value USS                                  915.4        1.7        2        3.                                  2)             (11.3)
+ SPX Growth USS                                       3268.4     2.1                         3.3                           (1 .           (1.6)
+ SPX Value USS                                                  (1.4)                   12.7                      16.3      7.9             30.1
+ SPX Pure Growth USS                              1746.0            0.8                      9.2                  10.6      1.6             14.1
+ SPX Pure Value USS                     17546.4                 (0.2)           8.2         15.3                  12.6      7.8          11.6
+                                                      8248.7    1.0          2.4            11.4           6.9             (0.1)           (3.9)
+  Brent Oil                                         84.3                        5.2          8.5           (0.2)           8.6             0.6
+                                                      2198.7                    1.7                                4.9      .9)
+  LME Aluminium                                                     0.6                                                    (6              (6.6)
+ LME Copper                                           8223.0                 0.7
+ LME Nickel                             16006.5                     2.0     (0.                                     13     (2.             (8.6)
+ Gold Bullion                             2010.1                    2.2                                 (18.0)             (2.3)        (39.
+                                                                (0.6)       (1_
+ GSCI Industrial Metal                                 403.0                   3                                   5.6     (2.7)
+ DXY Index                                             104.3    1.4         (0.                            0.3             (4.          (11.9
+ MSCI EM Currency Index                               1725.2        0.2         0.9                                0.8      2.9            0.4
+                                                                                                                           (0
+                                                                 0.1                                       3.4              2)
+ JPY                                                   150.2                 (2.2)      0.                 (2.9)                        (10.
+ CNY                                                     7.2                                 0.8                   1.3
+ INR                                                    83.0                                 0.3           (0.1)
+                                                      1335.5                            (2.
+  KRW                                                                                        9)            0.1
+ IDR                                    15620.0                                         (0.                (2.2)
+ THB                                                36.0                                         .5)       (1.8)
+ SGD                                                  13                                     0.0           0.9             (2.0)
+ MYR                                                 4.8                                       (1.9)       (3.2)
+ TWD                                                    31.4                            2.1
+ HKD                                                 7.8                                       (0.2)                       (0
+  PHP                                                   56.0                                   (0.3)       1.0                             (1.5)1
+ US 10 year yield (bps)                         4.28               0.10      0.18       (0.16)             0.02           0.40             0.42
+ US 2 year yield (bps)                          4.64               0.16        0.28     (0.24)          (0.30)            0.39              0.00
+ US 10 year Real yield (bps)                    1.95               0.03        0.15     (0.21)           0.01             0.24              0.46
+ US 10 BE (bps)                                 2.33               0.08      0.03       0.04               0.02           0.16         (0.04)

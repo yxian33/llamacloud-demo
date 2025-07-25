@@ -1,0 +1,21 @@
+100        100  95                95
+     90                                                                   83
+     80                             68                                      70
+ 70                                       62                 61           56
+
+     60
+
+     50
+
+     40
+
+     30
+
+     20
+ 10
+
+ 0
+           China  China dept      China  China DFS  China    K-DFS        K-DFS  Korea  K-DFS
+           official price  store  online           online    resellers    resellers (K- department
+                                 flagship           Shoppping (G-brands)  brands)  store
+                                                    festival

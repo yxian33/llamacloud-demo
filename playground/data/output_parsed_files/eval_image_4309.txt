@@ -1,0 +1,20 @@
+          JD Health    As of 07-Mar-2024
+                       Currency =pKD
+130.0C
+120.00
+110.00
+100.OC
+ 90.00
+ 80.00    Hnb
+ 70.o
+
+ 60.00
+ 50.00
+ 40.00
+ 30.00
+ 20.00
+ 10.00
+
+          2021/07/01  2022/01/01  2022/07/01  2023/01/01  2023/07/01  2024/01/01
+                      Closing Price  Target Price Change  RecommeroaticnChanges
+                                                          Scurce: LSEG, Nomin

@@ -1,0 +1,30 @@
+3m revision to 2024 EPS estimates (USD)
+
+ Market  Energy  Basic  Cons. Disc  Cons_  Technology  Utiltiies
+Asia  Materials  Financials Industrials  Staples  Health Care Telecoms  Real Estate
+India  P  -8%  %  22%  "2%  %  1%  -9%  %  3%
+Indonesia  -2%  %  -14%  %  0%  6%  -4%  9%  -2%  -16%  %
+Mainland China  -4%  -4%  -8%  22%  -10%  -4%  5%  22%  -9%  %  3%  11%
+Malaysia  -2%  -1%  -12%  )%  22%  2%  3%  -4%  22%  3%
+Pakistan  4%  4%
+Philippines  3%  -9%  22%  %  3%  -18%  3%
+South Korea  4%  16%  "21%  4%  A17%  %  %  374%
+Taiwan  %  -7%  -6%  5%  %  22%  %  355%  4%  s%
+Thailand  -7%  -7%  223%  6%  -12%  -6%  6%  2%  4%  -7%  s%
+EMEA
+Czech Republic  %  2%  59
+Egypt  14%  15%  5%  %
+Greece  5%  5%  5%  3%  3%  72%
+Hungary  %  -8%  3%  22%  %
+Kuwait  %  4%  10%  2%
+Poland  '%  31%  -11%  '%  %
+Qatar  4%  3%  %  %  3%  3%
+Saudi Arabia  -8%  229%  %  4%  %  1%  1%  %
+South Africa  %  -12%  22%  3%  -3%  4%  -5%  A16%  22%
+Turkiye  9%  %  -6%  4%  -12%  %  3%
+UAE  %  6%  2%  22%  3%  6%
+LatAm
+Brazil  %  2%  10%  %
+Chile  22%  -8%  336%  13%  12%  -8%  47%  9%
+Colombia  22%  ~6%  -1%  1%
+Mexico  1%  -7%  3%  4%  %  %

@@ -1,0 +1,20 @@
+     Primax    As of 21-Feb-2024
+               Currency
+
+80.0C
+75.0C
+
+
+55.0C
+50.00
+
+
+30.0C
+25.00
+
+15.0C
+10.0C
+
+     2021/07/01  2022/01/01  2022/07/01  2023/01/01  2023/07/01  2024/01/01
+     Closing Price  Target Pricechange   RecommeroaticnChanges
+                                                     Scurce: LSEG, Nomin

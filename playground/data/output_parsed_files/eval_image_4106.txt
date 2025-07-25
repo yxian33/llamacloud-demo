@@ -1,0 +1,9 @@
+20.0    % )    (inflation rate    Election
+17.5           unemployment rate)    Day
+15.0
+12.5
+10.0
+7.5            Month preceding
+ 5.0           presidential election
+2.5            marked
+   1960        1970  1980  1990     2000  2010  2020

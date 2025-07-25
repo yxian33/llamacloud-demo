@@ -1,0 +1,29 @@
+BNP Paribas GDP growth forecasts
+ Developed Markets    ANNUAL GROWTH (% yly)                        QUARTERLY GROWTH (% qlq)
+
+                      2023      2024          2025   2023  2023     2023  2023   2024  2024     2024  2024
+                                                                     03           Q1                  Q4
+ US                   2.5       2.0           1.4
+ Eurozone             0.5                     1.6
+ Germany                                       1
+  France              0.9
+  Italy                                       23
+  Spain               2.5           1.8
+ China                5.2       4.5
+ Japan                1.9           0.4       0.9                  0.8
+ UK                   0.1       -0.           1.1    0.3                    0.3
+
+BNP Paribas consumer price inflation forecasts
+ Developed Markets    ANNUAL RATE (% yly)                          QUARTERLY RATE (% yly)
+
+                      2023      2024          2025  2023    2023    2023  2023   2024  2024   2024    2024
+                                                     Q1      02      03     Q4    Q1     02    03      04
+ US                                           2.3           4.0             3.2          2.9         2.6
+ Eurozone             5.4                     1.9                     2.7                2.3         2.0
+  Germany                                     2.0           6.9             3.0          2.2         2.2
+  France                                      1.8                     4.2                2.3         2.0
+  Italy               6.0                     1.8           7.8       3.3                1.2         1.4
+  Spain               3.4                      28           2.8                          3.0         2.4
+ China                0.2                     2.0                                        1.5         1.8
+ Japan                3.2                                   3.4             2.9          2.4         1.9
+ UK                   7.4                     2.4                     4.2                1.5

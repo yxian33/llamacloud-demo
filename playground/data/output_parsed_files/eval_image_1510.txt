@@ -1,0 +1,14 @@
+200    Freigtos Container Index    900
+180    Oil (Brent)                 700
+180    European Natural Gas (rhs)  500
+140
+120                              L 300
+100                                100
+
+                                   100
+
+                                   -300
+
+                                   500
+
+                                   ~700

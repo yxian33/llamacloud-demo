@@ -1,0 +1,16 @@
+    Sixpack
+
+                    Sixpack
+
+   Single side
+  direct cooling           Half-bridge
+ 7S50uIGBT dlode                      Hall- bridge
+
+ Single side                                      Half-bridge                                           Half-bridge
+direct cooling             Single side
+                    750v, 1200v Sic MOSFET indirect cooling
+                           7SQv, 1200 Sic MOSFET           Single side    Single side
+                                                           indirect cooling  indirect cooling
+                                                           750v, 1200 Sic MOSFET 750v, 1200 Sic MOSFET  Dual side
+                                                                                                        indirect cooling
+                                                                                                        1200 SIc MOSFET

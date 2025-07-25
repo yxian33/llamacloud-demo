@@ -1,0 +1,9 @@
+          exio bas e                                  Wunderpus V2.13
+
+Exiobase is a global, multi-regional input-output     Input-output table based on Exiobase 3 but
+table.                                                extended to be more granular
+44 countries, 5 Regions                               259 regions
+200 products & services                               2,200 products & services
+ 163 industries                                       1,200 sectors
+ The hybrid supply-use and input-output tables of    Yearly updated with 41 different inflation rates
+ EXIOBASE are available for the year 2011

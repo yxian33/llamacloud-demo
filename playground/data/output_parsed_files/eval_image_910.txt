@@ -1,0 +1,13 @@
+       Impact on RoA (bps FY26F)
+       s0bp rate cut  75bp rate cut       1OObp rate cut
+ 60
+
+ 40                   22                  25  2433      2939
+
+20     8 12           1216  13 19             16        20
+
+-20    44-5-6
+       -23
+-40    333
+          -42
+-60          2  8     2                8      8           8

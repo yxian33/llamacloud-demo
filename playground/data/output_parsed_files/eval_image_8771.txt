@@ -1,0 +1,24 @@
+         Orion
+              07-Fek-2024
+              Currency =KRW
+ 7oooo.oC
+160ooo.0C
+150000
+ 40000
+ 30000.
+ 20ooo.OC
+1100oo.OC
+1coooo.
+ 90ooo
+ 80o00.
+ 70ooo.oC
+ 6oooo.OC
+ s0ooo.
+ 400oo.
+ 30ooo.OC
+ 20ooo.0o
+ 1oooo.OC
+
+         2021/07/01  2022/01/01  2022/07/01  2023/01/01  2023/07/01  2024/01/01
+         Closing Price  Target PriceChange   RecommeroaticnChanges
+                                                         Scurce: LSEG, Nomin

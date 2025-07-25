@@ -1,0 +1,12 @@
+ ARISTA
+800G Linear Pluggable Optics (LPO)
+ 15 pJIBit    SiPh    TFLN
+              12 pJIBit
+
+                       8 pJIBit
+                               6.3 pJIBit
+
+                                         Roughly 50% less power
+                                         than DSP based Optics
+
+ ICOG Snm DSP          1OOG LD

@@ -1,0 +1,15 @@
+        Raw Material Manufacturer
+Material
+        Tier-3/4/5 suppliers
+Part
+        Tier-? component suppliers
+Partlmodule
+    Tier-1 modulelsystem suppliers    Spare Parts
+Partlsystem
+        Vehicle OEM Manufacturers
+Vehicle/Spare Part
+                    Distributors
+Vehicle/Spare Part  Dealership
+
+Vehicle/Spare Part
+                    Consumer

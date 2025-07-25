@@ -1,0 +1,16 @@
+120    FY24 EPS USS (Indexed =100)
+ 115
+110
+ 105
+100
+ 95
+ 90
+ 85
+ 80
+ :
+ 55
+
+
+    AeJ            Autos              Mats          CapGds
+    Com/Prof Svcs  Cons. Durables     Cons Srvc.     Rtlng
+    Energy         Fd/Stpl Rtl       Media/Ent       Tpt.

@@ -1,0 +1,13 @@
+ 3.0
+  25                                                                     160
+  20                                                                     140
+  15                                                                     120
+ 1.0
+  05                                                                                                    3
+
+ 0.5
+-1.0
+11.5
+ 220    THB CNY COP CZK BRL IDR MR PLN RON MN PEN ZAR HUF CLP
+
+        Duration Returns (YTD)  Coupon Retums (Y TD)  1FI Returns (YTD)  1OY Yield Volatility (60D, RHS)

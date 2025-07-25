@@ -1,0 +1,22 @@
+         LiAuto Inc_
+
+                    Currency =USD
+55.0C
+
+50.00
+
+45.00
+
+35.00    MMNN
+
+25.0C
+
+20.00
+15.0C
+
+10.00
+
+
+  2021/07/01  2022/01/01  2022/07/01  2023/01/01  2023/07/01  202+/01/01
+              Closing Price  Target Pricechange  RecommeroaticnChanges
+                                                  Scurce: LSEG, Nomin

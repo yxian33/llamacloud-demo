@@ -1,0 +1,24 @@
+ 8,000_000
+ 7,000,000
+ 6,000,000
+ 5,000,000
+ 4,000,000
+ 3,000,000
+ 2,000,000
+ 1,000,000
+
+-1,000,000
+
+          1QFY11
+            AQFY11 2QFY13    4QFY20  1QFY23
+                3QFY12 1QFY14        4QFY23
+                             4QFY14
+                                 3QFY15
+                                   2QFY16
+                                       1QFY17
+                                         4QFY17
+                                             3QFY18
+                                               2QFY19
+                                                   1QFY2O 3QFY21
+  2QFY1O                                             2QFY22     3QFY24
+  Financials (T12M, INR mn)        Non Financials (T12M, INR mn)

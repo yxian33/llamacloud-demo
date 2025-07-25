@@ -1,0 +1,22 @@
+            Doosan Fuel Cell
+                            As of 14-Feb-2024
+
+7s000.00                    Currency =KRW
+70ooo.0o
+6s0oo.00
+60ooo.oC
+55000.
+s0ooo.
+45000.
+400o0.
+350oo.0C
+30000.
+25000
+2cooo.OC
+ 5000.
+1cooo.OC
+ s0oo.OC
+
+            2021/07/01  2022/01/01  2022/07/01  2023/01/01  2023/07/01  2024/01/01
+            Closing Price  Target PriceChange   RecommeroaticnChanges
+                                                            Scurce: LSEG, Nomin

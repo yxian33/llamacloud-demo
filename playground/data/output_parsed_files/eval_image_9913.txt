@@ -1,0 +1,16 @@
+            Industrials EVIEBITDA 1 Yr Fwd
+                        Post Covid 3Yr  Average
+                        + 1 SD
+                        SD
+                        Pre Covid 1 Yr  Average
+  50.0
+  45.0                                         4
+  40.0
+  35.0
+  30.0      7t
+  25.0      Lw
+  20.0
+      15.0
+      10.0
+
+12/22/2018  12/22/2019  12/22/2020  12/22/2021  12/22/2022  12/22/2023

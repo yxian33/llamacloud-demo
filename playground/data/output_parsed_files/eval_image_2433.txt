@@ -1,0 +1,14 @@
+ 1.00
+ 0.75
+ 0.50
+ 0.25
+
+ 0 0.00
+~0.25
+~0.50
+-0.75
+
+   -1300
+    2019  2020  2021  2022     2023              2024
+                CTA equity beta
+                9oth percentile, expanding window

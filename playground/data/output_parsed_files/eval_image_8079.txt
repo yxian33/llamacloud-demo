@@ -1,0 +1,19 @@
+         Kia Corp                                                08-Fek-2024
+                                                               Currency =KRW
+130000.00
+120000.
+110000.00
+10oooo.
+ 90ooo.OC
+ 80000.
+ 70ooo.0o
+ 60o00.=
+ soooo.0o
+ 40ooo.
+ 30ooo.0o
+ 20000.=
+ 1oooo.0o
+
+         2021/07/01  2022/01/01  2022/07/01  2023/01/01  2023/07/01  2024/01/01
+         Closing Price  Target PriceChange   RecommeroaticnChanges
+                                                         Scurce: LSEG, Nomin

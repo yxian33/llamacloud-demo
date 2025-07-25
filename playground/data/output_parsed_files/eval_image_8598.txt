@@ -1,0 +1,14 @@
+    200                                   800
+    180                                   700
+    160    Nnw                            600
+140
+    120                                   500
+    100                                   400
+     80                                   300
+     60                                   200
+ 40
+ 20                                       100
+  0
+
+           Hu Lane share price (TWD)
+           Hu Lane monthly sales (TWDmn, 3MA)

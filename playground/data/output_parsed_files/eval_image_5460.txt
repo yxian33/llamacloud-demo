@@ -1,0 +1,22 @@
+OpenAI's DALL-E (text-to        2021
+image) model was launched
+
+ First version of ChatGPT
+ was launched, based on         2022
+ GPT-3.5 (text only)
+                                                                                                          OpenAI: Sora GPT-5?
+  GPT-4 was born which      Mar 2023  Runway's Gen 2 LLM was
+  incorporates text-to-image          released, with text-to-video                                        2024
+  capabilities                        functions (~Ss)
+                                                     OpenAI's GPT-4V(ision)    Google's multimodal
+                                                     released with multimodal               LLM Gemini 1.0
+                                                     capabilities                           released
+
+                                      May 2023       Sep 2023         Oct 2023              Dec 2023
+
+                                      Google launched                          Baidu s Ernie 4.0 was
+                                      Palm2 with text-to-             launched, with text-to-
+                                      image capabilities              image capabilities                  2024
+
+                                                                                                              Google: Gemini 1.5 /
+                                                                                                              Gemini 2.0?

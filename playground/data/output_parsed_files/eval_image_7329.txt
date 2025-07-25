@@ -1,0 +1,18 @@
+ 2.00
+
+ 1.75
+
+ 1.50
+
+ 1.25
+
+J1.00
+ 0.75
+
+ 0.50
+
+ 0.25
+
+ 0.00
+  Jan-22    Jul-22    Jan-23    Jul-23    Jan-24
+                      Alphabet  NVDIA  Tesla    Meta

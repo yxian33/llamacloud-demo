@@ -1,0 +1,19 @@
+      Alibaba Group Holding    As of 27-Feb-2024
+                               Currency =USD
+325.0C
+300.0C
+275.00
+250.
+225.0C
+200.0C
+175.00
+150.0C
+125.00
+1Co.OC
+ 75.00
+ 50.00
+ 25.00
+
+      2021/07/01  2022/01/01  2022/07/01  2023/01/01  2023/07/01  2024/01/01
+      Closing Price  Target PriceChange   RecommeroaticnChanges
+                                                      Scurce: LSEG, Nomin

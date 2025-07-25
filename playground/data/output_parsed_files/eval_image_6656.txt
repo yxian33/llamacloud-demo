@@ -1,0 +1,20 @@
+     Ping An    As of 03-Mar-2024
+                    Currency =CNY
+90.0C
+85.0C
+80.0C
+75.0C
+
+
+55.0C    MnNW
+50.OC
+45 06
+40.0C
+
+
+15.0C
+10.0C
+
+     2021/07/01  2022/01/01  2022/07/01  2023/01/01  2023/07/01  2024/01/01
+                 Closing Price  Target PriceChange  RecommeroaticnChanges
+                                                     Scurce: LSEG, Nomin

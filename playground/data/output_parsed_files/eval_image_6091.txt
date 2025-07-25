@@ -1,0 +1,23 @@
+          BYD
+             08-Fek-2024
+
+400.OC       Currency =pKD
+375.00
+350.0C
+325.0C
+300.00
+275.00
+250.
+225.00
+200.00
+175.0C
+150.00
+125.00
+100.
+ 75.00
+ 50.0C
+ 25.0C
+
+          2021/07/01  2022/01/01  2022/07/01  2023/01/01  2023/07/01  2021'01/01
+          Closing Price  Target Pricechange   RecommeroaticnChanges
+                                                          Scurce: LSEG, Nomin

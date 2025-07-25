@@ -1,0 +1,27 @@
+
+
+| EBIT Margins (ex Fin/RE)        | Pre-Earnings Season<br/>FY2023 | Pre-Earnings Season<br/>FY2024 | Post-Earnings Season<br/>FY2023 | Post-Earnings Season<br/>FY2024 |
+| ------------------------------- | ------------------------------ | ------------------------------ | ------------------------------- | ------------------------------- |
+| Semi. & Semi. Eqpt.             | 22.2%                          | 28.2%                          | 22.4%                           | 28.7%                           |
+| Tech. Hardware & Eqpt.          | 3.1%                           | 6.2%                           | 3.0%                            | 6.0%                            |
+| Media & Ent.                    | 20.3%                          | 21.8%                          | 20.2%                           | 21.9%                           |
+| Cons Discretionary Dist/Retail  | 8.9%                           | 9.5%                           | 8.0%                            | 8.9%                            |
+| Energy                          | 8.0%                           | 7.8%                           | 8.1%                            | 7.8%                            |
+| Consumer Services               | 10.8%                          | 12.7%                          | 10.7%                           | 12.2%                           |
+| Software & Svcs.                | 17.1%                          | 18.0%                          | 17.0%                           | 17.9%                           |
+| Automobiles & Comp.             | 6.3%                           | 6.3%                           | 6.3%                            | 6.4%                            |
+| Household & Personal Products   | 13.6%                          | 15.3%                          | 13.5%                           | 15.1%                           |
+| Materials                       | 6.3%                           | 7.8%                           | 5.7%                            | 7.1%                            |
+| Telecommunication Svcs.         | 15.7%                          | 16.6%                          | 15.6%                           | 16.6%                           |
+| Pharma. Biotec. & Life Sci.     | 14.8%                          | 15.8%                          | 14.5%                           | 15.8%                           |
+| Capital Goods                   | 6.7%                           | 7.9%                           | 6.3%                            | 7.6%                            |
+| Food Beverage & Tobacco         | 9.5%                           | 10.7%                          | 9.4%                            | 10.5%                           |
+| Consumer Durables & Apparel     | 8.6%                           | 9.3%                           | 8.2%                            | 8.8%                            |
+| Utilities                       | 10.7%                          | 13.3%                          | 11.0%                           | 14.6%                           |
+| Transportation                  | 12.7%                          | 11.9%                          | 12.6%                           | 13.2%                           |
+| Cons Staples Dist/Retail        | 4.2%                           | 4.5%                           | 4.2%                            | 4.5%                            |
+| Health Care Eqpt. & Svcs.       | 5.0%                           | 5.0%                           | 5.0%                            | 5.0%                            |
+| Commercial & Professional Svcs. | 19.9%                          | 19.6%                          | 19.9%                           | 19.8%                           |
+
+
+

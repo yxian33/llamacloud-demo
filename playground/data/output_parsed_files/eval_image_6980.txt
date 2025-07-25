@@ -1,0 +1,24 @@
+  Risk parity VIX                       curve        8  2 8  6
+                                   CTA EQ alloc.
+  Us equity                       USD !     beta
+  Money                     market fund     beta
+  Vottarget 3m flow*
+  Short int;                            E0alloc.
+  Shortᵁˢ     equity
+  MA fund                               ETFs*
+  int equity  equity                    beta
+                              CFTCbond ETFs*
+                                  risk on/off `               5
+  jI                                   CAPCA                 8
+              Risk                          MASK*             2
+  8                                      appetite             8
+       EQ     CTFC                          MOVE*
+           momentum                      equities
+       HSBC  Cross                      indicator
+             E0     asset
+Aggregate        sentiment              Rst
+             Avg:  CTA                equityindex
+             contrarian  survey         beta
+                         sell           sentiment
+                               signal  (RHS) ~
+                                                     6   8 8 8  8  8

@@ -1,0 +1,27 @@
+      AIA
+         As of 14-Mar-2024
+         Currerc =pKD
+
+100.
+
+ 90.00
+
+ 80 00
+
+ 70.00
+
+ 60.00
+
+ 50.0C
+
+ 40.00
+
+ 30.00
+
+ 20.0C
+
+ 10.0C
+
+      2021/07/01  2022/01/01  2022/07/01  2023/01/01  2023/07/01  2024/01/01
+                  Closing Price  Target Pricechange  RecommeroaticnChanges
+                                                      Scurce: LSEG, Nomin

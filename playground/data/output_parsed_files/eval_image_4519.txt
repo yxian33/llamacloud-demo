@@ -1,0 +1,8 @@
+    T0y UST
+    Fitted
+    +-1Standarddeviation
+    Model-implied
+    BNPP Forecast
+
+
+Jan-20  Jan-21  Jan-22  Jan23

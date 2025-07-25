@@ -1,0 +1,22 @@
+      GAIL
+          As of 10-Mar-2024
+          Currency =INR
+200.0C
+
+175.00
+
+150.00
+
+125.00
+
+100.OC
+
+ 75.00
+
+ 50.0C
+
+ 25.00
+
+      2021/07/01  2022/01/01  2022/07/01  2023/01/01  2023/07/01  2024/01/01
+                  Closing Price  Target PriceChange  RecommeroaticnChanges
+                                                      Scurce: LSEG, Nomin

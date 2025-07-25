@@ -1,0 +1,17 @@
+-1,000
+
+ -2,000    net cash
+
+ -3,000    net cash  net cash
+
+ -4,000                      net cash
+
+ -5,000
+
+ -6,000    net cash                  net cash
+
+ -7,000
+
+ -8,000    FY22        FY23  FY24F  FY2SF  FY26F  FYZ7F  net cash
+                                                         FY28F
+  Net debt and Net debt/EBITDA ratio

@@ -1,0 +1,8 @@
+bp     2025: +Obp LR: +Obp  2025: +25bp LR: +Obp
+ 12    2025. +25bp LR: +25bp  2025. +50bp LR: +25bp
+ 10
+
+
+ -4
+
+   10s  30s  1Oy Real  1Oy Bei

@@ -1,0 +1,9 @@
+ 10.0    KLCI Index  MSCI Malaysia ESG Leaders Index
+  5.0
+  0.0                Am
+ -5.0
+-10.0
+-15.0
+-20.0
+-25.0
+330.0

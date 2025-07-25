@@ -1,0 +1,18 @@
+     Mobileye, NVDA & QCOM automotive chip revenue
+
+  650
+  600
+  550
+[ 500
+  450
+@ 400
+  350
+0 300
+  250
+  200
+  150
+  100
+  50
+
+
+  Mobileye (Intel)    NVDA    QCOM

@@ -1,0 +1,22 @@
+S1OObn
+ s9Obn
+ s8Obn
+ S7Obn
+ sb0bn
+ S5Obn
+ S4Obn
+ S3Obn
+ S2Obn
+ S1Obn
+  SObn
+
+      10-20    10-21    10-22
+    40-19  20-20        40-21    30-23
+               30-20
+               40-20    20-21
+                        30-21    20-22
+                                 30-22
+                                      4Q-22
+                                      10-23
+                                           20-23  40-23
+               BREIT    BCRED  BXPE  ECRED  BEPIF

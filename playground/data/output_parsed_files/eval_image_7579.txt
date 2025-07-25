@@ -1,0 +1,11 @@
+   US change in z-score VS previous week       Eurozone change in z-score vs previous week
+   ISM Piices Paid                             ES Core CPI              Change in DSI
+   Pending Home Sales                          EZ Core HICP             Change in ES
+     PCE Chain Type Price Index               EZM3 groxth
+           PCE Core Price Index                   ES HICP
+          Real Persona Spending                ES Manufactunng PMI
+   Conference Board Consumier.                 DE Manufacturing PMI
+   S&P CoreLogic CS 20-City                       FR HICP
+               Auto Sales Total      EZ Manufacturing PMI
+         Makit Manufacturng PMI      Chang?    DE GiK consunte confdence
+Dallas Fed Manufactunng Activity     Change    EZ Consumer confdence

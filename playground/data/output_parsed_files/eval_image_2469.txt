@@ -1,0 +1,11 @@
+(kUSDIday)           New contract rate (LHS)    (%)
+ 800                 Utilization (RHS)                 120
+
+ 600                                                   100
+
+ 400                 Lh L                       80
+
+ 200                 VY                                60
+
+                                                       40
+   01/14      01/16  01/18  01/20               01/22  01/24

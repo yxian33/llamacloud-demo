@@ -1,0 +1,16 @@
+        NVDA revenue by segment
+  24,000
+  22,000
+  20,000
+! 18,000
+  16,000
+@ 14,000
+0 12,000
+  10,000
+   8,000
+   6,000
+   4,000
+   2,000
+
+
+  Gaming  Professional Visualization  Data Center  Automotive  OEM & Other  Total

@@ -1,0 +1,11 @@
+  180
+  170
+  160
+2 150
+  140
+  130           MSCI US ex-financials
+  120           MSCI Europe ex-financials
+  110
+  100
+
+         4  1  0

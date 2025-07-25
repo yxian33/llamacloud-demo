@@ -1,0 +1,11 @@
+300     China PPI (% yly) , rns                     15.0
+250     China containerized freight index Ihs       12.5
+200    Shanghai containerized freight          Ihs  10.0
+150                                                  7.5
+100                                                  5.0
+ 50                                                  2.5
+                                                     0.0
+                                                     -.5
+-50                                                 5.0
+100                                                 -7.5
+       2014  2016  2018            2020 2022   2024

@@ -1,0 +1,11 @@
+             Headline HICP           Core HICP
+
+      Mar:    Dec     BNPP    Mar.     Dec    BNPP
+      ECB     ECB             ECB      ECB
+2023  5.5     5.5     5.5     5.0      5.0    5.0
+
+2024  2.4     2.7     21      2.6     2.7     2.3
+
+2025  21      21      1.9     22      2.3     22
+
+2026  2.0     1.9     NVA     21      21      NYA

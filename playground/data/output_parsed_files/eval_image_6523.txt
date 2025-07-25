@@ -1,0 +1,18 @@
+       Foryou    08-Fek-2024
+               Currency =CNY
+
+  60.00
+
+  50.c
+
+
+35.00    Mlim
+
+
+  20.00
+  15.0C
+  10.00
+
+       2021/07/01  2022/01/01  2022/07/01  2023/01/01  2023/07/01  202+/01/01
+       Closing Price  Target PriceChange   RecommeroaticnChanges
+                                                       Scurce: LSEG, Nomin

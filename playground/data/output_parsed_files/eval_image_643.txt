@@ -1,0 +1,14 @@
+Why Co-Packaged Optics (CPO)?
+
+                                                    POWER COMPARISON
+   Lowest CostiBit                                  1OOGllane    20OGllane
+   Massive reduction in components and interconnects
+                                                    Pluggable    Pluggable
+                                                    14wI8OOG     25wI1.6T
+
+              Power/Performance Leadership          LPO             LPO
+   Eliminate electrical interconnect power          9w/8OOG         TBD
+
+                                                    CPO             CPO
+   Increased Reliability                            swI8OOG      BWII.6T
+   Silicon integration with pluggable Laser

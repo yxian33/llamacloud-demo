@@ -1,0 +1,24 @@
+30,000                                                                    5.00
+                                                                          4.50
+    25,000                                                                4.00
+
+    20,000                                                                3.50
+                                                                          3.00
+    15,000                                                                2.50
+
+    10,000                                                                2.00
+                                                                           1.50
+ 5,000                                                                     1.00
+                                                                          0.50
+                                                                          0.00
+
+              Q1FY21    Q2FY23
+              Q2FY21
+                        Q3FY21
+              Q4FY2O    Q4FY21 Q2FY22Q4FY22  Q4FY23
+                              Q3FY22QIFY23 Q3FY23 Q1FY24
+                                             Q2FY24
+              Q2FY2O          Q1FY22                    Q3FY24
+          Q1FY2O Q3FY2O
+              Combined pharmacy revenues   (front end + back end) (INR mn)
+              Revenue per store (INR mn) (RHS)

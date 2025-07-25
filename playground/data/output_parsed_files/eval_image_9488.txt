@@ -1,0 +1,30 @@
+                                    IDMI.O
+                            Inel              MFG
+
+    Revenue                 3200                     Allocated Cost  5200
+                     coS    3100             5100                    5100
+                     GM%    504
+                    OpEx                             Allocated Opex
+             Direct OpEx    520                                      320
+                 TD OpEx    530           330                        530
+    Other Allocation        530                                      530
+             Oper_Profit    520                                      320
+                            10m                                      1096
+
+
+                                                IDM2.0
+
+                                       Intel               MFG Revenue
+
+    Retemue                            3200           5110    BUcOS     5200
+                               COS    5100            5100              5110
+                      Gross Profit
+                              GM 4
+                              OpEx                                       350
+                       Direct OpEx     320                               320
+                           TD OpEx     530            530
+    Other Allocation                   530                               330
+                       Oper Profit     520            (20]
+                                       1096           1806              Zu4o
+
+Foundry Investor Weblnar June 2023

@@ -1,0 +1,20 @@
+       Uno Minda
+                As of 07-Feb-2024
+                Currency =INR
+
+1200.00
+1100.
+1c0o.
+ 90o.00
+ 800.00
+ 700.0C
+ 600.
+
+ 400.
+ 300.0C
+ 200.
+ 100.
+
+       2021/07/01  2022/01/01  2022/07/01  2023/01/01  2023/07/01  2024/01/01
+       Closing Price  Target PriceChange   RecommeroaticnChanges
+                                                       Scurce: LSEG, Nomin

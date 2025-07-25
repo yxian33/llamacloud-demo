@@ -1,0 +1,20 @@
+  Ke Holdings Inc    As of 24-Jan-2024
+                     Currency =USD
+
+
+80.00
+
+60 06
+
+
+40.00
+
+30.00
+
+20.00                   Nn
+
+10 06
+
+         2021/07/01     2022/01/01  2022/07/01  2023/01/01  2023/07/01  2024/01/01
+         Closing Price  Target PriceChange      RecommeroaticnChanges
+                                                            Scurce: LSEG, Nomin

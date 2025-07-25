@@ -1,0 +1,24 @@
+       Alkem Laboratories    As of 12-Mar-2024
+                             Currency =INR
+
+5s00.00
+
+5000.
+4500.00
+
+4000
+
+350C
+
+3000.
+2500.
+2000.00
+
+1500.0C
+
+100o.
+ 500.00
+
+       2021/07/01  2022/01/01  2022/07/01  2023/01/01  2023/07/01  2024/01/01
+       Closing Price  Target Price Change  RecommeroaticnChanges
+                                                       Scurce: LSEG, Nomin

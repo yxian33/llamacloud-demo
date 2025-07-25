@@ -1,0 +1,14 @@
+T-bills     Amount  Share
+  Total             209=
+  SOMA              209     Current example
+ Market             209
+
+ Ibills_    Amount  Share
+  Total             20%      Fed runs off S1Obn in MBS
+  SOMA              43%6     Fed buys SIObn in T-bills via OMO
+  Market            8%
+
+ Tbills     Amount  Share
+ Total              2796    Treasury issues S1Obn in T-bills to market
+ SOMA               43%
+ Market             2096

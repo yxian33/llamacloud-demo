@@ -1,0 +1,14 @@
+1,200    1,070
+
+1,000    900
+
+  800    760
+         620
+  600    490
+
+  400
+
+  200
+
+         2obps  1OObps  Base  + 1OObps  200bps
+  Target price (KRWOOO/share)

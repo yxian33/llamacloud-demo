@@ -1,0 +1,43 @@
+  130
+
+  120    119  121
+         13114  116    113
+ 110     108           109    110
+                105    105    105  106  107
+
+ 100                          99 101    102101 9  102104₉₈
+
+  90                                              86 95    89 92
+
+ 80
+
+ 70
+
+ 60
+
+2QFY18
+   3QFY18
+         4QFY18
+         1QFY19
+         2QFY19
+                3QFY19
+                4QFY19
+                     1QFY2O
+                       2QFY20
+                       3QFY20
+                              4QFY2O
+                              1QFY21
+                              2QFY21
+                                    3QFY21
+                                    4QFY21
+        North America sales (USD mn)    1QFY22
+                                          2QFY22
+                                          3QFY22
+                                              4QFY22
+                                                1QFY23
+                                                2QFY23
+                                                    3QFY23
+                                                      4QFY23
+                                                           1QFY24
+                                                           2QFY24
+                                                            3QFY24

@@ -1,0 +1,13 @@
+ Tea    Coffee
+ N. India Tea (INR/kg)  S. India Tea (INR/kg)  Kenya Tea (Sc/kg)    Arabica Coffee (Sc/lbs)    Robusta Coffee (Sc/lbs)
+233  246                                                            236
+
+                                               208  208  210                                                          195
+
+                        195                         195                                        156
+                                                           180
+                                                                                               122  120
+                                                                    103
+
+101         101         104                    112  102    106
+8      8    8           8      8  3            8    3      8        8  3  8                    8  3  8  8             1

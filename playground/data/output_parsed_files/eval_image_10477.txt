@@ -1,0 +1,14 @@
+Microsoft
+   19%
+
+
+    Others
+    41%
+          CrowdStrike
+          15%
+
+
+    Trend Micro
+    Broadcom  Palo Alto    Trellix  8%
+    Software  Networks Sophos  6%
+    3%        4%           4%

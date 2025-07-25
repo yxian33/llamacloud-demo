@@ -1,0 +1,13 @@
+    200    3,000
+    180
+    160    2,500
+    140    NW  2,000
+    120
+100            1,500
+     80
+     60        1,000
+     40        500
+ 20
+  0 22272 2
+
+           Hu Lane share price (TWD)  China PV production 3MA (k units)

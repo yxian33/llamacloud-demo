@@ -1,0 +1,10 @@
+ (%/)    Component division OPM (LHS)    (KRW)
+
+30       1OOJPYIKRW (RHS)                1,100
+
+20       Iw                              1,000
+
+10                                       900
+
+ 0                                       800
+  1021   3021  1022  3022    1023        3023

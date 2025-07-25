@@ -1,0 +1,5 @@
+  BNPP
+  GDP contributions (pp)                                 icst
+  2022    2023                                           2024
+  GDP (%qlq saar)  Net exports  Change in privateinventories
+Government  Residential investment  Business investment  PCE

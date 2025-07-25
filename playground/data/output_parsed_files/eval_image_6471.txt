@@ -1,0 +1,17 @@
+7.00
+6.00
+5.00
+4.00
+3.00
+2.00
+1.00
+0.00    3QFY21    2QFY23    0
+
+        1QFY21  1QFY22
+                  2QFY22  1QFY23  4QFY23
+ 1QFY19  4QFY19                   1QFY24
+         1QFY2O    4QFY2O  4QFY21  3QFY22
+        2QFY19                     4QFY22
+        3QFY19    2QFY20
+                   3QFY20  2QFY21        3QFY23  2QFY24
+        Glenmark   Industry average

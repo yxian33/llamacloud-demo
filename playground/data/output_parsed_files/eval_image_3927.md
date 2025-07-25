@@ -1,0 +1,9 @@
+
+# China Data Policy Timeline
+
+| May 2020                                                                                                                                          | Dec 2021                                                                                                                    | Dec 2022                                                                                                                                     | Dec 2022                                                                                                                                                                      |
+| ------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Communique of Fourth Plenary Session of the 19th Central Committee of The Communist Party of China<br/><br/>Proposed data as factor of production | "14th five-year digital economy development plan"<br/><br/>Proposed to enhance the function of data element digital economy | "Opinions of establishing fundamental data system to reinforce the role of data elements"<br/><br/>Proposed to build fundamental data system | "Interim provisions on accounting treatment related to enterprise data resources (Draft for comments)"<br/><br/>Proposed to recognize data as intangible asset or inventories |
+
+
+

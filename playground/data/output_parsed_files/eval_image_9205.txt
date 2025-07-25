@@ -1,0 +1,13 @@
+       Banks      Mutual funds  Olnsurance cOS  Others
+100
+ 90    18     21   18           18              18    17
+ 80
+ 70    28     21   22           18    16        17    19
+ 60
+ 50
+ 40
+ 30    50     53   54           57    59        57    57
+ 20
+ 10
+
+       FY19  FY2O  FY21         FY22  2023      FY23  2024

@@ -1,0 +1,18 @@
+ E    600    551
+      550
+
+      500                                                                       +19
+
+      450
+
+      400                                                  393                  472
+
+      350    2021  Demand     Demand                       2023                       Demand      2026
+                  decline    decline                                                recovery
+                    2022       2023                                                  2024-26
+             Oincusty  QElectric vehicles             DHeat pumps            QData centres  QOther
+
+Notes: Other Includes the combined effect of changes  electnicily demand     nouseholds, services and ciner sectors
+including increases frcm EVs; heat Fumps and data centres  2022 and 2023-For 2024-2026 these are shown separately.
+  2022.the net impact of weainer on demand ectimatc d      nave Leen Feduction  13 TWh:     2023 netvreather
+udact ectimate d  have accounted for reducton         TWh

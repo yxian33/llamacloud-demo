@@ -1,0 +1,14 @@
+100%                             20%
+ 90%
+8090                             1590
+ 70%                             10%
+ 809                             5996
+ 509                             4965%
+ 40%
+ 309                             0%
+2090
+ 109
+   0%8 83388883388 8                 10%0
+
+        % STOXX 600 stocks with positive 3m change in fwd EPS
+        12M Fwd Growth Rate (rhs)

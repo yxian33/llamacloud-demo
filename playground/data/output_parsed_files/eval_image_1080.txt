@@ -1,0 +1,23 @@
+   200,000                                                  0.16
+   180,000                  0.14
+   160,000                                                  0.12
+   140,000
+   120,000                                                  0.1
+   100,000                                                  0.08
+80,000                                                      0.06
+60,000                                                      0.04
+40,000
+20,000                                                      0.02
+                                                            0
+
+              4QFY2O        1QFY22
+              1QFY21              2QFY23AQFY23
+                                  1QFY24
+                                  2QFY24
+ 1QFY2O                                       3QFY24
+              2QFY2O
+              3QFY2O        2QFY21
+                            3QFY21  3QFY22
+                                    4QFY22
+                                  4QFY212QFY22  1QFY233QFY23
+          Sales (INR mn)    Y-Y growth (RHS)

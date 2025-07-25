@@ -1,0 +1,22 @@
+                  Application scenarios                                  Vertical industries
+
+    Industry      Classified protection                                  Factory                    Mining    Electricity
+   application          Regulation &
+                         compliance                                      Oil & Gas  Industrial Park
+                  Critical infrastructure
+                  protection
+
+                  Edge           Data security  loT security             SG gateway                           Threat
+  Factory         computing      gateway        gateway                                                       detection
+  security
+  upgrade         Fundamental                   Intrusion                                                     Vulnerability  Security audit
+                  network        Firewall       detection                Anti DDoS                            scanning
+                  security
+
+                  Industrial               Vulnerability scanning                   Firewall                  Security monitoring and audit
+                  security
+    Industrial                                                 Access               Security
+  security        IoT security   Encryption                   control                certificate              Firmware security
+construction
+                  Mobile         Secure access  Security SDK                          Anti virus              Application security
+                  security

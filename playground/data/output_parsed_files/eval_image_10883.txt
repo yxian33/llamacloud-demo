@@ -1,0 +1,24 @@
+         Gland Pharma    As of 14-Feb-2024
+
+4500.                    Currency =INR
+4250.00
+40oo.OC
+3750.
+3500.
+3250
+3000.
+2750.0C
+2500.00
+2250.
+2000.
+1750
+1500.
+1250
+100o.
+ 750.00
+ 500.00
+ 250.0C
+
+         2021/07/01  2022/01/01  2022/07/01  2023/01/01  2023/07/01  2024/01/01
+         Closing Price  Target PriceChange   RecommeroaticnChanges
+                                                         Scurce: LSEG, Nomin

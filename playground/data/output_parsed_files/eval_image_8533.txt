@@ -1,0 +1,34 @@
+                   Identifiable Capex, $ bn                                                  Realistic Capex; $ bn                          BNPP defined
+                   that rely on IRA subsidies                                                that relv on IRA subsidies
+
+  S1.1 trillion at risk                   Would If Republicans sweep '24 elections
+                   Capture                                 trillion would be at risk (>half in red states)?
+  5100             Carbon                 Equals -10% of all US corp. capex across 5-7 years_
+   550             Green Hydrogen
+          512/     PV Module Plants
+   S75             Other Clean Power      S0.6 trillion
+
+  5182             DG Solar                      at risk in                             So.7 trillion at risk
+                   Wind Offshore          Red States                             520         Carbon Capture
+
+  5165             Wind Onshore                  580                             S75         Green Hydrogen       S0.4 trillion
+                                                 540                                         PV Module Plants          at risk in
+                                                 530629                          594         Other Clean Power     Red States
+  3568            Energy Storage    5104                                                     DG Solar
+                                                                    Solar        5111        Wind Offshore         576|                     7HS6}
+                                    540_                            7070         444         Wind Onshore                                        7070
+
+  5398 bn          Solar - Large Scale                              Onshore                  Energy Storage            573                       Onshore
+                                                 5277 bn            6570         5265 bn     Solar Large'Scale         5182 bn                   6570
+                                                                    in Red                                                                       in Red
+                                                                    States                                                                       States
+                   How was this calculated?                                                  How was this calculated?
+(a) Announced US renewables per BNEF'$ database. CanceE            abandoned     (a) For all assets, anything with permits or financing secured included (b)
+excluded. Results in over 500 GW argescal       assets. (b) DG added at 5 GW     Solar  Onshore; 50%announced non-permitted assets included (c)
+p.a. for Syr (vast majority demand 'atrisk') (c) Module manufacturing plants     Offshore, nothing included wlo permitsffinancing (d) DG,all demand
+are included at announced or typica capex: (d) 2.3 mtpa identified green         assumed 'atrisk' included (e) 40%of h2 and CCS assets assumed realistic (1
+hydrogen projects per BNEF, at 58 mn per TPD cost: (e) Approx S1C0 bn            likely, improved by hubs and non-IRA subsidies) (f) Half of module
+CCS/CCUS announced as of late '22. (f) Unit capex: Solar 51.25/W, ESS S1/W,      plants excluded, which roughly corresponds with non-Tier 1 FSLR, (g) Unit
+Onshore 52/W, Offshore 54.5/W,DG 53/W, Other Clean Power (geo,                   capex assumptions same as scenario on the eft, (h)Purpl states included
+biomass, etc) avg: 53/W. (g) Power assets split Red/Blue based on actuae         "red.  Note: Not all investments included in the overall analysis, especially
+h2/ccs based on TX focus (h) Purpe      states included in "red"                 committed grid investmentneeded to accommodate identified ossets

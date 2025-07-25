@@ -1,0 +1,13 @@
+       Net card addition (#, mn)  Gross card addition (#, mn)
+
+1.8
+1.6    5
+1.4    6                          2  4                       2
+1.2         8
+1.0
+0.8                               8  8                       8
+0.6
+0.4
+0.2
+0.0
+       3023  4QFY23               1QFY24  2QFY24             3QFY24

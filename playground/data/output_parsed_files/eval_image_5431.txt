@@ -1,0 +1,18 @@
+ 190.0
+ 180.0
+170.0
+ 160.0
+ 150.0
+ 140.0
+ 130.0
+ 120.0
+ 110.0
+100.0
+  90.0                                                               "
+  80.0
+  70.0
+ 60.0 3   8! 89}                           8 8 !
+
+          MSCI India $ rel to ASXJ $       MSCI China $ rel to ASXJ $
+          MSCI Taiwan $ rel to ASXJ $      MSCI Korea rel to ASXJ
+          MSCI Hong Kong rel to ASXJ $     MSCI Japan rel to ASXJ $

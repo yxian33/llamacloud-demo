@@ -1,0 +1,20 @@
+   (Relative performance versus TOPIX, Jan 2023 = 100)
+240
+220
+200
+180
+160
+140
+120
+100
+ 80    (yym)
+ 60
+
+
+
+    23/1  23/323/4231523/6  23/9  23/11
+                            23/10  23/12
+
+    Disco            Advantest    Tokyo Seimitsu
+    Screen Holdings  Tokyo Electron  Lasertec
+    Hoya

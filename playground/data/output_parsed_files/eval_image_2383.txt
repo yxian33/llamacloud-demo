@@ -1,0 +1,7 @@
+mechanical       simulation
+                 design
+1  software                  1
+   for industry
+1                Siemens     1
+1                Xcelerator  1
+     operations  manufacturing

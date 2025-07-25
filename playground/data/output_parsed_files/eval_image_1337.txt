@@ -1,0 +1,23 @@
+      AU Small Finance Bank                                                   As of 19-Mar-2024
+                                                                              Currency =INR
+
+800.
+750.
+700.0C
+650.
+600.0C
+
+s0o.OC
+450.0C
+400.
+350.
+300.
+250.00
+200.00
+150.00
+100.OC
+ 50.0C
+
+      2021/07/01  2022/01/01  2022/07/01  2023/01/01            2023/07/01    2024/01/01
+                  Closing Price  Target Pricechange  RecommeroaticnChanges
+                                                      Scurce: LSEG, Nomin

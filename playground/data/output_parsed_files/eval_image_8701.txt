@@ -1,0 +1,22 @@
+          ASM Pacific Technology    As of 27-Feb-2024
+
+130.00                              Currency FPKD
+120.00
+110.0C
+100.00
+ 90.00
+ 80.00
+
+ 70.o
+ 60.00
+ 50.00
+
+ 40.0C
+
+ 30.00
+ 20.00
+ 10.00
+
+          2021/07/01  2022/01/01  2022/07/01  2023/01/01  2023/07/01  2024/01/01
+          Closing Price  Target Pricechange   RecommeroaticnChanges
+                                                          Scurce: LSEG, Nomin

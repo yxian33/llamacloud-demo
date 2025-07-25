@@ -1,0 +1,23 @@
+
+# Volume Growth by Company
+
+| Company            | Volume Growth (%) |
+| ------------------ | ----------------- |
+| Asian Paints       | 12.0              |
+| Kansai Nerolac     | 10.0              |
+| Berger Paints      | 9.1               |
+| Britannia          | 5.5               |
+| Godrej Consumer    | 5.0               |
+| Page Industries    | 4.6               |
+| Dabur              | 4.0               |
+| Nestle             | 2.5               |
+| Hindustan Unilever | 2.0               |
+| Marico             | 2.0               |
+| Emami              | 0.0               |
+| Colgate            | -0.5              |
+| United Spirits     | -1.8              |
+| ITC                | -2.0              |
+| Jubilant Foodworks | -2.9              |
+
+
+

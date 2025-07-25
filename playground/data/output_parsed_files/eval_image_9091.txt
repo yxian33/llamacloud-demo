@@ -1,0 +1,15 @@
+      Rolling PER              Average           Average +1STD
+
+60    Average +2STD            Average -1STD     Average -2STD
+
+ 50
+
+ 40
+
+30
+
+20
+
+10
+
+ Jan/18    Jan/19    Jan/zo    Jan/21           Jan/2z        Jan/23    Jan/24

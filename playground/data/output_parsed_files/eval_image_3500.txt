@@ -1,0 +1,10 @@
+3.2T Optics Inside the Datacenter
+
+  32006-Optics  DRIG-LPO DR16- LRO DRI6-DSP DR16-DSP2 DRB-DSP2  ZR2- Lite
+  Breakoui      16.1     16.1      16.1     16.1
+  Breakout Speed  Z00G   Z00G      200G     200G      4O0G              1600G
+  Modulation      224G-PAM4 224G-PAM4 224G-PAMA 224G-PAM4 448G-PAM4     16-QAM
+  Power (typ )    Z0w    30w       sow      4Ow (1)   40w (21           40w (31
+
+
+  Keyto 3200G datacenter optics power reduction is LPOILRO

@@ -1,0 +1,14 @@
+450.0    (k units)
+400.0    369.0
+350.0
+300.0
+250.0
+200.0
+150.0
+
+100.0
+   50.0
+
+         Jan  Feb Mar  Apr  May  Jun  Jul  Aug  Sep  Oct  Nov Dec
+
+                       2020  2021 D2022    2023 2024

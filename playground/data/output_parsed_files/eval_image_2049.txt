@@ -1,0 +1,10 @@
+(bn unit)    Total units shipped (LHS)    (%)
+ 1.6         Premium portion (RHS)                                       50
+
+ 1.5                                                                     45
+
+ 1.4                                                                     40
+
+1.3                                                                      35
+
+1.2     2020  2021  2022  2023E           2024E  2025E  2026E  2027E     30

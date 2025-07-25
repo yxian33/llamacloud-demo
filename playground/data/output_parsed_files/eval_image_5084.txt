@@ -1,0 +1,17 @@
+     Luxshare Precision    As of 15-Feb-2024
+                           Currency =CNY
+60.0C
+55.0C
+
+
+30 00
+
+25.00
+20.00
+15.00
+
+10.00
+
+     2021/07/01  2022/01/01  2022/07/01  2023/01/01  2023/07/01  2024/01/01
+     Closing Price  Target Pricechange   RecommeroaticnChanges
+                                                     Scurce: LSEG, Nomin

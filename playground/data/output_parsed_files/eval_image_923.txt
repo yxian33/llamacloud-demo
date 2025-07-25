@@ -1,0 +1,18 @@
+350
+300
+250
+200
+150
+100
+ 50
+  0
+
+   1QFY22  3QFY23
+   1QFY17  3QFY18    1QFY24
+           1QFY19
+                     3QFY19 3QFY20
+                            1QFY21
+                                  3QFY21 3QFY22
+   3QFY16 3QFY17                         1QFY23  3QFY24
+1QFY16     1QFY18    1QFY2O
+                     North America sales (USD Mn)

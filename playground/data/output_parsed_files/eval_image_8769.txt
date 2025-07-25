@@ -1,0 +1,22 @@
+100%       5%/     5%/    8%/  6%/     6%     6%     6%     6%/     6%/    6%/
+ 90%       7%/     7%/    7%/  7%/    7%/    7%/    7%/     7%/     7%/    5%/
+ 80%    19        1       19    1    2%      1              69
+
+ 70%    12%/      12%     12%   17%  12%     12%  20%  19%         13%     15%/
+ 60%
+ 50%
+
+ 40%
+    30%
+ 20%
+
+ 10%
+  0%
+
+    1QFY22                         1QFY23                     1QFY24
+                          AQFY22     2QFY23
+        2QFY22                               3QFY234QFY23           2QFY24
+                      3QFY22                 Optical communications
+        Smartphonelmobile devices
+        Automotive                           Industrial
+        Generic

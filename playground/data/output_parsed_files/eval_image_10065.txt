@@ -1,0 +1,18 @@
+           Dr Reddy'$ Laboratories               As of 11-Feb-2024
+                                                 Currency =INR
+
+6000.00                                          Mrn
+5500.
+5000.      N
+4500.
+40oo.OC
+3500.00
+3000.
+2500.
+2000.
+1500.00
+1000.
+
+           2021/07/01  2022/01/01  2022/07/01    2023/01/01  2023/07/01  2024/01/01
+           Closing Price   Target PriceChange    RecommeroaticnChanges
+                                                             Scurce: LSEG, Nomin

@@ -1,0 +1,24 @@
+Company reports    Total
+Factset            Revenue
+
+
+                                  sales by              Sales by
+                                 Segrent DY            Segment by
+                                Countiy 1              Country 2
+
+ IO Iceberg
+ External Database      Input                Inpuly                 Output
+                                             Output
+
+Life Cycle
+Assessment data         Land     GHG                                 Water
+ bases
+scientifc literature    Use      emissions             Pollution     Palluton
+
+ GLOBIO                 Land     Climate                             water
+Pressure-Impact         Use      Change                Pollubon      Pollubon
+Relationship            Impact   impact                Impact        Impact
+
+
+Indicator: avoid     CBF    CBF    CBF
+company slze blases  Capital Employed  Enterprise Value  Main zervice:

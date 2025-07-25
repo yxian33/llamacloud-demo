@@ -1,0 +1,22 @@
+      Flexium Interconnect    As of 15-Feb-2024
+                              Currency
+160.00
+150.0C
+140.
+130.
+120.0C
+110.0C
+100.
+
+ 80.00
+ 70.0C
+
+ 50.00
+ 40.00
+ 30.00
+ 20.00
+ 10.00
+
+      2021/07/01  2022/01/01  2022/07/01  2023/01/01  2023/07/01  2024/01/01
+      Closing Price  Target PriceChange   RecommeroaticnChanges
+                                                      Scurce: LSEG, Nomin

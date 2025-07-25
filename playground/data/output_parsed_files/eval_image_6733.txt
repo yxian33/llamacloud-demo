@@ -1,0 +1,13 @@
+    US change in z-scorevS previous week         Eurozone changein z-scorevs previous week
+    Ceman Le; Fcca                                          FR Manufacturing FMI    Change in DSI
+    FFI Final Cemand                                         EZ Comune confijenc    Change
+    Exiating Home Saled                                                  FR KICP
+    Markit Manufactuing PMI                     FR INSEE manufactuing confidencs
+    Continuing Claina                                             EZ Sawvics PMI
+UcM Consume Sentiment Index                                 DE Sevices PMI
+    Markit Service; FMI                                     It HICP
+    Builing Fermits                                         EZ HICP fral
+                  Leading Index                  Change     EZ Manufacturing FMI
+                     ing Starts                  Change     CE Manufacturing PMI
+
+    Sources  BNP Parbaz; Macrobond, Bloomberg              Soumes BNP Parba? UscmbondBloonberg

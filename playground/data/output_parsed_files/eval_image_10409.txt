@@ -1,0 +1,17 @@
+         Rolling PER             Average           Average +1STD
+         Average +2STD           Average -1STD     Average -2STD
+
+30
+
+25
+
+ 20
+
+ 15
+
+ 10
+
+  5
+
+  0
+ Mar/10  Mar/12  Mar/14  Mar/16  Mar/18           Mar/2o    Mar/22    Mar/24

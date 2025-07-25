@@ -1,0 +1,25 @@
+        Classys                                           As of 14-Feb-2024
+                                                              Currency =KRW
+soooo.0o
+
+45000.00
+
+40ooo.OC
+
+35000
+
+oooC
+
+25000.0C
+
+20ooo.OC
+
+15000.00
+
+10ooo.0o
+
+ sooo.00
+
+        2021/07/01  2022/01/01  2022/07/01  2023/01/01  2023/07/01  2024/01/01
+        Closing Price  Target PriceChange   RecommeroaticnChanges
+                                                        Scurce: LSEG, Nomin

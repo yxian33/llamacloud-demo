@@ -1,0 +1,13 @@
+90  120%
+80  100%
+70  80%
+60  60%
+50  40%
+40  20%
+30  0%
+20  20%
+10  -40%
+
+2020  2021  2022  2023F  2024F  2025F  60%
+Non-core EPS (TWD)  Core EPS (TWD)
+Total EPS (TWD)  Core EPS y-y (%, RHS)

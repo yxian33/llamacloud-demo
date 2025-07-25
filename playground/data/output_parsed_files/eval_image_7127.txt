@@ -1,0 +1,23 @@
+  Company name             Ticker                                Rating  CY23FRev growth (%)                Net profit growth (%)            Gross margin (%)
+                                                                                 CY24FCY25FCY26F     CY23FCY24F    CY25FCY26F             CY23FCYZAF   CY25FCY26F
+  China discretionary consumer names                                     39.7%24.7%16.8%/11.4%       181.6%19.0%   24.1%15.8%             51.7%52.0%   52.4%53.1%
+  MINISO Group Holding Ltd MNSO US Equity12/31/2024      USD     Buy     40.2923.39021.0%11.996      109.6%19,6%   26,5%3,200             38.5941,200  41.59041.890
+  Luckin Coffee Inc        LKNCY US Equity12/31/2022     USD     NR      94.2950.0%19.99013.9%       601     22.69 35.40022.690           58.    55.59 55.8%56.590
+  ANTA Sports Products Ltd 2020 HK Equity12131/2022      HKD     Buy     16.0%14.5913          11.6% 28.9%19.79    17.6916.0%             61.90062.406 62.8%63.3%
+    NingCo Ltd             2331 HK Equity1231/2022       HKD     Buy     8.29              12.4%8.39 -13.4%13.99   17.0%21.790            48.2048.990  49.4950.690
+
+  Global IP & ACG operator                                               9.4%10.0%8.7%/5.2%/         62.4%0.0%     14.0%57.1%             47.6%49.8%   51.0%52.2%
+  China Literature Ltd     772 HK Equity  12131/2022     HKD     Buy     -8.0%9.698.4%-1.190         83.2%22.89    11.7021.206            51.1%052.59  53.0%55.590
+  Bilibili Inc             BILI US Equity 12131/2022     USD     Neutral 2.7%12.6%12.2%012.0%        553.10080.900 na          139.79     24.1%29.0%   31.9%34.0%
+       Sanrio Co Ltd       8136 JP Equity3/31/2023       JPY     NR      35.20014.6%9.0%na_          124.6%019.900 13.5%0         na:     82.0%082 690 83.3%083.390
+  Walt Disney CofThe       DIS US Equity  9/30/2023      USD     NR      7.7%03.1%5.394.79           94.8%38.1%    16.8%10.5%6            33.4%35.0%   36.0%36.1%
+
+Globaltoys                                                               -6.8%3.9%4.5%5.7%           28.8%17.0%    12.9%54.1%             45.9%48.0%   48.4%51.4%
+    Bandai Namco Holdings Inc7832 JP Equity3/31/2023     JPY     Neutral 3.4%4.6%3.9902.290          8.8%20.39     9.6%2.1%0              37.0%39.1%   39.39039.390
+  Funko Inc                FNKO US Equity12131/2022      USD     NR      -17.8%0-0.9%6.6%11.1%       na:       na_ na         194.690     30.8%38.200  38.8% na
+  Mattel Inc               MAT US Equity12131/2023       USD     NR      0.59-0.5903.2903.700        6.6%013.706   9.397.896              47.5%48.790  49.0%49.5%
+  Hasbro Inc               HAS US Equity12131/2023       USD     NR      -13 4%-18.79059        5.9% 88.6%16.9%    19.6%16 19             68.    65.99 66.5965.5%
+
+  Average                                                                14.1%10.3%10.0%7.7%         96.6%11.5%    17.7%41.0%             48.4%49.9%   50.6%52.3%
+
+  Pop Mart International Group9992 HK Equity12/31/2022   HKD     Neutral37.9%/22.0%12.0%8.1%         122.6%17.2%   9.4%8.3%               60.4%60.4%   60.6%61.0%

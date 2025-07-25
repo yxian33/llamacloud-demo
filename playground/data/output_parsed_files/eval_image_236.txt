@@ -1,0 +1,20 @@
+45,000                  0.25
+40,000                  0.2
+35,000
+30,000                  0.15
+25,000                  0.1
+20,000
+15,000                  0.05
+10,000
+ 5,000
+                        -0.05
+
+    1QFY2O  1QFY21      1QFY22  4QFY22  3QFY23  3QFY24
+          2QFY2O
+            3QFY2O
+         4QFY202QFY21
+                        3QFY21    1QFY23  4QFY23
+                                                1QFY24
+                                  2QFY22        2QFY24
+                        4QFY21    3QFY22    2QFY23
+          R&D (INR mn)  Y-Y growth

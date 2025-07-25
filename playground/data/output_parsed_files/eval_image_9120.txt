@@ -1,0 +1,14 @@
+   100                                      2,500
+    90
+    80                                      2,000
+70
+    60                                                       1,500
+    50
+40                                                           1,000
+30
+    20                                      500
+    10
+
+Feb-19    Feb-20       Feb-21  Feb-22       Feb-23  Feb-24
+          2021E EPS            2022E EPS            2023E EPS
+          2024E EPS            2025E EPS            Price (TWD, RHS)

@@ -1,0 +1,13 @@
+        Discount to RNAV (GENM, GENS, GENP_ unlisted subs)
+        10 yr average discount to RNAV (listed+unlisted subs)
+
+ 10
+
+(10)
+(20)
+(30)
+(40)
+(50)    10 yr average    Current
+(60)    discount =       discount =
+(70)    50%              63%
+(80)

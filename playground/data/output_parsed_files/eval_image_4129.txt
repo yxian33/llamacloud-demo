@@ -1,0 +1,10 @@
+g S1,000    PC ASP
+  | S900
+    S800
+  8 S700
+  7 S6o0
+    S500
+  6
+  2 S400
+
+            Desktop PC ASP    Portable PC ASP

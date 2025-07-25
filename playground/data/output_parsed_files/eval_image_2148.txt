@@ -1,0 +1,15 @@
+ 600,000                                                        800
+
+ 500 _0o0                                                       700
+                                                                600
+ 400,000     T
+                                                                500
+
+300,000                                                         400
+
+200,000                                                         300
+                                                                200
+ 100,000                                                        100
+
+  Jan-17     Jun-17  Nov-17  Apr-18  Sep-18  Feb-19  Jul-19  Dec-19
+             Monthly sales (TWD k)    Share price (TWD, RHS)

@@ -1,0 +1,17 @@
+210.0
+200.0
+ 190.0
+ 180.0
+ 170.0
+ 160.0
+ 150.0
+ 140.0
+ 130.0
+ 120.0
+ 110.0
+ 100.0
+  90.0    18 !
+
+          MSCI Indonesia $ rel to ASXJ $      MSCI Malaysia $ rel to ASXJ $
+          MSCI Philippines $ rel to ASXJ $    MSCI Singapore $ rel to ASXJ $
+          MSCI Thailand $ rel to ASXJ $

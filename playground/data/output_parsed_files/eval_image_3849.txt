@@ -1,0 +1,26 @@
+                                  2000     Sangfor was established
+Launched IPSec VPN                2002
+
+                                  2004      Launched the world's first
+                                            IPSec/SSL two-in-one VPN
+Launched WAN Optimization         2005     gateway
+Controller (WOC) product
+                                  2007      Launched Access
+Started globalization strategy             Control (AC) product
+Launched Application Delivery     2009
+(AD) product                      2011     Launched next-gen
+Launched aSV server                       firewall in China
+virtualization                    2014
+ Established Sundray                       Launched Hyper-
+                                  2015     Converged Infrastructure
+                                           (HCI) data center    Listed on Shenzhen Exchange Launched SASE, Zero-Trust           Launched Zero-Trust
+
+Launched two brands:                                            Launched SD-WAN, EDR and        VPN HCI-ARM; Cloud Native       platform, XDR platform
+ Sangfor Security and             2016                          security services               Platform                        and DASP platform
+ Sangfor Cloud
+                                            2017                          2018       2019                   2020  2021                     2022
+
+                                           Launched Security                         Launched EDS                 Launched DaaS_
+                                           Intelligence Platform (SIP)               product                      Hummingbird All-in-One
+                                           and Cloud Security Pool                                                HCI and Petrel All-in-One
+                                                                                                                  EDS

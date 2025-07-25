@@ -1,0 +1,12 @@
+    60    Election called    Election 9 April 1992
+    40
+    20
+
+8 ~20
+   -40
+   60
+   -80
+  -100    10
+  -120 8 8 8 ? 8 8 ? 8 8 9   2 8 8 ? 8 8 ? 8 8 ?
+
+            Days from election day

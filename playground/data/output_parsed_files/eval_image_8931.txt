@@ -1,0 +1,10 @@
+200     5510s UST (bp)       200
+        Fitted 5510s UST (bp)
+150                          150
+
+100                          100
+
+50
+
+50                          Jan-10 Jan-16 Jan-22 50
+ Jan-86 Jan-92 Jan-98 Jan-04

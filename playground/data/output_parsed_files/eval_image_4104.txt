@@ -1,0 +1,24 @@
+Video Compression       Spacetime Latent        Transformer             Language              Emerging Simulation
+  Network                     Patches           Diffusion model         understanding          Ccapabilities
+ Compressing raw         Once the video is      Sora leverages the      Sora uses highly       When trained at
+ video data into        compressed, it is       scaling properties      descriptive            scale, Sora exhibits
+ lower-dimensional      decomposed into         of transformers_        captioner model        emergent
+ latent space:          sequence of             which have shown        trained on video       capabilities that
+                        spacetime patches.      remarkable              data                   allow it to simulate
+ The latent space is                            performance in                                 certain aspects of
+ where Sora trains      The patches are         various domains         This model             the physical world,
+ and generates           extracted from the     including language      produces detailed      such as 30
+ videos, allowing        compressed video       modeling and            captions that are      consistency; object
+ for efficient          and can represent       image generation        then used to guide     permanence, and
+ processing and          both spatial and                               the video              interactions with
+ storage of visual      temporal                The diffusion           generation             the environment:
+ information            information,            transformer             process, ensuring
+                        making them             architecture allows     that the generated
+                        suitable for images     Sora to effectively     videos accurately
+                        and videos with         scale as video          follow user
+                        multiple frames         model; with             prompts.
+                                                sample quality
+                                                improving
+                                                significantly as
+                                                training compute
+                                                increases.

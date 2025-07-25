@@ -1,0 +1,17 @@
+24.00
+22.00
+20.00
+18.00
+16.00
+14.00
+12.00
+10.00
+
+   1-Jan-12    1-Jan-20
+               1-Jan-21
+     1-Jan-13  1-Jan-15    1-Jan-22
+               1-Jan-16
+                           1-Jan-17
+               1-Jan-14    1-Jan-18    1-Jan-23
+               Nifty PIE one year forward  1-Jan-19
+               pre-pandemic average (Apr'14-Feb'20)

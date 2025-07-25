@@ -1,0 +1,17 @@
+ 0.5
+
+ 044
+
+ 0.3
+
+
+-0.
+
+-0.2
+
+-0.3
+
+-0.4
+2019  2020  2021  2022  2023                 2024
+            US multi-asset fund equity beta
+            1Oth percentile_ expanding window

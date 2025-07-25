@@ -1,0 +1,24 @@
+        KT Corp                                                 08-Fek-2024
+                                                              Currency =KRW
+
+45000.OC
+
+40ooo.0o
+
+35000.00
+
+30ooo.0o
+
+25000.0C
+
+Zoooo.OC
+
+15000.00
+
+1cooo.OC
+
+ s0oo.00
+
+        2021/07/01  2022/01/01  2022/07/01  2023/01/01  2023/07/01  2024/01/01
+        Closing Price  Target PriceChange   RecommeroaticnChanges
+                                                        Scurce: LSEG, Nomin

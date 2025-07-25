@@ -1,0 +1,20 @@
+60    (GWh)     180%
+
+50              160%
+                140%
+
+40              120%
+
+30              100%
+               80%
+
+20             60%
+
+               40%
+10
+               20%
+
+               0%
+
+
+  Monthly EV battery installation in China  Y-Y % (RHS)

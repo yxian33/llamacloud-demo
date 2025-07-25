@@ -1,0 +1,79 @@
+
+
+| Year | Population (million) | Type     |
+| ---- | -------------------- | -------- |
+| 1980 | 600                  | Actual   |
+| 1981 | 620                  | Actual   |
+| 1982 | 640                  | Actual   |
+| 1983 | 660                  | Actual   |
+| 1984 | 680                  | Actual   |
+| 1985 | 700                  | Actual   |
+| 1986 | 720                  | Actual   |
+| 1987 | 740                  | Actual   |
+| 1988 | 750                  | Actual   |
+| 1989 | 770                  | Actual   |
+| 1990 | 780                  | Actual   |
+| 1991 | 800                  | Actual   |
+| 1992 | 810                  | Actual   |
+| 1993 | 820                  | Actual   |
+| 1994 | 830                  | Actual   |
+| 1995 | 840                  | Actual   |
+| 1996 | 850                  | Actual   |
+| 1997 | 860                  | Actual   |
+| 1998 | 870                  | Actual   |
+| 1999 | 880                  | Actual   |
+| 2000 | 890                  | Actual   |
+| 2001 | 900                  | Actual   |
+| 2002 | 910                  | Actual   |
+| 2003 | 920                  | Actual   |
+| 2004 | 930                  | Actual   |
+| 2005 | 940                  | Actual   |
+| 2006 | 950                  | Actual   |
+| 2007 | 960                  | Actual   |
+| 2008 | 970                  | Actual   |
+| 2009 | 980                  | Actual   |
+| 2010 | 990                  | Actual   |
+| 2011 | 995                  | Actual   |
+| 2012 | 998                  | Actual   |
+| 2013 | 999                  | Actual   |
+| 2014 | 999                  | Actual   |
+| 2015 | 999                  | Actual   |
+| 2016 | 999                  | Actual   |
+| 2017 | 998                  | Actual   |
+| 2018 | 998                  | Actual   |
+| 2019 | 997                  | Actual   |
+| 2020 | 996                  | Actual   |
+| 2021 | 995                  | Forecast |
+| 2022 | 993                  | Forecast |
+| 2023 | 990                  | Forecast |
+| 2024 | 987                  | Forecast |
+| 2025 | 983                  | Forecast |
+| 2026 | 978                  | Forecast |
+| 2027 | 972                  | Forecast |
+| 2028 | 965                  | Forecast |
+| 2029 | 957                  | Forecast |
+| 2030 | 948                  | Forecast |
+| 2031 | 938                  | Forecast |
+| 2032 | 927                  | Forecast |
+| 2033 | 915                  | Forecast |
+| 2034 | 902                  | Forecast |
+| 2035 | 888                  | Forecast |
+| 2036 | 873                  | Forecast |
+| 2037 | 857                  | Forecast |
+| 2038 | 840                  | Forecast |
+| 2039 | 822                  | Forecast |
+| 2040 | 803                  | Forecast |
+| 2041 | 783                  | Forecast |
+| 2042 | 762                  | Forecast |
+| 2043 | 740                  | Forecast |
+| 2044 | 717                  | Forecast |
+| 2045 | 693                  | Forecast |
+| 2046 | 668                  | Forecast |
+| 2047 | 642                  | Forecast |
+| 2048 | 615                  | Forecast |
+| 2049 | 587                  | Forecast |
+| 2050 | 558                  | Forecast |
+
+
+■ Forecast  
+■ Actual

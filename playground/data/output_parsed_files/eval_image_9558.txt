@@ -1,0 +1,11 @@
+  Company        Target multiple FY26F PIB ]Valuation Methodology
+                 Old             New
+BAF                                 Residual income approach
+BAJAJFINSERV                        SoTP-based valuation
+Cholamandalam                       Residual income approach
+SBICARDS                            Residual income approach
+SHFL                                Residual income approach
+MMFS                                     Residual income approach
+LICHF                               Residual income approach
+CREDAG                              Residual income approach
+FIVESTAR                                 Residual income approach

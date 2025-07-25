@@ -1,0 +1,20 @@
+     Joinn Lab    As of 23-Jan-2024
+                  Currency =CNY
+90.0C
+85.0C
+80.0C
+75.0C
+70.OC
+
+
+40.0C
+35 06
+30.00
+25.0C
+20.0C
+15.00
+10.00
+
+     2021/07/01  2022/01/01  2022/07/01  2023/01/01  2023/07/01  202+/01/01
+     Closing Price  Target PriceChange   RecommeroaticnChanges
+                                                     Scurce: LSEG, Nomin

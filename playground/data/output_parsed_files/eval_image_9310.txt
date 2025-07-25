@@ -1,0 +1,23 @@
+      LG Uplus Corp_                                          07-Fek-2024
+                                                            Currency =KRW
+ 18000.00
+ 17000.00
+ 16000.00
+ 15000.00
+14000.
+ 3000.
+12000.
+11000.
+10ooo.
+ 9000.
+ 80oo.0C
+ 700o.OC
+ 60oo.OC
+ s0oo.OC
+ 40oo.OC
+ 3000.OC
+ 20oo.OC
+ 10oo.OC
+      2021/07/01  2022/01/01  2022/07/01  2023/01/01  2023/07/01  2024/01/01
+      Closing Price  Target PriceChange   RecommeroaticnChanges
+                                                      Scurce: LSEG, Nomin

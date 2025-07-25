@@ -1,0 +1,16 @@
+(x)    MAPI P/E Band
+35
+
+30
+
+25     M
+
+20
+
+15
+
+10
+
+ 5
+ Jan-17    Jan-18    Jan-19
+       Fw. PIE (x)  3-year mean  +1STD  +2STD  -1STD  ~ZSTD

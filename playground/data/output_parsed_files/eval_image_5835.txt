@@ -1,0 +1,8 @@
+ (USD/bbl)    Sweet-sour differential
+ 15
+ 10
+ 5
+
+ (5)
+(10)
+(15) 3  2     3 8 8 8 8 8            3 2 3 8 8

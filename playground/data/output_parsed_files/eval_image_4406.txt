@@ -1,0 +1,10 @@
+Covid-19 Impacted Sectors              Gross Loans    Bonds
+Hospitality                            31 Dec-23      31 Dec-23
+Retail                                      1.0%      0.1%
+Aviation                                    2.5%      0.1%
+Leisure                                 0.2%          0.5%
+Total: Directly impacted sectors        0.3%          0.4%
+  vs 30 Jun-23                          4.0%          1.1%
+Others: Indirectly impacted sectors    4.4%           1.1%
+ vs 30 Jun-23                          19.9%          4.2%
+                                       20.0%          4.4%

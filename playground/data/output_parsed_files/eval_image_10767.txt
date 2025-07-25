@@ -1,0 +1,21 @@
+       Havells India    As of 2+-Jan-2024
+                        Currency =INR
+1500.
+1400.
+1300.
+1200.0C
+1100.00
+10oo.0o
+ 900.
+ 800.
+ 700.
+ 600.0C
+ soo.OC
+
+ 300.
+ 200.
+ 100.
+
+       2021/07/01  2022/01/01  2022/07/01  2023/01/01  2023/07/01  202+/01/01
+       Closing Price  Target PriceChange   RecommeroaticnChanges
+                                                       Scurce: LSEG, Nomin

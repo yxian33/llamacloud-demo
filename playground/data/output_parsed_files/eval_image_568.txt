@@ -1,0 +1,18 @@
+       Dalmia Bharat    As of 2+-Jan-2024
+                        Currency =INR
+3000.
+2750.
+2500.
+2250.00
+2000.
+1750.0C
+1500.
+1250.00
+100o.
+ 750.00
+ 500.00
+ 250.00
+
+       2021/07/01  2022/01/01  2022/07/01  2023/01/01  2023/07/01  2024/01/01
+       Closing Price  Target PriceChange   RecommeroaticnChanges
+                                                       Scurce: LSEG, Nomin

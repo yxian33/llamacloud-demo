@@ -1,0 +1,8 @@
+Percentage of total land needed for solar to produce region'$ energy
+demand (%)
+
+
+1.5  1.2    0.8  0.5  0.4  0.1  0.1
+
+Japan  Europe  China  CIS  India  North  ASEAN Mddle  South Australia  Africa
+                                  America      East   America

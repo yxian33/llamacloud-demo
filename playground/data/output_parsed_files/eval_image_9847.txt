@@ -1,0 +1,24 @@
+  0oo,000    PUBLIC CHARGING STATIONS (EUROPE)                35.0
+
+  500,000                                                     30.0
+
+  ooo,ooo
+3,500,000
+
+  ooo,000                                                     20.0 1
+
+  500,000                                                     15.0 2
+  0oo,000                                                         8
+
+  500,000                                                     10.0
+
+  0o0,000
+
+    500,0
+    00q
+
+                                2020
+                                2022
+                                    2024E  2028E  2032E
+                                    2026E         2030E  2034E
+         low Chargers (<<22k1)  Fas Chargers (>22kWV)  BEVs per station (RHS)

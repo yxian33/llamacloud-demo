@@ -1,0 +1,13 @@
+
+main models imported:
+
+| 2023:  | 50 k units |
+| ------ | ---------- |
+| 2024e: | 51 k units |
+| 2025e: | 53 k units |
+
+
+Mercedes:
+GLE, GLS,
+EQE SUV,
+EQS SUV

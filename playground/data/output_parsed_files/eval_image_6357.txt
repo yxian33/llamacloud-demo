@@ -1,0 +1,11 @@
+  SATS    As of 29-Feb-2024
+          Currency FSGd
+
+
+1.50
+
+0.50
+
+    2021/07/01  2022/01/01  2022/07/01  2023/01/01  2023/07/01  2024/01/01
+                Closing Price  Target Pricechange  RecommeroaticnChanges
+                                                    Scurce: LSEG, Nomin

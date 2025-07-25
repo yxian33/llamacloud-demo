@@ -1,0 +1,19 @@
+  800000  Actual Data    California Housing Prices: Actual Vs. Forecasted for 2023
+
+          VAR Forecast
+
+  700000
+
+  600o00
+
+@ 50ooo0
+2
+
+  400000
+
+  300000
+
+  200000
+
+                         2004    2009    2014                                     2019
+                                         Date

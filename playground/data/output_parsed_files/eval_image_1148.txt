@@ -1,0 +1,76 @@
+                                                                                                                           Correlation with*
+    Ticker                         Company                Factset Industry                   Mcap          ADTV            SOX         NVDA        TSMC
+                                                                                             (USD bn) (USD mn)
+  2330 TT          TSMC                                   Semiconductors                          564.9         647            0.61    0.48
+  005935 KS      Samsung Electr Pfd                      Telecommunications Equipment        363.9                             0.54    0.39        0.60
+  3711 TT         ASE Technology Holding                  Semiconductors                      19_                              0.50
+005930 KS        Samsung Electronics                     Telecommunications Equipment        363.9          853                        35            56
+  5483 TT          Sino-American Silicon                Semiconductors                                                                               55
+  2327 TT         Yageo                                 Electronic Production Equipment                    1                   0.46                0.56
+  000660 KS       SK hynix                                Semiconductors                      80_
+  3037 TT         Unimicron Technology                    Electronic Components                     8.9
+  2344            Winbond Electronics                   Semiconductors
+  8046 TT          Nan Ya Printed Circuit                 Electronic Components
+  034220 KS       LGDisplay                             Electronic Production Equipment
+  2454 TT         MediaTek                                Semiconductors                           49.5     208                                      58
+  2303 TT         United Microelectronics               Semiconductors                             19.5     108
+  009150 KS      Samsung Electro-Mechanics              Semiconductors                              7.8
+  522 HK          ASMPT                                   Electronic Production Equipment       4.7
+  VMS SP           Venture                               Computer Processing Hardware               3.0
+  2377 TT          Micro-Star                             Computer Peripherals                  5.1
+  6239 TT         Powertech Technology                  Semiconductors                              3.6     31
+  3529 TT         eMemory Technology                      Semiconductors                            7.0
+  2308 TT         Delta Electronics                     Electronic Production Equipment       24.1          62
+2379 TT           Realtek Semiconductor                   Semiconductors
+  8299 TT         Phison Electronics                      Electronic Production Equipment           3.5          33
+  5347 TT         Vanguard International Semiconductor  Semiconductors
+  3034 TT         Novatek Microelectronics                Semiconductors                           10.0
+  968 HK          Xinyi Solar Holdings                    Semiconductors
+  BIDU US          Baidu ADR                             Internet Software/Services                31.0     338
+  4958 TT         Zhen Ding Technology Hldg             Electronic Components                       3.0
+  2408 TT       Nanya Technology                        Semiconductors
+  6415 TT         Silergy                               Electronic Components                       5.0              23
+  011070 KS       LG Innotek                              Electronic Production Equipment
+  2382 HK        Sunny Optical Technology               Electronic Components
+  3443 TT         Global Unichip                        Semiconductors                                      208
+  2395 TT          Advantech                            Computer Processing Hardware               10.4               1
+   6526 TT         AirohaTechnology                       Semiconductors                      #
+  2376 TT         Gigabyte Technology                     Computer Peripherals
+  4938 TT        Pegatron                              Computer Processing Hardware
+6289 TT         MSEEETececbiogoy                       Electconid ctonponents                       3.2
+  DELTA TB        Delta Electronics                       Electronic Production Equipment          26.8
+  992 HK           Lenovo Group                          Computer Processing Hardware              13.3             133
+   603986 CH      Giga Device A                           Semiconductors
+   601138 CH       Foxconn Indl Internet A               Telecommunications Equipment              43.4             212
+  600703 CH       Sanan Optoelectronics                   Semiconductors                            8.2              50
+  2317 TT         Hon Hai Precision                       Computer Peripherals                     44.9     81                                     0.46
+  2382 TT         Quanta Computer                       Electronic Production Equipment            30.6             269                              22
+  3231 TT         Wistron                              Computer Processing Hardware           11.7                  268                              25
+  002156 CH       TongFu Microelectronics A               Semiconductors                        4.5         100                              26    0.17
+  3533 TT          Lotes                                  Electronic Components                     3.6              36                      19    0.37
+   688469 CH      United Nova A                           Semiconductors                       5.1                                           09    0.17
+  601231 CH        Universal Scientific Indl A          Electronic Production Equipment          44                                        0.19
+  2353 TT          Acer                                 Computer Processing Hardware                                                       0.19    0.22
+  2357 TT         ASUSTek Computer                        Computer Processing Hardware                                                     0.18    0.19
+  3653 TT          Jentech Precision Ind                  Computer Peripherals                      3.9             195                 24         0.35
+  1810 HK         Xiaomi B                                Telecommunications Equipment       35.2                                          0.18      24
+  3661 TT        Alchip Technologies                    Semiconductors                             10.0    7                           0.21          35
+  8069 TT         E Ink Holdings                       Computer Peripherals                         8.2                                      25      24
+  300408 CH        Chaozhou Three-Circle                  Electronic Components                                                              16
+ 600584 CH        JCET Group A                            Semiconductors                                                                22           20
+  2345 TT         Accton Technology                      Telecommunications Equipment              10.0                                      29
+  3481 TT          InnoluxTechnology                    Electronic Components                       4.5                                              20
+  2301 TT          Lite-On                                Computer Peripherals                      8.3                                      15    0.25
+ 3008 TT          LARGAN Precision                        Electronic Components                    10.2                                    0.15    0.30
+  2324 TT        Compal Electronics                     Computer Processing Hardware           3            56                          23         0.18
+   688599 CH      Trina Solar A                           Semiconductors                                             60                            0.10
+  009830 KS       HANWHA SOLUTIONS                      Semiconductors                                                                             0.33
+  2368 TT         Gold Circuit Electronics                Electronic Components              12.7                    59                      23    0.28
+   6669 TT        Wiwynn                                Data Processing Services                                           23                      0.30
+  002938 CH       Avery Holding Shenzhen A              Electronic Components                   6.1                  26                      18    0.16
+  BZ US           Kanzhun ADR                           Internet Software/Services                  5.3                                    0.16    0.15
+  2356 TT          Inventec                              Computer Processing Hardware           6.6                                                0.10
+  5269 TT         Asmedia Technology                      Semiconductors                         4                    2                            0.40
+   688008 CH     Montage Technology A                   Semiconductors                                                                             0.10
+  002916 CH       Shennan Cir-A Rg                      Electronic Components                                                              0.13    0.21
+  2385 TT        Chicony Electronics                   Computer Peripherals                         4.0     22             0.21        0.11        0.19

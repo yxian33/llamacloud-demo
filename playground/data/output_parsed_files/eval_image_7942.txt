@@ -1,0 +1,64 @@
+                         2     8
+
+    Nikkei
+                  HSI
+                 TWSE          2
+                  STI          8
+                Topix
+                 KLCI
+                  JCI
+                Nitty
+               Sensex
+                KOSPI
+                PCOMP
+    SSE Composite
+              CSI 300
+                  SET
+              s&P 500
+            MSCI CN $
+             MSCI TWS
+           MSCI SINGS          2
+             MSCI IDS
+            MSCI HK $          8
+           MSCI ASXJS
+             MSCI JPS          8
+             MSCI EMS
+         MSCI ASEAN $          1
+    MSCI UK
+             MSCI MYS          8
+             MSCI INS
+    MSCI Europe
+  MSCI Europe ex UK $
+             MSCI PHS
+             MSCI KRS
+            MSCI DM $
+             MSCI THS
+           MSCI USA $
+    ASXJ Momentum
+        ASXJ Growin
+    ASEAN Value                2
+         ASXJ Value $
+    ASEAN Growth
+     SPX Pure Value
+          SPX Value
+    SPX Pure Growih
+         SPX Growth $
+           LME Nickel
+           LME Copper
+GSCI Industrial Metal
+                Brent
+    LME Aluminium
+         Gold Bullion
+                  DXY
+                  IDR
+    MSCI EM Curr               1
+                  INR
+                  TWD
+                  SGD
+                  HKD
+    CNY
+                  PHP         2
+                  MYR       2 5
+                  THB
+                  KRW        07
+                  JPY    2

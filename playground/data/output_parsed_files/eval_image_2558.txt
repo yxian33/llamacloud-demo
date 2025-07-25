@@ -1,0 +1,18 @@
+34.0
+
+32.0
+
+30.0    A
+
+28.0
+
+26.0
+
+24.0
+
+22.0     W
+
+20.0     Sep-23
+ Dec-21  Mar-22  Jun-22  Sep-22  Dec-22  Mar-23  Jun-23    Dec-23
+
+         Forward PIE     +2.0sd    +1.Osd    Mean          -1.Osd    -2.Osd

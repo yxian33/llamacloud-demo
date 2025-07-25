@@ -1,0 +1,18 @@
+  China Merchants Bank    As of 23-Feb-2024
+
+                          Currerc FPKD
+
+
+50.0C
+
+40.0C    #NM
+35.00
+30 06
+25.0C
+20.0C
+15.00
+10.00
+
+         2021/07/01  2022/01/01  2022/07/01  2023/01/01  2023/07/01  2024/01/01
+                     Closing Price  Target Pricechange  RecommeroaticnChanges
+                                                         Scurce: LSEG, Nomin

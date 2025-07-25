@@ -1,0 +1,79 @@
+                                                                                                                                   FY 2023                      FY 2024                              Pert; Lc
+                                                                                                                                                                                                        %)
+                                                                                                                                   change in      Cons. Adj  % change in  change in      Cons. Adj      pert:
+ BBG Ticker    Stock                                           Country      Industry Group                              FS Mcap Adj earnings      Earnings     revenues  Adj earnings     Earnings      since
+                                                                                                                       ($ bn)   since 31 Dec      Growth rate since 31 Dec since 31 Dec Growth rate     31st
+                                                                                                                                     23           yly              23  23               yly             Dec23
+RELIANCE IN       Reliance Industries Limited                  India         Energy                                         240            -1%           8%                0%                17%
+ICICIBC IN     ICICI Bank Limited                              India         Banks                                                          4%                             2%
+INFO IN          Infosys Limited                               India         Software & Services                                                                                             13%          07
+HDFCB IN         HDFC Bank Limited                             India         Banks                                     131
+DBS SP           DBS Group Holdings Ltd                       Singapore      Banks
+TCS IN           Tata Consultancy Services Limited             India         Software & Services
+BBCA IJ          PT Bank Central Asia Tbk                      Indonesia         Banks                                                                                                       10%
+OCBC SP          OCBC                                        Singapore           Banks
+BHARTI IN        Bharti Airtel Limited                         India         Telecommunication Services
+ AXSB IN         Axis Bank Limited                             India         Banks                                                                                                           12%
+LT IN            Larsen & Toubro Ltd,                          India         Capital Goods                                                                                                   28%          (8
+BBRI IJ           PT Bank Rakyat Indonesia                     Indonesia         Banks                                                                                                       13%
+UOB SP           United Overseas Bank Limited                 Singapore      Banks
+HUVR IN          Hindustan Unilever Limited                    India         Household & Personal Products                   42                                                                           (9)
+KMB IN           Kotak Mahindra Bank Limited                   India         Banks                                                                                                            9%
+MM IN            Mahindra & Mahindra Ltd.                      India         Automobiles & Components                  28                                                                                 10
+BAF IN           Bajaj Finance Limited                         India         Financial Services                               7                                                                           1
+MSIL IN           Maruti Suzuki India Limited                  India         Automobiles & Components                                                                                        10%
+TTMT IN           Tata Motors Limited                          India         Automobiles & Components                              0%                                                            21%
+SCUSIN          Sc LrecteroSgesarerdtedR Class               Sidigapore     Sediare Enteetaicesent                                 79%                                                          -35%
+ NTPC IN         NTPC Limited                                  India         Utilities                                                                                                        4%
+ SUNP IN          Sun Pharmaceutical Industries Limited        India         Pharma Biotech                                                                                                  18%
+BMRI IJ          PT Bank Mandiri (Persero) Tbk                 Indonesia     Banks                                           82                                                                   9%       22
+ SBIN IN          State Bank of India                          India         Banks                                                                                                           13%
+PWGR IN           Power Grid Corporation of India Limited     India          Utilities                                       33
+ TTAN IN          Titan Company Limited                        India        Consumer Durables & Apparel                                                                                      26%          (8
+ITC IN          ITC Limited                                    India         Food Beverage & Tobacco
+ST SP             Singapore Telecommunications Limited         Singapore     Telecommunication Services                      34
+UTCEM IN          UltraTech Cement Limited                     India         Materials                                                                                                        8%
+PBK MK           Public Bank Bhd                               Malaysia     Banks                                            23
+ TATA IN          Tata Steel Limited                           India         Materials                                             25%                                                       68%          10
+ APNT IN          Asian Paints Ltd:                            India        Materials                                        23                                                                           (12}
+TLKM IJ          PT Telkom Indonesia                           Indonesia     Telecommunication Services                                                                                                   3
+ZOMATO IN         Zomato Ltd:                                  India        Consumer Services                                16                          34%                                320%
+JIOFIN IN        Jio Financial Services Limited                India         Financial Services                              25
+ MAY MK           Malayan Banking Bhd.                         Malaysia      Banks
+NEST IN          Nestle India Ltd.                             India         Food Beverage & Tobacco                         30                                                                              (2)
+ONGC IN          Oil & Natural Gas Corp. Ltd.                  India         Energy                                          42
+PTT TB           PTT Public Co. Ltd:                           Thailand      Energy                                          27                                                                              (2)
+CPALL TB         CP ALL Public Company Limited                 Thailand      Consumer Staples Distribution & Retail           L                                                              15%          3
+CIPLA IN         Cipla Ltd                                     India         Pharma/Biotech                                         5%                                                        9%
+BHE IN            Bharat Electronics Limited                   India        Capital Goods                                                                                                     5%
+DRRD IN           Dr, Reddy's Laboratories Ltd.                India         Pharma/Biotech
+BDMS TB          BDMS                                          Thailand     Health Care Equipment & Services                                                                                  8%
+CIMB MK          CIMB Group Holdings Bhd                       Malaysia      Banks                                                                                                                        34
+ TRENT IN        Trent Limited                                 India         Consumer Disc. Dist: & Retail                                                                                   36%
+ADSEZNN        Adalalfordussiez Limited                       India         Vatespostation                                                                                                       22%      '30
+SBILIFE IN       SBI Life Insurance Co. Ltd.                   India         Insurance                                                                                                       12%          22
+SHFL IN           Shriram Finance Limited                      India         Financial Services                                                                                              18%
+COAL IN           Coal India Ltd.                              India         Energy
+TATACONS IN      Tata Consumer Products Limited                India         Food Beverage & Tobacco                                                                                         21%
+TECHM IN         Tech Mahindra Limited                         India         Software & Services                                    0%                                                       78%
+WPRO IN           Wipro Limited                                India        Software & Services                              26
+DLFU IN          DLF Limited                                   India         Real Estate                                                                                                     26%            25
+AOT TB            Airports of Thailand Public Co Ltd           Thailand      Transportation                                   1                                                              39%
+VBL IN            Varun Beverages Ltd.                         India         Food Beverage & Tobacco                                                                                         23%
+KEP SP           Keppel Ltd,                                  Singapore      Capital Goods                                                                                                    6%            21
+HNAL IN          Hindustan Aeronautics Limited                 India         Capital Goods                                                                                                   16%            8
+DMART IN          Avenue Supermarts Ltd:                       India         Consumer Staples Distribution & Retail
+CICT SP          CapitaLand Integrated Commercial Trust        Singapore     REITs
+CLAR SP           CapitaLand Ascendas REIT                     Singapore     REITs                                     7
+ ADANIGR IN       Adani Green Energy Limited                   India         Utilities                                                                                                                     1
+BJFIN IN         Bajaj Finserv Limited                         India         Financial Services                                             2%                                       13%
+POWF IN           Power Finance Corporation Limited           India          Financial Services
+ APHS IN         Apollo Hospitals Enterprise Limited           India        Health Care Equipment & Services
+RECL IN          REC Limited                                   India        Financial Services                                             10%           22%                                               1
+GRASIM IN         Grasim Industries Ltd.                       India         Materials                                             36%                   25%               -41-
+SIA SP          Singapore Airlines Ltd.                       Singapore     Transportation                                                                                           24%
+MAXHEALT IN       Max Healthcare Institute Ltd                 India        Health Care Equipment & Services                                2%           0%                                  19%
+HDFCLIFE IN     HDFC Life Insurance Co. Ltd.                   India         Insurance                                                                   17%                                 15%
+ADE IN            Adani Enterprises Limited                    India         Capital Goods                             18                                                                    30%
+ADVANC TB        Advanced Info Service Public Co , Ltd:        Thailand     Telecommunication Services                                      2%           10%                                 10%
+ASII IJ          PT Astra International Tbk                    Indonesia     Capital Goods                                                  4%           11%               5%                -11%

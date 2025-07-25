@@ -1,0 +1,14 @@
+200                                       35
+180                                       30
+160    Nlw                                25
+140
+120                                       20
+100    Wv
+ 80                                    Nt 15
+ 60                                       10
+ 40
+ 20         5
+
+         N
+
+       Share price (TWD)    FINI holding (%)

@@ -1,0 +1,14 @@
+200.0
+180.0
+160.0
+140.0
+120.0
+ 100.0
+ 80.0
+ 60.0
+ 40.0
+ 20.0
+
+      8 8 8              8 8 8 8 8 8 3 3 3
+
+  ARINR Turnover (days)  APINP Turnover (days) Olnventory Turnover (days)

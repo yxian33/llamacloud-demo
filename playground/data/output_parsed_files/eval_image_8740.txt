@@ -1,0 +1,21 @@
+      Wistron Corp    As of 13-Mar-2024
+                      Currency
+160.00
+150.00
+140.0C
+130.00
+120.00
+110.00
+100.00
+ 90.0C
+ 80.00
+ 70.00
+ 60 06
+
+ 40 06
+ 30.0C
+
+
+  2021/07/01  2022/01/01  2022/07/01  2023/01/01  2023/07/01  202+/01/01
+              Closing Price  Target Pricechange  RecommeroaticnChanges
+                                                  Scurce: LSEG, Nomin

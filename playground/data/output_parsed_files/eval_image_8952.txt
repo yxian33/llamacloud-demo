@@ -1,0 +1,23 @@
+      Wuxi Bio
+              As of 26-Jan-2024
+              Currerc =pKD
+
+150.0C
+140.
+130.0C
+120.
+110.00
+100.OC
+
+ 80 00
+ 70.OC
+
+ 50.0C
+
+ 30.00
+ 20.00
+ 10.0C
+
+      2021/07/01  2022/01/01  2022/07/01  2023/01/01  2023/07/01  2024/01/01
+      Closing Price  Target PriceChange   RecommeroaticnChanges
+                                                      Scurce: LSEG, Nomin

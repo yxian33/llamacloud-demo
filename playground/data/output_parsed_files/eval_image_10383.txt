@@ -1,0 +1,16 @@
+ bp  2s10s swap spread curve
+ 10  ST Liquidity/Collateral ratio (rhs inv)
+ 20
+ 40
+-10  60
+
+-20  W  80
+ 100
+30  120
+
+-40  140
+
+50  160
+ 180
+60  200
+ 2017  2018  2019  2020  2021  2022  2023  2024

@@ -1,0 +1,16 @@
+Average Sizes                       10y     20y  30y
+ (consensus)
+  February       42                 41.9         25.0
+  March          43.               38.9          22
+  April          44.0               38.9         22.0
+
+Median Sizes                 Ty     10y     20y  30y
+ (consensus)
+  February_      56          2
+  March
+  April
+
+ Actual Sizes    2y    Ty           10y     20y  30y
+  February             56           42
+  March
+  April

@@ -1,0 +1,24 @@
+       Bajaj Finance    As of 19-Feb-2024
+                        Currency =INR
+
+9000.
+
+8ooo.OC
+
+7000.
+
+6000.
+
+5000.
+
+400o.00
+
+3000.
+
+Z0oo.OC
+
+10oo.0o
+
+       2021/07/01  2022/01/01  2022/07/01  2023/01/01  2023/07/01  2024/01/01
+       Closing Price  Target PriceChange   RecommeroaticnChanges
+                                                       Scurce: LSEG, Nomin

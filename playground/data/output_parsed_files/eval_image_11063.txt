@@ -1,0 +1,11 @@
+  Company     Rating                        Change
+                        Old        New      (%)
+BAF           BUY       800        7,200    18%5
+BAJAJFINSERV  BUY         1,900    1,850
+Cholamandalam REDUCE      1,000    1,000
+SBICARDS      REDUCE    650        640
+SHFL          BUY       2,700      2,900
+MMFS          REDUCE        240    240
+LICHF         BUY           740      720
+CREDAG        BUY           990      550    2255
+FIVESTAR                             880

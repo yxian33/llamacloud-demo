@@ -1,0 +1,13 @@
+  Informatization         Enterprise    Cloud Computing and IoT
+                          Interconnection
+
+ Firewall  Antivirus    Intrusion       VPN    NGFW  UEBA      EDR  3
+
+Intrusion               Prevention                   SOAR           [
+Detection    Password     WAF           4A     Al              NTA
+
+                          UTM         SOC      Cloud    loT    Mobility  3
+                                               Computing
+
+                         Anti-DDoS    Vulgcability    loV    Big Data  Industrial
+                                                                       Control

@@ -1,0 +1,11 @@
+     Central Pattana    As of 18-Jan-2024
+                        Currency =THB
+
+90.OC
+85.0C
+80.0C
+
+
+  2021/07/01  2022/01/01  2022/07/01  2023/01/01  2023/07/01  2024'01/01
+  Closing Price  Target PriceChange   RecommeroaticnChanges
+                                                  Scurce: LSEG, Nomin

@@ -1,0 +1,25 @@
+       88837
+                    J 7 7
+  L                     3
+8 3
+Ei     SK hynix
+       Samsung Elec:
+
+ 8              TSMC
+      Country Garden
+  5    Tencent
+  [    KEPCO
+  2
+ 2     SK Square
+ 1     SK Inc:
+                 PDD
+
+  6       LG Display
+  1    Ping An Insu
+             Meituan
+ 1     AIA
+            PICC P&c
+ 9     GoTo Gojek
+  5              UMC
+  1       Indian Oil
+ 3              BPCL

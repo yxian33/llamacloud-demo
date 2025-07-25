@@ -1,0 +1,19 @@
+8.0    Core PCE    90.0
+       ISM Services Prices (8m lead: rhs)
+
+7.0    PMI Services: Input Prices (6m lead,rhs)  85.
+
+6.0                                              80.0
+
+5.0                                              75.0
+                                                 70.0
+4.0
+                                                 85.0
+
+                                                 80.0
+2.0                                              55.0
+
+                                                 50.0
+
+0.0                                              45.0
+ 2017 2018 2019   2020  2021 2022   2023  2024   2025

@@ -1,0 +1,43 @@
+                                                                 US Panel Supply           Demand & Inventory                         EIA adv. pipeline
+                  Trailing Supply vs. Current Demand                                                   Inventory Build & YE Inventory Vs. Forward Demand
+   Supply mostly imports   domestic production, with1-Yrlag: Demand is all installs                    Inventory Build is current year new supply minus installs for that year
+  70GW      Demand  Small Scale Installs (c&/                    Planned solar based on                  Quick Takeaway
+           Residential)                                          EIA Pipeline as of 11/23      6OGW    Inventory entering '24                                                          150%
+  GOGW      Demand  Large-Scale Installs (GWdc)                                    59GW                almost meets '24 needs                             52GW                         130%
+            Actual ( '19-'22) EIA Pipeline ('23-'25)                     57GW                  5OGW
+  5OGW     Supply   Prior Year (Imports  Domestic                                              4OGW                                                                           40GW     110%
+            Production)                                                                        3OGW                            86%    30GW                 92%                         90%/
+
+  4OGW                                                           37GW                                           729                        81%                                         70%
+
+  30GW                             29GW            "27GW         33GW                      2OGW         43%     18GW           20GW                       22GW                61%      50%
+
+  20GW              20GW           25GW            23GW                                        1OGW     8GW    1OGW                    1OGW                                            309
+          12GW             19GW                             Quick Takeaway                      OGW      Inventory YE (2019+) 2GW                                                      10%
+  1OGW               Ex: 2020 US supply 28                                                               4 in Inventory (Imports                           Installs)
+           9GW    GW to supply 2021 install |           S&D mostly match;                      AOGW                                 Exports Production                        12GW*
+                     demand of 25 GW (from              when lagging supply                              YE Inventory as % of Fwd-Year Demand (EIA pipeline)                           -0%
+                                   endmarkets)                                                         "Actuals thru Nov: '23, For 24: est: net imports 34, production >11,
+   OGW     2019     2020           2021            2022          2023                      2OGW demand EIA filings For '25: demand +12% Yoy
+                                                                         2024                          2019     2020           2021         2022           2023               2024
+                                                                 US Panel Supply           Demand & Inventory                          EIA adv. Pipeline +33% DELAYS
+                  Trailing Supply vs. Current Demand                                                   Inventory Build & YE Inventory vs_ Forward Demand
+   Supply mostly imports   domestic production, with1-Yrlag. Demand is all installs                    Inventory Build is current year new supply minus installs for that year
+ZOGW       Demand-  Small Scale Installs (c&l-                   Planned solar based on                  Quick Takeaway                                                       61GW     150%
+           Residential)                                          EIA +33% DELAYS               6OGW    Approx: 30-40% excess                               58GW
+  6OGW     Demand   Large Scale Installs (GWdc)         Actua                      59GW        5OGW    inventory, or 17-22 GW                              141%               129%*
+           (19-'22) EIA    33% delays ('23-'25)                                                                                                                                        120%
+  5OGW     Supply   Prior Year (Imports  Domestic                                              4OGW
+
+  4OGW     Production)                                                   41GW                  3OGW                            86%          95%                                          0%
+                                                                 33GW                          2OGW             72%                    30GW               28GW                         60%/
+  30GW                             29GW            "27GW         32GW                                   43%     18GW           20GW
+
+  20GW              20GW           25GW            23GW                                        1OGW     8GW    1OGW                         1OGW                              4GW*     30%/
+
+          12GW             19GW                                  Quick Takeaway                 OGW     Inventory YE (2019+) 2GW                          Installs)
+  1OGW     9GW                                                   S&D widen, by YE24,           AOGW     4 in Inventory (Imports     Exports Production                     delays)
+                                                                  18 GW glut emerges                    YE Inventory as % of Fwd.-Yea  Demand (EIA pipeline                33%
+                                                                                                       "Actuals thru Nov: '23. For 24: est: net imports 34, production >11, demand EIA
+   OGW                                                                                     -20GWfilings with 33% delays. For "25: demand +12% YoY
+           2019     2020           2021            2022          2023    2024                          2019     2020           2021         2022           2023               2024

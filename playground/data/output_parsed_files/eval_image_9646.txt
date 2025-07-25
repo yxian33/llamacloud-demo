@@ -1,0 +1,11 @@
+              Price
+ (IDR)        Rel Jakarta Stock Exchange Composite
+
+1600                      120
+1500                       110
+1400                       100
+1300                       90
+1200                       80
+
+         8    2 8  13  1 4
+         1      !        2

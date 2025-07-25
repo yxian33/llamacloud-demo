@@ -1,0 +1,19 @@
+          JD.com    As of 06-Mar-2024
+                    Currency =USD
+120.00
+110.00
+100.00
+ 90.0C
+ 80.0C
+ 70.00
+ 60.00    Ywn
+
+ 50.00
+ 40.00
+ 30.00
+ 20.00
+ 10.00
+
+          2021/07/01  2022/01/01  2022/07/01  2023/01/01  2023/07/01  2024/01/01
+                      Closing Price  Target PriceChange  RecommeroaticnChanges
+                                                          Scurce: LSEG, Nomin

@@ -1,0 +1,11 @@
+18    Forward EVIEBITDA    Mean=12.3
+
+16    +ISD-13.4            -ISD-11.2
+
+14
+
+12
+
+10                         Nrm
+
+ 8

@@ -1,0 +1,10 @@
+               Spot LNG price    Oil linked LT-LNG price
+(USDImmbtu)    Domestic APM gas/UBP    Gas price ceiling
+60             HH contract
+50
+40
+30
+20
+10
+ 0
+      2 3      3 { 2 3           3     8 2 3 3          2 2

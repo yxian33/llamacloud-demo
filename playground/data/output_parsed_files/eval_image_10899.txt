@@ -1,0 +1,13 @@
+  100
+
+   90
+
+ 1 80    Normalized Dealer Capacity Utilization
+   70
+
+J 60
+   50
+
+   40
+
+   3015  16    18  19  20  21 22 23            24

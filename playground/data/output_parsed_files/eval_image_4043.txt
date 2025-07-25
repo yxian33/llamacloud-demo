@@ -1,0 +1,21 @@
+500
+
+400
+
+300
+
+200
+
+100
+
+  0
+
+   3QFY16    3QFY23
+   1QFY17    3QFY18
+             1QFY19 1QFY2O
+                    3QFY20  3QFY21
+                            1QFY22
+                                  3QFY22
+1QFY16       3QFY17               1QFY23  3QFY24
+             1QFY18    3QFY19  1QFY21     1QFY24
+        South Africa sales (ZAR Mn)    4 per. Mov.Avg.(South Africa sales (ZAR Mn))

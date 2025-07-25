@@ -1,0 +1,23 @@
+           HYBE    As of 12-Feb-2024
+                   Currency =KRW
+425000.0C
+40oooo.
+375000.
+350ooo.00
+325000.
+30oooo.            Mytln
+275000.0C
+250000.
+225000.
+Z0oooo.0o
+175000.0C
+150000.
+125000.
+1ooooo.OC
+ 75000.
+ soooo.OC
+ 25000.00
+
+           2021/07/01  2022/01/01  2022/07/01  2023/01/01  2023/07/01  2024/01/01
+           Closing Price  Target PriceChange   RecommeroaticnChanges
+                                                           Scurce: LSEG, Nomin

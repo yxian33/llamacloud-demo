@@ -1,0 +1,26 @@
+ Implementation Approach and Impact:                                Business Perspective
+ Basel IIl Reform encompasses changes to credit, market,            May have impact on pricing and business product strategies, especially arising
+operational risk-weighted assets (RWA) and capital, as well as      from capital floor requirement, CVAandMarket RWA. Overall changes also
+ Pillar 3 Disclosure                                                include reform to credit, operational, liquidity and capital
+ The changes will be implemented in phases across various           Capital Requirements
+ areas as aligned to BNM guidance The overall reform will be
+implemented over a span of 6-7 years (2024   2030)                  For FY2025, changes to the Operational RWA is expected to have capital impact
+In view of the complexity and the depth of change _   working       based on the current proposed guidance
+ group has been set up to oversee the overall Basel III Reform      Other significant impact will be market risk; or better known as fundamental
+implementation, that includes system implementation and             review of trading book; expected in 2030
+potential business changes
+ The bank is on track to ensure compliance of the guidelines as     KeyChanges
+ planned                                                            Thecapital impact from the adoption of Basel IIl Reform are mainly from the
+ Other jurisdictions i.e:: Indonesia have implemented Basel III     followingkeycomponents: _
+ Reform, whereby Maybank Indonesia has been in full
+ compliance since Jan 2023. Maybank Singapore Limited will           Operational Risk RWA (effective in 2025) Allows use of bank' $ own loss data
+start reporting in 2H2O24 as per MAS guidance                        to determine Internal Loss Multiplier
+ Due to the gradual phase-in of relevant guidelines in Malaysia,     Capital Floor (effective in 2027) As the bank computes CRWA under Internal
+the RWA impact is expected to be volatile                            Rating Based (IRB), required to compute under both IRB and Full Standardised
+                                                                     Approach (SA) in parallel
+                                                                     (The higher of x%* SA or IRB will prevail, where X is phased in from 50% to
+                                                                     72.5%6 over a period of up to 6 years. The number of years likely to be
+                                                                     compressed)
+                                                                     MRWA (effective in 2030) Significant change from mainly supervisory
+                                                                     parameter driven to now driven by usage of risk sensitivities (delta, vega and
+                                                                     curvatures)

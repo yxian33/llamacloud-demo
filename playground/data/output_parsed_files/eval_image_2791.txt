@@ -1,0 +1,15 @@
+70,000
+60,000
+
+50,000
+40,000
+30,000
+20,000
+10,000
+
+    1QFY2O  4QFY20     1QFY22  1QFY23 3QFY23
+                       3QFY21    4QFY23     3QFY24
+                       4QFY21    3QFY22
+            3QFY2O 1QFY21        4QFY22     1QFY24
+      2QFY20           2QFY21    2QFY22    2QFY23  2QFY24
+    ARPOB (INR per day)

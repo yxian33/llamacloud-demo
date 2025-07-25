@@ -1,0 +1,10 @@
+      -Isd  mean PE  +Isd  1 Year Forward PE
+35
+30
+25
+20          A4
+ 15
+ 10
+ 5
+
+      8  0    8            3

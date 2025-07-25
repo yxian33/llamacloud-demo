@@ -1,0 +1,14 @@
+     PICC P&c    As of 06-Mar-2024
+
+                 Currerc =pKD
+13.0C
+12.00
+11.00
+10.00
+
+                 M~+
+
+
+   2021/07/01  2022/01/01  2022/07/01  2023/01/01  2023/07/01  2024/01/01
+               Closing Price  Target Pricechange  RecommeroaticnChanges
+                                                   Scurce: LSEG, Nomin

@@ -1,0 +1,13 @@
+    ACEPACK    ACEPACK 2    ACEPACK DRIVE
+
+                                         9
+
+
+    1200 V Sic MOSFET    1200 V SiC MOSFET
+    650 V SiC MOSFET     650 V SiC MOSFET
+
+    ACEPACK DTM-32       ACEPACK SMIT
+
+
+1200 V SiC MOSFET    1200 V Sic MOSFET    1200 V SiC MOSFET
+ 650 V Sic MOSFET    650 V SiC Dioodes

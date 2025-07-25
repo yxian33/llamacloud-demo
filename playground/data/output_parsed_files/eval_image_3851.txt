@@ -1,0 +1,14 @@
+70.0    Service PMI: new orders
+
+65.0
+
+80.0
+
+55.0
+50.0
+45.0
+40.0
+35.0 233283813848 893 8
+
+        France    Germany      Eurozone
+        UK        US

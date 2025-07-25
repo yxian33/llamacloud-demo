@@ -1,0 +1,13 @@
+   235
+
+   230
+  3 225    224
+  0 220
+8 215      213
+ 1 210
+   205
+
+   200
+
+           Old TP  Exclusion of Asanko    Salares delays    Macro assumptions    New TP
+                   Inclusion of Osisko                      Roll forward         Other

@@ -1,0 +1,15 @@
+                                California Housing Prices: Actua  Forecasted for 2023
+            Actual Values
+            GPT ARIMA Forecast
+            'Magic' Model Forecast
+  340mu     Human ARIMA Forecast
+
+   730000
+
+2 720000
+
+   710000
+
+
+   2023    Mal    May    Aug    Sep
+                  Date

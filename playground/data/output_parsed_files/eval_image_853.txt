@@ -1,0 +1,22 @@
+    2 2 ? 3 2 8 8 5
+   Real Estate        1
+         Utilities
+    Staples Retail
+             Media
+  Const &
+    Matrls
+    Technology        1
+Ind. Goods & Svcs
+   Financial Svcs
+             Banks    5
+         Insurance
+         FRB          1
+    Telecom
+         Retail
+    Health Care
+    Stoxx 600          {
+         Autos
+    Prod & Svcs
+  Cons Travei & Leis
+    Resources
+    BasicChemicals

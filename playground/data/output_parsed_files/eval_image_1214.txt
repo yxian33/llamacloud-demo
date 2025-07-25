@@ -1,0 +1,10 @@
+(KRW bn)     BH EVS
+600          EV battery FPCB
+             Auto OLED
+
+400
+
+200
+
+
+   2021  2022  2023P  2024F  2025F  2026F

@@ -1,0 +1,23 @@
+                                                                                             #Land/Water/Sea use change
+                                                                                              Terrestrial use          Freshwater use                                                                      Marine use
+ISICGroup (Alphabetical)                  Production process (associated with each 'group     Indexed pressure score  Materiality rating (0 or 1)  Indexed pressure score  Materiality rating (0 or 1)     Indexed pressure score  Materiality rating (0 or 1)
+
+   Anima production                       Large-scale livestock (beef and dairy)
+
+   Construction of buildings              Small-scale livestock (beef and dairy)
+                                          Construction
+                                          Rea estate activities
+   Construction of roads and railways     Infrastructure builds
+
+   Fishing                                Infrastructure maintenance contracts
+                                          Freshwater wild-caught fish
+
+   Growing of perennial                   Saltwater wild-caught fish
+                           crops          Large-scale irrigated arable crops
+                                          Large-scale rainfed arable crops
+                                          Small-sca irrigated arable crops
+                                          Small-sca rainfed arable crops
+   Insurance                              Financia services
+                                          Managed health care
+   Mining of non-ferrous metal ores       Mining
+   Sea and coastal water transpont        Marine transpontation

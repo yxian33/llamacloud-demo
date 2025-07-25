@@ -1,0 +1,17 @@
+                                                                                                                         ESG
+                                                                                                                         Signals"
+
+                    Make Your Selection Here:  Sector    Industry    Company
+
+                                                         ccmpaly Headito Head Analysis
+
+Parent Company       Sector       Water Stress Score     Located Within WPA  Located Within KBA  KBA Overlap (Sqkm  WPA Overlap (Sqkm
+Baker Hughes Co      Energy                                                                      5_
+Ultrapar Particip _  Energy
+TotalEnergies SE     Energy
+PTT PCL              Energy                                                                                         51_
+Halliburton Co       Energy                                                                                         2.7KI
+Roya Dutch She_      Energy
+Schlumberger NV      Energy
+Solvay SA            Materials                                                                                       4.4K
+Vale SA              Materials                                                                                      4.6KI

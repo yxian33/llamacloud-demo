@@ -1,0 +1,15 @@
+30
+
+25
+
+20
+
+15
+
+10
+
+5
+
+  LI    L2    L3  L4    L5
+
+        Camera  Radar  LiDAR  Ultrasonic radar

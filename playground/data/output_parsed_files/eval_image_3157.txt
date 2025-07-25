@@ -1,0 +1,8 @@
+(S/kg)     Korean separator export price
+S120       Korean separator import price
+$100       Average separator price
+ S80       Ln~n
+ s60
+ $40
+ $20
+  $-

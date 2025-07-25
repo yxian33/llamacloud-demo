@@ -1,0 +1,14 @@
+P OTENTIAL DISA P PEA RE D F RACTIO N 0 F S PECIES (P DF s
+
+    10 Environmental                         2     Climate Change
+    Midpoints                                3     Marine Acidification
+    Evaluation of company's impactpn                Freshwater Acidification
+    biodiversity based on 10 impact          2      Terrestrial Acidification
+    indicators (IMPACT WORLD + LCIA)
+
+    One Overall Species                      3      Freshwater Eutrophication
+                                                   Marine Eutrophication
+    Richness Indicator                       2      Freshwater Ecotoxicity
+    Results are presented in Potentially           Water Availability
+    Disappeared Fraction of species (PDF)           Land Transformation
+    on a km2during a year (PDFkm2year)             Land Occupation

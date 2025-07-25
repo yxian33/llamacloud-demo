@@ -1,0 +1,13 @@
+Al Network Technology Comparison
+Fcaturo                  Intiniband    Ethernet Toduy    Ultra Ethcmot _
+Primary RDMA Intertace    IB Verbs     AOCEv2
+
+Scalable Cortrol Plane
+
+Multi-Path Packet Sprying
+
+Flow Conbol               Credit Based    PFCIECN        Dynaric Mulb-Path
+
+Encrypton
+
+Analyst Day 2023                                         ARISTA

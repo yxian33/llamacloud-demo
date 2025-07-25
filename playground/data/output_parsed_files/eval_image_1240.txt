@@ -1,0 +1,21 @@
+                          Google TPUv4      TPUv3
+ Production deployment      2020            2018
+ Peak TFLOPS         275 (bfl6 or int8)     123 (bfl6)
+  Clock Rate              1050 MHz          940 MHz
+  Tech node_Die size    Znm <600 mm2        16 nm 700 mm2
+  [ransistor count       22 billion         10 billion
+ Chips per CPU host
+ TDP                      NA                      NA
+ Idle Mn mean max         90, 121/170/192 W/123, 175/220/262 W
+ power
+ Inter Chip Interconnect  links @ 50 GBIs   4 links @ 70 GBIs
+ Largest scale            4096 chips        1024 chips
+ configuration       Single Instruction     Single Instruction
+ Processor Style          2D Data           2D Data
+ Processors     Chip
+ Threads Core
+ SparseCores      Chip  128 (CMEM)          32 MiB (VMEM)
+(On Chip Memory       32 MiB (VMEM)         5 MiB (spMEM)
+Register File Size     10 MiB (SpMEM)
+HBM2 capacity BW          0.25 MiB          0.25 MiB
+                          32 GiB, 1200 GBIs 32 GiB, 90 GBIs

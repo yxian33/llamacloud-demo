@@ -1,0 +1,42 @@
+          U.S. Electricity Generation                                                      U.S. Gross Load Growth Mix (BNPP Estimates)
+ 5500                        2024- TWh                                            Al / Data Center: Most estimates are dated or stillfast-changing Ex: AES"
+
+ 5000           2014-23              CAGR                                         Jan 24 data center presentation 17 GW 24-30 (+150 TWh, +10%p.a.),
+                             2%/
+          Net +200 TWh       Nel _                                                jumpedto 35 GW (+305 TWh, +139 p.a.) inthe new Mar: version.
+ 4500              CAGR                                                           BNPP est Iculation Start with Sm GPUlcustom units in 24 (BNPP NVDA
+                5%                                                       408                        8igne rising ata 239 CAGR thru '33 (LSD growth in
+                                                                                  model; 3.2mNVDA      4593. Assumes600-1,OOwlavg GPU (Gartner:
+ 4000                                                                             30s). 114m 24-33,
+                           Approx- ~30OTWh =                                      OO0 by "26}, rising over decade. 95% utilization  Result: +408 TWh:
+ 3500                      0.25-0.596 €         100
+                             energvefficiency + .
+                      for~125 .Gw               TWh fof             1             EVs: Reflects BNEF estimate forincreased electricity usage (all sources)
+                                           'of Resi / Cel behind                  relatedto all types of electricvehicles Matches growth of <4m passengerEV
+ 3000                                      themeter  200                 307      fleet risingto 64mat ~4.3MWh vehicle / yr: (which assumesICE still 60% of
+ 2500                                           rsolar;             1             total passengerfleet} Add ~3m commercial atblended 16MWh / vehicle / yr:
+
+ 2000                                                               3    221      Green Hydrogen: Currently, there are 84 GW of electrolyzer projects
+                                                                                  announced in theU.S. Assume 335 actually go through. At 90%5 uptime,
+ 1500                                                                             results in over 200 TWh power needs peryear:
+                                                                         164      Electrification (ex EVs): 34 quads total energy in '21 ex electricity (EIA)
+ 1000                                                                             164 = 2% electrification,matches NREL Ex: heat pumps,industry, etc:
+  500                                                                     148     Blockchain: Global 121 TWh in 23, 38% est U.S. (source: Cambridge
+                                                                                  Blockchain Netw. Sust Index) 459 CAGR since "18_ Assume~15% CAGR_
+                                                                          100     Manufacturing Reshoring Industry: This is a directional estimate.
+                                                                                  Modellingjustbattery plants seems to imply 50-75 TWh, and there are many
+  2013                                               2033                         other sectors (PV wincomponents  Would addup to wellabove 100
+         201
+         Load Growth; TWh                                                         Th, but significantamountofprojects are likely cancelled:
+         US Generation (after EE & BTM PV} TWh
+                             What's >Ik TWh net load growth or a 25% increase by 2033 imply for capacity?
+ We assume 60/25 /15 splitfor gas               onshore wind TWh contribution: We calculate         ~40%5 grid limitfrom renewables (higherin specific regions;
+ reflects aggregate, andis net of batteries     PV vs_ wind splitroughly reflects interconnection queue mix
+ Natural Gas       +631TWWh from 10        of load growth (in additionto growth from coal retirements_ Equalto +3595 increase intotal gas-power TWh
+comparedto 2023.Equals+120 GW needed at60% capacity factor or avg: +12GW / yr: (if allcame from new installs instead ofhigherutilization of
+ existing fleet}.  GW / yr hasbeenthe run rate added, withoutload growth asa key driver:
+ Solar PV: +263 TWh from 10 yr. of Igad growth (in additionto growth from decarbonization of grid) Equals +150 GW needed at209 capacity factor or
+ avg: +15 GW /yr: This is on top 0f 25-40 GW / year forward estimatesrelatedto decarbonization (23 GW newinstalls in 2023).
+ Onshore Wind: +158 TWh from 10yr: of load growth (in additionto                  from decarbonization of grid) Equals +50 GW needed at 358 capacity
+                                                                          growth-
+ factor or avg. +5 GW yr. This is ontop of 10-20 GW !yea forward estimates related to decarbonization (7 GW newinstalls in 2023).

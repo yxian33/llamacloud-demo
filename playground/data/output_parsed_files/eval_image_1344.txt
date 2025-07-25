@@ -1,0 +1,10 @@
+  6-week correlation with 3m VIX
+90%
+
+40%    Avju
+
+-10%
+
+60%    May-23
+  Jan-23  Mar-23                Jul-23  Sep-23  Nov-23  Jan-24
+          EURUSD 3m vol         GBPUSD 3m vol   USDJPY 3m vol

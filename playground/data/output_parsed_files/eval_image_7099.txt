@@ -1,0 +1,17 @@
+Place     EPIC    Share name
+
+          TN2S    Treasury 0.25% 31/01/2025     7.66
+
+                  NVIDIA Corp                   4.26
+
+                  Super Micro Computer Inc      2.27
+
+          T26     Treasury 0.125% 30/01/2026     1.60
+
+          RR:      Rolls Royce Holdings Plc      1.37
+
+          LQQS     WisdomTree                    1.36
+
+                  MicroStrategy Inc              1.36
+
+                  Tesla Inc                      1.20

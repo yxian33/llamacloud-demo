@@ -1,0 +1,9 @@
+ 6-week correlation with 3m10y US swaptionvol
+1009
+
+ 5096
+
+
+~5096
+   Jul-23  Aug-2  Sep-2  Oct-23  Nox-2 Dec-2  Jan-24
+     EURUSD ?m vo        GBP USD 3m vol  USDJPY 3m vol

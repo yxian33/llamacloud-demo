@@ -1,0 +1,11 @@
+ 6-week correlation with 3m local equity vol
+
+90%
+
+40%
+
+-10%
+
+60%    Jul-23                               Sep--23
+   Jan-23  Mar-23  May-23                          Nov-23  Jan-24
+       EURUSD 3m vol         GBPUSD 3m vol         USDJPY 3m vol

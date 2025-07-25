@@ -1,0 +1,19 @@
+    Emerging
+    security
+    sectors
+
+
+    Cloud Security          Data Security    Industrial & loT    Mobile Security
+                                             Security
+
+    Cloud Host Sec:         Government:      loT Sec: Topsec,    Mobile Terminal
+    Qingteng; Hillstone,    DBApp Security    Tianfangsec, Iottepa    Sec: QiAnXin,
+    Safedog                                                           Topsec, Bangcle
+
+   Container Sec:           Telecom: Dptech,    V2X Sec:              Mobile App Sec:
+Qingteng; Hilstone,         NSFocus,            VenusTech; Neusoft    Bangcle, Ijiami;
+    Safedog,                VenusTech                                 Secidea
+
+    Cloud anti-DDOS &
+    WAF:                    Education: Sangfor
+    Yunaq; Icloudshield

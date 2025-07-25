@@ -1,0 +1,32 @@
+         Rate shock: France has mainly fixed-rate mortgages, but its housing sector is highly            Fig: 10: Demand for mortgages has plunged as mortgage rates soared
+sensitive to changes in interest rates_           The c.3pp rise in the average mortgage rate    2.0                                                                                         -1.5
+                 since mid-2022 has been the largest rate shock since the early 1980s and has    1.5
+triggered a sharp decline in net credit flows, to almost zero in H2 2023.                         1.0
+ Housing starts in sharp fall:  The plunge in housing demand has depressed                        0.5                                                                                        -0.5
+            housing starts to 25-year lows. The latest survey from homebuilders suggests some
+stabilisation                Although demand for house renovation has been more resilient; we    -0.5
+ expect residential investment to decline for a third year in a row in 2024. The peak-to-        -1.0                                                                                        0.5
+trough decline could exceed 10%, according to our estimates                                      -1.5                                                                                        1.0
+                Mortgage   rates to decline soon: French  mortgage rates mainly adjust to the    -2.0     Demand for mortgages                                                              1.5
+smoothed 20-year OAT yield. Given our forecast  for  long-term  yields; we  think                -2.5     Mortgage rate shock       inv. Scale, rhs)
+            mortgage rates will decline from March onwards This could start unfreezing credit    -3.0                                                                                       2.0
+flows and unlocking some pent-up demand this year: Nevertheless_                  we forecast    2003   2005 2007         2009 2011 2013 2015 2017 2019 2021 2023
+ mortgage rates to remain above 3% by end-2025, way above the C.1% recorded in                   Demand for mortgages     obtained from the ECB Bank LendingSurvey; the mortgage rate shock is
+the aftermath of the pandemic_                                                                   the change in mortgage rate compared with its three-year average
+                                                                                                 Sources: ECB, BNP Paribas
+              Fig: 11: Housing starts have collapsed to 25-year lows                                     Fig: 12: Mortgage rates are likely to decline; but remain elevated
+
+   530,000                        Housing starts                             30
+
+   480,000                        Homebuilders' demand (balance; rhs)        10
+
+   430,000                                                                   -10
+
+   380,000                                                                                               Average mortgage rate
+
+   330,000                                                                   50                          Estimated*
+
+   280,000                        2013 2015 2017 2019 2021 2023 2025 -70                         2000 2002 2004 2006 2008 2010 2012 2014 2016 2018 2020 2022 2024
+   2003 2005 2007 2009 201-
+                                                                                                 Regression based on OAT yields, average duration of credit and the Slope of the yield curve
+ Sources: INSEE, BNP Paribas                                                                     Sources: ECB BNP Paribas

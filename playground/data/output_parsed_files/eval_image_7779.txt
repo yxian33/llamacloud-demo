@@ -1,0 +1,22 @@
+     China Mobile
+                 As of 18-Mar-2024
+                 Currerc =pKD
+
+80.0C
+75.00
+
+
+55.0C
+50.0C
+
+40.0C
+
+30.0C
+25.00
+
+15.0C
+10.0C
+
+     2021/07/01  2022/01/01  2022/07/01  2023/01/01            2023/07/01    2024/01/01
+                 Closing Price  Target Pricechange  RecommeroaticnChanges
+                                                     Scurce: LSEG, Nomin

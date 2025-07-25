@@ -1,0 +1,32 @@
+  Date       Tma             Counbryl                 Descrption                     Previous  Forecast  Consensus
+             GMT Local  Tenion
+05-Fed-24 c2.00  10 00       Eurozone     EC? 1 yex   #pectjcns
+Cs-Fed-24 08.15  09-13  Spain             S*p Giobavhcob compos       PMi: Jan         50.4    520
+05-Fed-24 08.15  02.13      opair        37GlobalHco3 semvces         MI: Jan          51.5
+Cs-Fed-24 08.45  09.43      Italy         S&p Globalhco3 composte PM : Jan             48.8
+05-Fec-24 034    09.43       haly         38P GlobalHCo3 genices PMI: Jan                                50 4
+   1-Fd-24 03.50 09-50      F-anc         S&p GlobalHco3 composte PMI: Jan            4.2 P)   42
+05-Fec-24 03.50  09-50      F-anc         38P GlobalHCo3 genices PMI: Jan            460 (P)     450     40
+05-Fed-24        09-58          Wmany     S&p GlobalHco3 composte PMI: Jan                         :
+05-Fec-24 035    09-53          @many     38P GlobalHCo3 genices PMI: Jan            47. (P)             47.6
+[s-Fed-24 c2.00  10-d0  Eurozone          S*P Globalkcoa comoostePMI: Jan .                              47.0
+05-Fet-24 c2.00  10-00       Eurozone     Scp GlobalHco3 semvices PMI: Jn            48.4                42.4
+[5-Fed-24 [3.30  0?.30                    SeP Global  concose PMI: Jan                          52 5     52 5
+05-Fed-24 0320   09.30                    S8p Globalci?s Sennces Pa: Jan -                       538     53.8
+[s-Fed-24   5.00 10-d0                    ISM services index:                        50.8       52 0     52 2
+05-Fed-24 18.00  14-00                    Fed relezses the Sen ?r Loan Cticer Opin on
+                                          Sun*Y
+O-Fed-24 07.00   02 D0                    Fzctory orders (wida   Dec YY                442
+E-Fed-24 07:00   03 D0                    Fzctory orders Dec mum                       0.30
+c-Fed-24 [2.00   10_00      Italy         Ecoionc senmmencJi                          107.2    107.0
+0-Fed-24 2.30    03-30                           consumpton: Cecyly                    27.       114
+07-Fed-24 07.00  03-00  Wmany             Incrstrial producton        Dec mm           -0.7     -0.5     -0
+07-Fec-24 03.00  0?-00       Soin         Ingstnz producton: Decmm                              -04
+07-Fed-24 13.20  03-30                    Tox                                        ~Usd83 sbn ~Usd62 5bn ~U3D82 3bn
+0s-Fet-24 Co.OO   00-0                    RIC ? house pnice Diance                   30.0%
+0s-Fet-24        00-d0                    SeP Global KPMG and REC repor          jpbs
+0s-Fet-24 0130   09.30  China             Jan Yiy
+0s-Fet-24 0130   0?.30  Cninz             PPI: Jayy
+0s-Fet-24 13.20  03.30                    jobless € aims: 03-Feb                     224k       2z0k
+0-Fed-24 240     03-50                    Cument accoutt (nsa                        Jpy1925.80 Jpy7e6.on
+C-Fed-24 07:00   03 00                                           mm                  ~.2% (P)   02       02

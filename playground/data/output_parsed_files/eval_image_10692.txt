@@ -1,0 +1,25 @@
+   Low Voltage EV Products (48V to 96V)             Products under Production and
+
+    Motor Controller                                supply
+    SmartPlug                                       Battery Management System
+ Battery                                            (BMS)
+Management                                          On Board Charger
+  System                                            Off Board Charger
+
+    On-Board                                        RCD Cable
+    Charger                                         Body Control Module
+
+  DC-DC                                             SmartPlug
+Converter                                           Telematics
+Body Control                                        Acoustic Vehicle Alert System
+Module (BCM)                                        (AVAS)
+
+                                                    Orders received, SOP in HZFY24
+                 Off Board                          Motor Controllers
+    Telematics    Charger                           DC-DC Converter
+                                                    Traction Motors
+
+    Traction Motors                        RCD Cable
+
+                       Acoustic Vehicle
+                       Alert System

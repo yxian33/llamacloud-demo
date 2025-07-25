@@ -1,0 +1,15 @@
+1.00    (CNYIWh)    (CNY/Wh)                              0.20
+0.90                                                      0.18
+0.80                                                      0.16
+0.70                                                      0.14
+0.60                                                      0.12
+0.50                                                      0.10
+0.40                                                      0.08
+0.30                                                      0.06
+0.20                                                      0.04
+0.10                                                      0.02
+0.00                8                                     0.00
+
+ Jul-21Oct-21Jan-22  Jul-22Oct-22Jan-23Apr-23 Jul-23Oct-23
+
+        Price gap (RHS)    LFP battery    NCM battery

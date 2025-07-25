@@ -1,0 +1,22 @@
+ GCPL  BRIT  COLGATE  DABUR  HUVR  ITC cigarette volume  NEST
+150
+
+140
+
+130  NEST
+ DABUR
+ GCPL
+120  BRIT
+ ITC
+ HUVR
+110  COLGATE
+
+100
+
+ 90
+
+ 80
+
+ 70
+
+ 60  2 8 8 8 8   8 8 8  g 8 8  8 8   2 8 8 8 8  8 8

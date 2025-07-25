@@ -1,0 +1,11 @@
+(USD bn)         Inventory (LHS)         (days)
+4                Inventory days (RHS)    80
+
+3                                        65
+
+2                                        50
+
+                                                                   35
+
+                                                                   20
+     1Q20   3020 1021 3021          1Q22 3022 1023 3023 1Q24F 3024F

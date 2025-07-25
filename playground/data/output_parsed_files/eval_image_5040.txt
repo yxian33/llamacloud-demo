@@ -1,0 +1,19 @@
+  Telekom Malaysia    As of 23-Feb-2024
+                      Currency =MYR
+
+
+6 00
+    hvmv
+    I
+
+4.50
+4.00
+
+2.50
+
+1.50
+1.00
+
+    2021/07/01  2022/01/01  2022/07/01  2023/01/01  2023/07/01  202+/01/01
+                Closing Price  Target PriceChange  RecommeroaticnChanges
+                                                    Scurce: LSEG, Nomin

@@ -1,0 +1,20 @@
+        Bank Mandiri    As of 03-Mar-2024
+                        Currency FIDF
+14000.00
+13000.
+12000.00
+11000.
+1cooo.OC
+ 90oo.0o
+ 8000.00
+ Z00o.00
+ 6000.
+ 5000.
+ 4000.
+ 3000.
+ 2000.00
+ 10oo.0o
+
+        2021/07/01  2022/01/01  2022/07/01  2023/01/01  2023/07/01  2024/01/01
+        Closing Price  Target PriceChange   RecommeroaticnChanges
+                                                        Scurce: LSEG, Nomin

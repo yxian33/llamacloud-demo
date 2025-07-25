@@ -1,0 +1,12 @@
+  140
+
+  130    125
+8 120
+1 110
+8 100
+ 1 90
+   80
+
+   70
+
+         Old TP    Macro assumptions    New TP

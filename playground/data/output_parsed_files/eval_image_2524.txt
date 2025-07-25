@@ -1,0 +1,22 @@
+    Wilmar International
+                        08-Fek-2024
+                        Currency FSGd
+
+5 00
+
+4.50
+
+
+3.00
+
+2.50
+
+1.50
+
+1.00
+
+0.50
+
+    2021/07/01  2022/01/01  2022/07/01  2023/01/01  2023/07/01  202+/01/01
+    Closing Price  Target Pricechange   RecommeroaticnChanges
+                                                    Scurce: LSEG, Nomin

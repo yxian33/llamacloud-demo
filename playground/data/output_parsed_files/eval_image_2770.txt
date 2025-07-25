@@ -1,0 +1,22 @@
+      Tigermed                                             As of 04-Mar-2024
+                                                               Currency =CNY
+
+200.
+
+175.00
+
+150.00
+
+125.0C
+
+100.OC
+
+ 75.00
+
+ 50.0C
+
+ 25.00
+
+      2021/07/01  2022/01/01  2022/07/01  2023/01/01  2023/07/01  2024/01/01
+      Closing Price  Target Pricechange   RecommeroaticnChanges
+                                                      Scurce: LSEG, Nomin

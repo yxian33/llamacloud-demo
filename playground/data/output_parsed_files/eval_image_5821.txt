@@ -1,0 +1,14 @@
+TODAY
+
+Optles[  DSP  Optical 1/0
+PcB                      Rctimcr  ASIC
+Transcciver Modulc       PCB
+                         Switch Motherboard
+
+                         FUTURE
+
+                                  Switch CPO
+                         Optics   ASIC
+                         Substratc
+                                  PCB
+                         Switch Motherboard

@@ -1,0 +1,15 @@
+         Cipla    06-Fek-2024
+
+1500.             Currency =INR
+1400.
+ 300.
+1200.
+
+1c00.
+
+
+ 200.
+
+     2021/07/01  2022/01/01  2022/07/01  2023/01/01  2023/07/01  2024/01/01
+     Closing Price  Target PriceChange   RecommeroaticnChanges
+                                                     Scurce: LSEG, Nomin

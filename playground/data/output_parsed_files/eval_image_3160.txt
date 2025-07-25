@@ -1,0 +1,13 @@
+450 (CNY'OOO/tonne)
+400
+350
+300
+250
+200
+150
+100
+ 50
+  0
+
+    Sep-21Dec-21Mar-22Jun-22Sep-22Dec-22Mar-23 Jun-23Sep-23
+    NCM523         NCM523  NCM811  LFP

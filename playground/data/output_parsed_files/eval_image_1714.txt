@@ -1,0 +1,23 @@
+      Gujarat Gas    As of 15-Feb-2024
+                     Currency =INR
+900.00
+850.00
+800.00
+750.
+700.
+650.
+600.
+
+
+400.
+
+300.0C
+250.0C
+200.0C
+150.00
+100.00
+ 50.00
+
+      2021/07/01  2022/01/01  2022/07/01  2023/01/01  2023/07/01  2024/01/01
+      Closing Price  Target Pricechange   RecommeroaticnChanges
+                                                      Scurce: LSEG, Nomin

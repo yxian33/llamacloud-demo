@@ -1,0 +1,21 @@
+ 180 patients             Total Duration: 26 weeks                                        Proposed Endpoints
+
+Independent               IMNM    10OOmg efgartigimod SC (+ SOC)    Primary
+adjudication committee            Placebo SC (+ SOC)                                     Response based on
+
+Stratified for                                                                           Total Improvement Score (TIS)
+IMNM                      ASyS    10Omg efgartigimod SC (+ SOC)                          ACR/EULAR endorsed
+ ASys                             Placebo sc (+ SOC)                                     Key Secondary
+ DM                                                                                       Meanchangeᵃⁿᵈduration in TIS
+Severity of muscle                                                                        Quality of Life
+weakness (MMT)            DM      100Omg efgartigimod SC (+ SOC)                          Individual Core Set Measures TIS
+
+Eligibility criteria                                                                       MMT-8 score
+ Minimal muscle                   Placebo sc (+ SOC)                                      Physician Global
+weakness                                                                                   Assessment
+ No malignancies                  Adaptive enrichment                                      Patient Global Assessment
+                                  Interim analysis                                        HAQ-Disability Index score
+                                                                                           Extramuscular Global
+                                  Independent DSMB                                         Assessment
+                                  Subpopulation adjustment  Sample size re-estimation      Muscle enzyme serum level
+       Adults

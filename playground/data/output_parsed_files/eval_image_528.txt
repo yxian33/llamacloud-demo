@@ -1,0 +1,26 @@
+Metric     Driver of nature     Indicator       Metric                                    Connection t0 GBF
+no:        change                                                                         targets
+
+C2.3       Pollutionl            Plastic        Plastic footprint as measured by total    Target 7, Target 11
+           pollution removal     pollution      weight (tonnes) of plastics (polymers     (B.1 Services provided
+                                                durable goods and packaging) used or      by ecosystems)
+                                                sold broken down into the raw material
+                                                content:
+
+                                                For plastic packaging, percentage of
+                                               plastics that is:
+                                                 Re-usable;
+                                                Compostable;
+                                                 Technically recyclable; and
+                                                 Recyclable in practice and at scale_
+
+C2.4                             Non-GHG air    Non-GHG air pollutants (tonnes) by       Target 7, Target 11
+                                 pollutants     type                                      (B.1 Services provided
+                                                 Particulate matter(PMzsandlor           by ecosystems)
+                                                 PM,);
+                                                 Nitrogen oxides (NOz NO and NO );
+                                                 Volatile organic compounds (VOC or
+                                                 NMVOC);
+                                                 Sulphuroxides (SO z SO, SO,, SO,);
+                                                 and
+                                                 Ammonia (NH;)

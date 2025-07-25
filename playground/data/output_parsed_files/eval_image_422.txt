@@ -1,0 +1,8 @@
+300%
+200%
+100%
+ 0%
+-100% 8  3 3  1 8 8 1                   8 3 3            1 3
+
+         Polysilicon prime for mono     Mono wafer -21Omm
+         Mono PERC cell 21Omm           Mono PERC module 21Omm

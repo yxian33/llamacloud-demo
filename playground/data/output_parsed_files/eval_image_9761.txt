@@ -1,0 +1,9 @@
+   40    Election called    Election May 1997
+   20                                        1
+
+8 ~20
+   40                                        Mw
+   60
+   80    10
+         8 8 8 ? 8 8 ? 8 8 ? 0 2 8 8 ? 8 8 ? 8 8 g
+           Days from electionday

@@ -1,0 +1,16 @@
+           49%   58%  63%            58%        59%
+          Global  Global  Global     Global     Global
+100%
+ 90%     21%1    26%      23%1        21%       23%
+ 80%
+ 70%     12%     13%      11%         12%        12%
+ 60%      18%    p2o%     19%4         19%      8%/4
+  50
+ 40%      19%    13%      12%          15%      15%
+ 30%
+ 20%     30%|    28%      35%|       33%1       32%
+10%
+ 0%     Till Dec-22 Till Mar-23 Till Jun-23 Till Sep-23 Till Dec-23
+
+  Auto ICE (PV+CV)  Auto ICE (2W)      0XEV
+  Tech Agnostic     Non auto

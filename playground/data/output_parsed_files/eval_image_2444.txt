@@ -1,0 +1,33 @@
+                                                    BMW Mercedes              VW          Porsche Stellantis Renault     Volvo      Ferrari    Tesla
+China to Europe     k Units                                                                                               128                   249
+                    USDbn                             2.1      1.0                                                      5.5                     12.4
+ASP                                                 40,211     48,760         44,401      NM     36,841     24,380      43,342      NM         49,843
+Pure_tariff _impact lif tariff raised from I%to_
+15%0 tariff                                  SDm                                                                                                   620
+25%0tanff                                             -525
+35%0tanff                                                      346                                                                                -3,101
+45% tariff                                  USDm                                                 105                    936                      342
+15%0tanff                                    PBT                        3%                            3%
+25%0tanff                                    PBT    -2.19                                                               25                     3
+35%0tanff                                  % PBT                       590          0%
+45% tariff                                 % PBT               -2.0%                39                59      8%
+Or volume_impact lif tariff raised from I% to                                                                3
+15%0 tariff                                  SDm                                                                                                 279
+25%0tanff                                    SDm     -236                                                                                        837
+35%0tanff                                    SDm                                                                                                  396
+45% tariff                                  USDm                              136                                                                 954
+15%0 tariff                                % PBT     -0.3%           -0.1%       -0.1%     NM    0%          -0.590      33.9%0                    2.4%
+25% tariff                                 % PBT     -0.9%           -0.4%       -0.3%     NM                -1.5%       -11.8%         NM        -7.2%
+35%0 tariff                                % PBT     -1.6%           -0.7%       -0.4%     NM      -0.1%     22.590     -19.        NM            -11.9%
+45%0 tariff                                % PBT     22.29           -0.9%       -0.6%     NM      -0.2%     33.590    ~27.6%           NM        -16.7%
+
+Blended impact lif tariff raised from 258 to_
+15% tariff                                  USDm                                           NM                           201         NM         450
+25% tariff                                  USDm      -228         108        157          NM                 121                       NM     -1,349
+35% tariff                                  USDm      381          179                     NM                 201         -1,003        NM     -2,249
+45% tariff                                  USDm      -533     -251           -219         NM                 281         -1,404        NM     3,148
+
+15% tariff          % PBT                            -0.5%          -0.2%0       -0.1%     NM    0%           8%         -6.3%          NM        33.8%
+25%tanff                                   % PBT     -1.590          -0.6%       -0.4%     NM     -0.190     22.4%       -19.0%         NM       -11.590
+35%tanff            % PBT                            22.590          -1.1%       -0.7%     NM     -0.2%0     4.19       331.790         NM       -19.2%0
+45% tariff                                 % PBT     33.6%          -1.590       -1.0%     NM      -0.3%     55.790      44.496         NM        26.99

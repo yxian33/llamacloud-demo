@@ -1,0 +1,7 @@
+1 -2    V
+
+  -3
+
+ 2019   2020  2021  2022  2023  2024
+              Average survey sentiment
+              9Oth percentile, expanding window

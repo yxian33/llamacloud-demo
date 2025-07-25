@@ -1,0 +1,9 @@
+
+
+| Metric no. | Driver of nature change      | Indicator              | Metric                                                                                                                                                                                                                                                                                                                                                     | Connection to GBF targets                                 |
+| ---------- | ---------------------------- | ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
+| C2.3       | Pollution/ pollution removal | Plastic pollution      | Plastic footprint as measured by total weight (tonnes) of plastics (polymers, durable goods and packaging) used or sold broken down into the raw material content.69<br/><br/>For plastic packaging, percentage of plastics that is:<br/><br/>• Re-usable;<br/>• Compostable;<br/>• Technically recyclable; and<br/>• Recyclable in practice and at scale. | Target 7, Target 11 (B.1 Services provided by ecosystems) |
+| C2.4       |                              | Non-GHG air pollutants | Non-GHG air pollutants (tonnes) by type:<br/><br/>• Particulate matter (PM2.5 and/or PM10);<br/>• Nitrogen oxides (NOx, NO and NO2);<br/>• Volatile organic compounds (VOC or NMVOC);<br/>• Sulphur oxides (SO2, SO3, SOx, SO4); and<br/>• Ammonia (NH3)                                                                                                   | Target 7, Target 11 (B.1 Services provided by ecosystems) |
+
+
+

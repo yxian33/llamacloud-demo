@@ -1,0 +1,17 @@
+           8 8 8 3 8  2
+
+EURUSD     6
+
+ USDJPY    2
+
+ USDCHF               1
+           5"
+ GBPUSD    9
+                      8
+ AUDUSD
+
+ NZDUSD
+
+ USDCAD
+
+ XAUUSD

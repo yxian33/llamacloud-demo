@@ -1,0 +1,2 @@
+
+[Map showing Europe and surrounding regions displayed as blue silhouettes against a white background. The map includes the British Isles, Scandinavia, continental Europe, parts of North Africa, and western Asia including Russia. Water bodies such as the Mediterranean Sea, Baltic Sea, and Atlantic Ocean appear as white spaces. There is a small "x" close button visible in the upper right corner of the image.]

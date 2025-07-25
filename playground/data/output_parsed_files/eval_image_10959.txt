@@ -1,0 +1,20 @@
+       Tata Consumer Products                08-Fek-2024
+                                             Currency =INR
+1400.0C
+1300.
+1200.00
+1100.0C
+100o.
+ 900.
+ 800.00
+ 700.
+ 600.
+ 500.00
+ 400.
+ 300.
+ 200.
+ 100.00
+
+       2021/07/01  2022/01/01  2022/07/01    2023/01/01  2023/07/01  202+/01/01
+       Closing Price   Target PriceChange    RecommeroaticnChanges
+                                                         Scurce: LSEG, Nomin

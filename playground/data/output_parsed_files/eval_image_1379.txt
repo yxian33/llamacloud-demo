@@ -1,0 +1,15 @@
+    Materials              3-year range
+
+ ConsumerDiscretionary     Current
+                           10 ago
+    Consumer Staples
+    Energy
+Information Technology
+             Utilities
+
+    Financials
+    Industrials
+
+Communication Services
+           Health Care
+                          0.1  0.2     0.3

@@ -1,0 +1,18 @@
+     Central Retail Corporation    As of 18-Jan-2024
+                                   Currency =THB
+55.00
+50.0C
+
+45.00
+40.00
+35.00
+
+25.00
+
+20.00
+15.00
+10.00
+
+     2021/07/01  2022/01/01  2022/07/01  2023/01/01  2023/07/01  2024'01/01
+     Closing Price  Target PriceChange   RecommeroaticnChanges
+                                                     Scurce: LSEG, Nomin

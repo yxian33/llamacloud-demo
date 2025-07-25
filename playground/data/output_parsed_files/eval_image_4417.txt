@@ -1,0 +1,30 @@
+8000
+
+ 7000
+
+6000
+
+ 5000
+
+ 4000
+
+3000
+
+2000
+
+1000
+
+  0
+
+     3QFY22
+ 1QFY2O    4QFY22
+     2QFY20
+           3QFY20
+           4QFY20
+                 1QFY21 3QFY21
+                        4QFY21
+                              1QFY22    1QFY23 3QFY23
+                                               4QFY23
+                 2QFY21       2QFY22    2QFY23       1QFY24 3QFY24
+                                                     2QFY24
+  Sales INR mn

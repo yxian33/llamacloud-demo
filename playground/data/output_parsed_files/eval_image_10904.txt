@@ -1,0 +1,13 @@
+(USD mn)  monthly revenue (LHS)    (%)
+400       y-y growth (RHS)         200
+
+360                                 150
+
+320                                 100
+
+280                                50
+
+240
+
+200       Jan-23                   Jan-24 (50)
+  Jan-22  Jul-22              Jul-23

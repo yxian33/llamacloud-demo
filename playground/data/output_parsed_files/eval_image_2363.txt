@@ -1,0 +1,12 @@
+4,500
+4,000
+3,500
+3,000
+2,500
+2,000
+1,500
+1,000
+  500
+
+          Product supplier  Service supplier  Integrated player
+    2021  2022 D2023

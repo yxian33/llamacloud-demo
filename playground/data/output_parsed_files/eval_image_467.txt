@@ -1,0 +1,13 @@
+2026 ex-AWS EBITDA                  68,040
+ EVI EBITDA                             12
+ EV                                789,265
+ Dis count rate                        10%
+ Present EV                        654,881
+ EV (in one year's tme)             720,369
+Aws DCFEVin one_year                889,290]
+EV in one year                     7,609,658]
+Net debt in one year                      860
+
+Market Cap in one year              1,604,798
+  Shares Outstanding in one year    10,723
+  Per share price                   150

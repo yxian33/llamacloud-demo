@@ -1,0 +1,19 @@
+3500
+3000
+2500
+2000
+1500
+1000
+ 500
+
+   0
+
+            4QFY21                                        1QFY24
+    2QFY21             1QFY22           1QFY23            4QFY23  3QFY24
+   1QFY21  3QFY21      2QFY22
+                                 3QFY22
+                                        4QFY22  2QFY23            2QFY24
+                                                3QFY23
+           ROW sales (base) (INR mn)            ROW sales (Cenexi) (INR mn)
+           FY21 Avg                             FY22 Avg
+           FY23 Avg

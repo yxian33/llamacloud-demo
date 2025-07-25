@@ -1,0 +1,11 @@
+(x)    MAPA PIE band
+20
+
+15
+
+10
+
+ 5
+
+ Jan-21    Jan-22    Jan-23    Jan-24
+       Fw. P/E (x)  2-year mean  +1STD  ~+2STD  -1STD  3-ZSTD

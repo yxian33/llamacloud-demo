@@ -1,0 +1,17 @@
+                        Nvidia AIOO           Graphcore MK2 IPU
+ Production deployment  2020                   2021
+ Peak TFLOPS            312 (bf16)624 (i8,     250 (bf16)
+  Clock Rate Base Boost 1095 /1410 MHz         1850 MHz
+  Tech node, Die size   nm 826 mm             nm 832 mm?
+ Transistor count       54 billion             59 billion
+ Chips per CPU host
+ TDP                    400 W                  300 W
+ Inter Chip Interconnect12 links @ 25 GBIs    3 links  64 GBIs
+ Largest scale MLPerf   4216 chips             256 chips
+ 2.0 configuration      Single Instruction    Multiple Instruction
+ Processor Style          Multiple Threads    Multiple Data
+ Processors Chip        108                    1472
+ Threads Core
+ On Chip Memory         40 MiB                 900 MiB
+ Register File Size     27 MiB                 140 MiB
+HBM2 capacity, BW       80 GiB 2039 GBls

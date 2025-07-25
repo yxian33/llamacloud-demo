@@ -1,0 +1,28 @@
+                            Nomura ESG Jeaders list_
+
+ Jicker      Sector                            Mcap (USD m) NMR ESG score NMR rating
+ PBK         Financials                        17,923              Buy
+ BURSA       Financials                        1,248               Neutral
+ CDB         Telecommunications                10, 535     4,3     Neutral
+ DLG         Energy                             2,218              Meutral
+ WPRTS       Transport Logistics                2,687                Buy
+ PCHEM       Materials                          11,410             Buy
+ PMAH        Materials                          8,444      3.7     Buy
+ SCGB        Engineering    construction         591       3.7     Buy
+ HART        Healthcare & Pharmaceuticals       1,976      3.8    Neutra
+ GREATEC     Technology                        269         4.2     Buy
+
+                            Nomura ESG movers list
+
+ Ticker      Sector                            Mcap (USD moL NMR ESG score NMRrating
+ CIMB       Financials                          13,791             Buy
+ HLBK        Financials                         8,785      4.3       Buy
+
+ TNB         Telecommunications                    800     43        Buy
+ SDPL        Power     Utilities               12,864                Buy
+             Plantations                           400            Reduce
+ UM          Engineering    construction       615                 Neutral
+ SIME        Miscellaneous Industrials           3,600               Buy
+TOPG         Healthcare     Pharmaceuticals    523         3.8    Neutra
+ VITRO       Technology                                              Buy
+ CTOS        Technology                        688                   Buy

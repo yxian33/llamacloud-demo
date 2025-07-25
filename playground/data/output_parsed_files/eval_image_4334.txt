@@ -1,0 +1,11 @@
+1.5
+
+1.0  peak PIB 1.Ox
+                  +IS.D 0.8x
+
+0.5               avg. PIB 0.6x
+                  -IS.DO.5x
+
+                  bottom PIB 0.3x
+0.0
+ Jan-14  Jan-16   Jan-18  Jan-20  Jan-22  Jan-24

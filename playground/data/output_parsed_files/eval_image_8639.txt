@@ -1,0 +1,11 @@
+Cost                                   Cas8 Iype rodule Application  Charging station;
+                                                         >600A       Bus , PV inverter
+
+             Case lxpe                                   300 GOQA    Traclion inverter
+    HSDIP2O    Ctype                                     1O0A 200A   FCV super charger
+
+               DOT247                                                InverterBoost converter
+
+        Ls-ele                 TRCDrive packTM           1QOA        OBC DCIDC
+
+                         Z0CA  AODA               1OCO4  Target current ratings

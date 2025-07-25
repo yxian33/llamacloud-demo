@@ -1,0 +1,13 @@
+  (Wbn)
+  400
+      350
+      300
+      250
+      200
+      150
+      100
+       50
+
+ (50)    FY19  FY2O  FY21  FY22  FY23  FY24F  FY25F
+(100)
+         Retail OP (offline, online, supermarket; CVS)  Food OP (SSG Food, SKC, Hotel)

@@ -1,0 +1,17 @@
+                               Billed         Billed Metered Consumption       Revenue
+                               Authorized     Billed Unmetered Consumption     Water
+                  Authorized   Consumption
+                  Consumption  Unbilled       Unbilled Metered Consumption
+
+    System                     Authorized
+    Input                      Consumption   Unbilled Unmetered Consumption    Non
+    Volume                     Apparent       Unauthorized Consumption         Revenue
+  (Produced or                 Losses                                          Water
+Purchased                                     Customer Meter Inaccuracies      (NRW)
+  Water)     Water                            and Data Handling Errors
+            Losses                            Leakage In Transmission
+                               Real           and Distribution Mains
+                               Losses         Storage Leaks and Overflows
+                                              from Storage Tanks
+                                              Service Connection Leaks
+                                              up to the Meter

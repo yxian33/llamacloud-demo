@@ -1,0 +1,20 @@
+240    (CNY k)
+
+230
+
+220           222.8
+
+210
+
+200
+
+190           185.1
+180           179
+
+170           176.9
+
+160
+
+150    Mar-23 Apr-23 May-23 Jun-23 Jul-23 Aug-23 Sep-23 Oct-23 Nov-23 Dec-23
+
+              Overall average retail price    ICE  BEV         PHEV&EREV

@@ -1,0 +1,19 @@
+    TIME dotCom Bhd    As of 29-Feb-2024
+                           Currency =MYR
+
+5.50
+
+4.50
+
+
+3 00
+
+2.50
+2.00
+1.50
+1.00
+0.50
+
+    2021/07/01  2022/01/01  2022/07/01  2023/01/01  2023/07/01  2024/01/01
+                Closing Price  Target PriceChange  RecommeroaticnChanges
+                                                    Scurce: LSEG, Nomin

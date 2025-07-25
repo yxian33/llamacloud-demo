@@ -1,0 +1,16 @@
+TTEC Atento  Teleperformance DXC Technology    Tech Mahindra Firstsource Transcom Bellsystem24
+Sitel Group  Concentrix  Relia  Alorica        Infosys       VXI Global  Wipro   Accenture
+SYKES        Webhelp Conduent Transcosmos      Arvato        TELUS Sutherland iQor
+             Comdata                                         AlmavivA    Startek
+
+     Mega Providers      >=USDIbn              Large Providers  USDSOOmn <USDIbn
+                                                                7=
+
+                         TMOne  Capgemini      Beyondsoft Salmat Konecta HGS
+                         Scicom   Unisono Group Fuji  Xerox CGS Genpact   Arise EXL
+                         Virtual iBex OmniContact Biz Suria HCLTech 24-7 Intouch
+                              CSSCorp WNS      Covisian Continuum Global Solutions
+                         Qualfon     Evidence   Working Solutions Transperent BPO
+                                                            ogy
+                         General Dynamics Information Technol     Capita  Stellar
+                                 Midsize Providers        USDSOOmn

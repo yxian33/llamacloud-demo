@@ -1,0 +1,12 @@
+   % US LabourForce
+                   Foreigner
+Legal
+ 1790
+
+                   Foreigner _
+                   Illegal
+                   596
+
+
+US Bom
+ 7890

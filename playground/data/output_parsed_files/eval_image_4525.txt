@@ -1,0 +1,21 @@
+      Reliance Industries    As of 15-Jan-2024
+                             Currency =INR
+ 3000.
+ 2750.
+ 2500.
+
+2250
+
+ 2000.
+ 1750
+ 1500.
+ 1250
+
+ 1000.
+
+
+  250.5
+
+       2021/07/01  2022/01/01  2022/07/01  2023/01/01  2023/07/01  2021/07/01
+       Closing Price  Target Pricechange   RecommeroaticnChanges
+                                                       Scurce: LSEG, Nomin

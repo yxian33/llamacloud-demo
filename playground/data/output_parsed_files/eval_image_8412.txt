@@ -1,0 +1,14 @@
+    100    La Nina  Neutral  El Nino
+    90
+2   80
+1   70
+    60
+
+L   50
+    40
+    30
+    20
+    10
+
+           JFM  FMA  MAM  AMJ  MJJ  JJA 2024JAS 2024  ASO  SON
+           2024  2024  2024  2024  2024               2024  2024

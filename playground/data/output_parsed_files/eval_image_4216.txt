@@ -1,0 +1,12 @@
+ (mmscmd)  Domestic gas    LNG  LNG share % (RHS)
+250                                              70%
+
+200                                              60%
+                                                 50%
+150                                              40%
+
+100                                              30%
+                                                 20%
+ 50                                              10%
+
+                                                 0%

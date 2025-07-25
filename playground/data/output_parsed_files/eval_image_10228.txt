@@ -1,0 +1,14 @@
+      Rolling PER    Average    Average +1STD
+30    Average +2STD  Average -1STD  Average ~2STD
+
+25
+
+20
+
+15
+
+10
+
+  5
+
+ Jan-09 Feb-10 Mar-11  Apr-12 May-13 Jun-14  Jul-15  Aug-16 Sep-17 Oct-18 Nov-19 Dec-20 Jan-22 Feb-23 Mar-24

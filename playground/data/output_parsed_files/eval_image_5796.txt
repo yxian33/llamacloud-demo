@@ -1,0 +1,26 @@
+BNP Paribas GDP growth forecasts                   BNP Paribas consumer price inflation forecasts
+Emerging Markets          ANNUAL GROWTH (% yly)    Emerging Markets    ANNUAL RATE (% yly)
+
+                    2023            2024   2025                        2023  2024                2025
+ Latam                                             Latam
+   Argentina                        -3.0            Argentina                331.0
+   Brazil                           1.8             Brazil                    3.6
+   Chile                            1.5             Chile                     3.6
+   Colombia                         1.0             Colombia
+   Mexico                           2.5             Mexico                    4.3
+ CEEMEA                                            CEEMEA
+   Czech Rep                        1.6             Czech Rep_                3.2
+  Egypt                                            Egypt                     30.
+ Hungary                                           Hungary                    4.8
+   Poland                           4.0             Poland                    6.0
+   Romania                          2.8             Romania                   5.5
+   Saudi Arabia                     ;               Saudi Arabia             439
+   South Africa                                     South Africa             50.
+  Turkey                                5.3        Turkey
+   UAE                                              UAE                       1.8
+ EM Asia                                           EM Asia
+  India                                 7.0         India                     5.7
+  Indonesia                             4.8         Indonesia                 2.7
+   Malaysia                         3.9             Malaysia                  2.8
+   South Korea                      1.9             South Korea               2.5
+   Thailand                         3.7             Thailand                  2.4

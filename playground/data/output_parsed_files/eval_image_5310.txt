@@ -1,0 +1,11 @@
+(%)    MLCC demand (y-y) based on OEM shipment
+
+ 40     SEMCO's MLCC shipment (y-y)
+        MLCC market size (y-y)
+
+ 20
+
+
+(20)
+
+(40)  2019  2020  2021  2022  2023  2024F  2025F  2026F

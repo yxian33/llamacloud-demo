@@ -1,0 +1,6 @@
+10
+
+       Spot
+-10
+-15    Options
+20     GBP  USD  EUR  JPY  CHF  AUD  BRL  IDR  ZAR  PLN

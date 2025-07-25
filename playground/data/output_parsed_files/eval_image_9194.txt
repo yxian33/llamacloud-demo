@@ -1,0 +1,9 @@
+ 40    2s5s  5s10s  10s30s
+
+ 30
+ 20
+8
+ 10
+
+-10    Fed Stance  Employment  Iy vs 10y
+                   Gap         Inflation

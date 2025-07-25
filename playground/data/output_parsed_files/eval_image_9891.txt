@@ -1,0 +1,26 @@
+  Short int:                   equity ETFs*
+
+  Short Money                  Vi+curve
+  int:                   market        CAPCA
+        equity                      3m flow*
+        Risk                   bond   ETFs*
+                        Vot parity E0 alloc.
+  Us                     target
+  MA fund                        Eoalloc.
+                               equity   beta
+                               CTA USD D
+   Us CFTC risk                         beta        2
+  1I  equity                       fundon/off "     8
+                                        beta        2
+  8                                    MOVE*        8
+       EQ                      Risk    MASK*
+             momentum               appetite
+                              CTFC indicator
+       HSBC              Cross      equities
+             E0                      asset
+Aggregate    Avg:        sentiment        Rst
+                   survey              index
+             contrarian  CTA      sentiment`
+                         sell  equity   beta
+                               signal (RHS) -
+                                                   6   8 8 8 %  9

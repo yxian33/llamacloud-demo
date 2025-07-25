@@ -1,0 +1,17 @@
+220     USD-JPY REER (Jan 1999-100)
+        Estimate of current REER value    150.33-
+
+200     Various Average of REER                  Current Spot
+                                                 (20 February 2024)
+
+180
+
+160
+                                                                   24.7% below spot 113.16
+140
+
+120
+
+100                                                                42.5% below spot 86.418
+
+       2000  2004  2008  2012             2016  2020  2024

@@ -1,0 +1,18 @@
+  Date     Time            Countryl    Description                            Previous     Forecast Consensus
+           GMT Local       region
+
+02-Feb-24 07.45  08.45     France      Industrial production: Dec mlm          0.590       0.7%
+
+02-Feb-24  07.45  08.45    France      Manufacturing production: Dec mlm        0.3%        700
+
+02-Feb-24  13.30  08.30     US         Average hourly earnings Jan mlm          0.490      0.300    0.3%0
+
+02-Feb-24  13.30  08.30     US         Labor force participation rate Jan      62.5%       62.7%
+
+02-Feb-24  13.30  08.30     US         Private payrolls: Jan                   164k         170k    145k
+
+02-Feb-24  15.00  10.00      US        Cap goods ship nondef ex air: Dec       0.1% (p)     0.1%
+
+02-Feb-24  15.00  10.00      US        Durables ex transportation: Dec (f)     0.6%0 (p)    6%
+
+02-Feb-24  15.00  10.00    US          U. of Mich. sentiment: Jan (f)          78.8 (p)     80.5

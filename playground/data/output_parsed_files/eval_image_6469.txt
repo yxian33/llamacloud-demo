@@ -1,0 +1,14 @@
+Inventory move (RHS)  Pre-assumed voluntary cuts  Demand  Supply
+ 105  2.0
+ 104  1.5
+ 103
+ 102  1.0
+ 101  0.5
+ 100
+
+-0.5
+
+-1.0
+
+2 N 8  g  2  2  8  8  -1.5
+N  8  ~

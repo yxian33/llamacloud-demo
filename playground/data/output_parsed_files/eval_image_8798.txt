@@ -1,0 +1,13 @@
+         1QFY22  3QFY22  1QFY23                             1QFY24
+         2QFY22  4QFY22                                     3QFY23
+         4QFY21            2QFY23                           4QFY23    3QFY24
+ 1000                                                                 2QFY24
+  500
+
+  500
+-1000
+-1500
+-2000
+-2500
+
+    Healthco EBITDA (post 24/7 operational costs) (INR Mn)  24/7 operational costs (INR Mn)

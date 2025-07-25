@@ -1,0 +1,13 @@
+ US change in z-score Vs previous week                         Eurozone change in z-score vs previous week
+ Wholesale Inventories                                         EZ Manufacturing PMI              Change in DSI
+ Markit Manufacturing PMI                                      DE Manufacturing PMI              Change in ESI
+ UoM Consumer Sentiment Index                                  FR Manufacturing PMI
+                                 GDP                                         DE Ifo expectations
+                      New Home Sales                                                      DE PPI
+Cap. Goods Orders Nondef Ex Air.                               DE Ifo current assesment
+ Existing Home Sales                                           EZ Services PMI
+ GDP Price Index                                               FR INSEE manufacturing confidence
+ Durable Goods Orders                         Change in DSI    DE Services PMI
+ Kansas City Fed. Manufacturing_              Change in ESI    EZ Consumer confidence
+                                                                                       -25 -2 -1.5 -1 -0.5    0.5  1.5
+ Sources BNP Paribas, Macrobond, Bloomberg                     Sources: BNP Paribas, Macrobond, Bloomberg

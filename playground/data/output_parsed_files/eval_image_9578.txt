@@ -1,0 +1,11 @@
+  BNPP DTI: US                        BNPP DTI: EU
+   US Demand Indcator                  EU Demand Indcaor
+   US IC spread (Ycy)          150     EU IG spread (Yoy)
+   StrongDTI                                      Sttong             150
+                         0.78         MN
+   Tighter Spread              100                Tighter   eads     1C0
+
+
+   Weak DTI    100                     Weak DTI                   100
+   Wider Spreads  150                  Wider Spreads              150
+Jan-05 Jan-10  Jan-15 Jan-20    Jun-11 Jun-14 Jun-17 Jun-20 Jun-23

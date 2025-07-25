@@ -1,0 +1,5 @@
+easing  come    tightening to come
+
+
+1 1  1  1  1 I 8 1 2 0
+     Back-ood    Neutral rate

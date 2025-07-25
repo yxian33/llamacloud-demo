@@ -1,0 +1,13 @@
+    How AMI works                                           S
+    An advanced metering system
+  uses a wireless network to provide
+detailed data that is easily accesible
+    online by customers and staff:
+                                  Ha                        Customers
+    Advanced water meters                                   can access data
+    transmit hourly water use                               from the web portal:
+    data over a wireless network
+
+                                  City staff can access data
+ and more detailed reports
+about water use in the City:

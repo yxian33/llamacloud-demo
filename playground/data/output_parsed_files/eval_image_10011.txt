@@ -1,0 +1,21 @@
+            NetEase    As of 01-Mar-2024
+                       Currency =USD
+  140.00
+  130.00
+120.00
+  110.0C
+  100.OC    U
+   90.00
+   80.00
+   70.00
+ 60.0C
+
+   40.00
+   30.00
+   20.00
+   10 00
+
+  O.oo      2021/07/01  2022/01/01  2022/07/01  2023/01/01  2023/07/01  2024/01/01
+
+            Closing Price  Target Pricechange   RecommeroaticnChanges
+                                                            Scurce: LSEG, Nomin

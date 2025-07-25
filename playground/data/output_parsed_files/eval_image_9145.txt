@@ -1,0 +1,19 @@
+     United Microelectronics Corporation    07-Fek-2024
+                                            Currency
+
+80.0C
+
+70.OC
+
+
+45 00
+
+
+25.0C
+20.0C
+15.0C
+
+
+  2021/07/01  2022/01/01  2022/07/01  2023/01/01  2023/07/01  2024/01/01
+  Closing Price  Target PriceChange   RecommeroaticnChanges
+                                                  Scurce: LSEG, Nomin

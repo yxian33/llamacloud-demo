@@ -1,0 +1,10 @@
+  40     Election called    Election 8 June 2017
+  30
+
+8 20
+  10
+
+  -10
+  ~20                                           10
+         8 8 8 8 8 8 ? 8 8 ? 0 2 8 8 ? 8 8 ? 8 8 g
+                            Days from election day

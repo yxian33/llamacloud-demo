@@ -1,0 +1,11 @@
+(mn unit)    monthly shipment (LHS)                                  (%)
+50           Y-Y growth (RHS)                                        300
+
+40                                                                   200
+
+30                                                                   100
+
+20
+
+10                                     (100)
+  Jan/21     May/21 Sep/21  Jan/22 May/22 Sep/22 Jan/23 May/23 Sep/23

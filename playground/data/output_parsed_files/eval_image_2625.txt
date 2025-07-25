@@ -1,0 +1,17 @@
+3.50    COF Comp BMRI and BBCA %                    140.0
+
+3.00                                                130.0
+                                                    120.0
+2.50                                                110.0
+
+2.00                                                100.0
+
+1.50                                                90.0
+
+1.00                                                80.0
+                                                    70.0
+0.50                                                60.0
+
+0.00                                                50.0
+
+        12MMA CoF diff BMRI-BBCA (bps)  Mandiri  BCA

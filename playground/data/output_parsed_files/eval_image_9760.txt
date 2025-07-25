@@ -1,0 +1,16 @@
+100%                             209
+
+9090
+                                 159
+        8%
+  0%                             10%
+  0%    95%
+
+ 509
+
+ 40%    0%
+ 30%
+   209E 8338 8888888888 500
+
+        % S&P 500 stocks with positive 3m change in fwd EPS
+        12M Fwd Growth Rate (rhs)

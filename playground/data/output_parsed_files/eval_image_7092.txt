@@ -1,0 +1,13 @@
+  Singapore Airlines    As of 25-Jan-2024
+                        Currency FSGd
+
+
+7.00
+
+
+4 00
+
+
+  2021/07/01  2022/01/01  2022/07/01  2023/01/01  2023/07/01  2024/01/01
+  Closing Price  Target PriceChange   RecommeroaticnChanges
+                                                  Scurce: LSEG, Nomin

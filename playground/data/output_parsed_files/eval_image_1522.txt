@@ -1,0 +1,21 @@
+       Axis Bank    As of 23-Jan-2024
+
+                    Currency =INR
+1200.
+1100.
+1000.
+ 900.00
+
+ 800.0C
+ 700.
+ 600.
+
+ 400.
+ 300.00
+ 200.00
+
+ 100.00
+
+       2021/07/01  2022/01/01  2022/07/01  2023/01/01  2023/07/01  202+/01/01
+       Closing Price  Target PriceChange   RecommeroaticnChanges
+                                                       Scurce: LSEG, Nomin

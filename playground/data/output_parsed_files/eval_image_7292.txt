@@ -1,0 +1,85 @@
+  g8                       O40Nsgr8r8
+             KR Med Ent
+        CH Cons DrbVApp
+       IN Software Svcs
+         IN HHPers Prod
+               HK RIETS    8
+         CH TW Div Fins
+            Food BvHTor
+                 Bi Tpt
+  IN               Fins
+                  Utils
+               TW Banks    6
+           HK Insurance
+               SP RIETS
+              TH Telcos
+       KR SemiCon/Eqpmt
+        TW Food Bvg Tob
+             Indo Banks
+            CH Cons Svs     7
+              IN Energy
+          CH HIC Eq Svs
+            Indo Telcos
+
+              TW Telcos
+               HK Utils
+        IN FoodBvg (Tob     2
+                 HK_Tpt
+        MY Food Bvg Tob     7
+       TW SemiCon/Eqpmt
+               IN Banks
+           THHIC Eq Svs
+          KR Auosicerrs
+              MY Telcos
+            Fooagveg?os
+  KR TechHard
+  Indo         MY Banks     1
+           IN Cap Goods
+               SP Banks
+        KR Food BvgTTob
+              SP Telcos
+              CH Pharma
+               MY Utils
+              CH Telcos
+              Cap Gaods
+  PH              Goods
+        MXASJ Local                 1
+        Ezer9g
+        THIN
+      IN Pharma Biotech
+        KREnergy           1
+           CH Insurance             8
+            CH Med &Ent
+       KR Software Svcs     g
+           IN Materials
+        CHEnergy                    8
+            KR Div Fins
+       Indo Autos/Comps
+           TW Insurance     6
+       CH Software Svcs
+        HK Cons DroVApp
+       TW TechHardEqpmt             g
+           SP Cap Goods    1
+           CH Cap Goods
+           HK Cap Goods             8
+  KR Cax Goods
+            HK Div Fins
+               TH Banks    8
+               HK Banks
+           CH Materials    8
+        HK Food Bvg/Tob
+               CH Banks
+                 CH Tpt
+           HK Cons Svcs    1
+  KR HHPersProd
+           TH Materials
+               KR Banks
+           KR Materials    9
+              IN Telcos
+           KR Insurance
+      CH TechHard Eqpmt
+CH Cons Disc DistRetail
+         IN Autos Comps
+  KR Pharma Biotech
+            CH Div Fins
+         CH Autos Comps

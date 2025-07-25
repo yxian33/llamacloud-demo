@@ -1,0 +1,15 @@
+  8 8 8 8 8 2 3 3 0 $ 3
+  KLCI
+  Utilities
+  Energy
+  Construction
+  Property
+  Telcos & Media
+  Financials          8
+  Healthcare          1
+  REIT
+  Plantations
+ Transportl Logistics
+             Consumer
+Industrial Production
+  Technoldgy

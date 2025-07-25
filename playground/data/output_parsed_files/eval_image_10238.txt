@@ -1,0 +1,21 @@
+         Voltas
+               As of 15-Feb-2024
+
+1400.          Currency =INR
+1300.00
+1200.0C  UkyMwan
+1100.
+10oo.0o
+ 90o.OC
+ 800.
+ 700.00
+ 600.00
+ 500.
+ 400.00
+
+ 200.
+ 100.00
+
+         2021/07/01  2022/01/01  2022/07/01  2023/01/01  2023/07/01  2024/01/01
+         Closing Price  Target PriceChange   RecommeroaticnChanges
+                                                         Scurce: LSEG, Nomin

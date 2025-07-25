@@ -1,0 +1,11 @@
+     Petronas Chemicals    As of 17-Jan-2024
+                           Currency =MYR
+
+12.0C
+
+11.C
+
+
+   2021/07/01  2022/01/01  2022/07/01  2023/01/01  2023/07/01  2024/01/01
+   Closing Price  Target PriceChange   RecommeroaticnChanges
+                                                   Scurce: LSEG, Nomin

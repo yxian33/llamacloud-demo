@@ -1,0 +1,25 @@
+        HMM Co    As of 12-Feb-2024
+                  Currency =KRW
+scooo.
+
+45000 0C
+
+1c00c C6
+
+35000.00
+
+30ooo.OC
+
+25000.0C
+
+20ooo.OC
+
+15000.0C
+
+10ooo.0o
+
+ sooo.00
+
+        2021/07/01  2022/01/01  2022/07/01  2023/01/01  2023/07/01  2024/01/01
+        Closing Price  Target PriceChange   RecommeroaticnChanges
+                                                        Scurce: LSEG, Nomin

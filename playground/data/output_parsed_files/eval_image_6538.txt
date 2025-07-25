@@ -1,0 +1,22 @@
+     Bank of Ningbo    As of 23-Feb-2024
+                       Currency =CNY
+
+42.50
+
+37.50
+35.0C
+32.50
+
+27.50
+25.0C
+22.50
+20.0C
+17.50
+15.00
+12.50
+10.0C
+
+
+  2021/07/01  2022/01/01  2022/07/01  2023/01/01  2023/07/01  2024/01/01
+              Closing Price  Target Pricechange  RecommeroaticnChanges
+                                                  Scurce: LSEG, Nomin

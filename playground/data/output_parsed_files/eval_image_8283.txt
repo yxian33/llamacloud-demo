@@ -1,0 +1,91 @@
+            222338 8 8 6 8 8 ? 8
+        CH Cons DrbVApp
+            CH Cons Svs
+    HK Cons Svcs
+ CH Cons Disc DistRetail
+                     SP Tpt
+           TW SemiCon/Eqpmt
+         CH Autos/Comps
+      CH TechHard/Eqpmt
+           CH Insurance
+KR Div Fins
+               HK Banks
+         IN Autos Comps
+            Indo Telcos
+HK Div Fins
+            KR Med &Ent
+             Indo Banks
+              KR Energy
+            CH Tpt
+               SP Banks
+               KR Utils
+        HK Food/Bvg(Top
+             SPCapGoods
+       CH Software Svcs
+        CH Food/Bvg/Tob
+               MY Utils
+              CH Pharma
+            CH Med &Ent
+TH Cons Disc DistRetaii
+    KR SemiConEqpmt
+               CH Banks
+            MXASJ Local
+           KR Materials
+           HK Insurance
+         KR Autos Comps
+           KR Cap Goods                 8
+       KR SoftwarelSvcs
+           CH HC Eq Svs
+                 HK Tpt
+           IN Cap Gooas
+           HK Cap Goods
+               MY Banks                 3
+    KR HHPers Prod
+            CH Div Fins
+       IN Software/Svcs    0
+              SP Telcos
+           TW Insurance
+    MaBoegy
+     KR PharmalIN Utils
+       Indo Food Bvgiob
+               INEnergy
+      TW TechHard/Eqpmt
+           CH Materials
+        KR Food/Bvg Tob
+               CH Utils
+               IN Banks
+    HK RIETS
+           CH MY Telcos
+    CpRf
+                  Goods
+                  Banks
+              CH Energy
+          ~TH Materials
+    TW Food Bvg(Tob
+               TW Banks
+    SP RIETS
+    MY Food/
+    Bv Fiog
+    IN             Fins
+               TH Banks
+               HK Utils
+               KR Banks
+       IN Food Bvg TTob
+      IN Pharma Biotech
+           TW Materials
+    IN Telcos
+              TW Telcos
+        TW Cons DrbVApp
+         CH Real Estate
+           PH Cap Goods
+    TH Telcos
+          TH HIC Eq Svs
+           IN Materials
+            TW Div Fins
+    IN HHPers Prod
+              CH Telcos
+      KR TechHard/Egpmt
+            TH Tpt
+           KR Insurance
+            38             337288688s6fsg
+                           28222  8 8

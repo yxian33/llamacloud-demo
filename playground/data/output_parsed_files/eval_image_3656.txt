@@ -1,0 +1,23 @@
+         Kumho Petrochemical                                  As of 12-Mar-2024
+                                                                  Currency =KRW
+425000
+40oooo.
+375000.
+350000.
+325000.
+30oooo.OC
+275000
+250000.
+225000.
+20oooo.
+175000.00
+150ooo.OC
+125000.
+1ooooo.OC
+ 75000.0C
+ soooo.OC
+ 25000.0C
+
+         2021/07/01  2022/01/01  2022/07/01  2023/01/01  2023/07/01  2024/01/01
+         Closing Price  Target PriceChange   RecommeroaticnChanges
+                                                         Scurce: LSEG, Nomin

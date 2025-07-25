@@ -1,0 +1,16 @@
+Innovative driving stage for EV inverter
+able to drive IGBT SiC SIMULTANEOSLY in synergy
+
+       Sic Is betler                    Sic
+        alow curcnt
+MCU                                        IGBT  BOM Cost                 Dedicate output stage able to drive
+                                        ICBT I5 berter    saving          Sic IGBT SIMULTANEOSLY
+
+                                                          Compact         On-chip galvanic isolation
+       Less expensive BOM vs. full Sic
+       More efficient than full IGBT                      Robustness     High voltage rail 1200
+       E                                                                 Immunity up to >100 VIns CMTI
+                                                                         Negative gate drive ability (-10 V)
+
+       TODAY       NEW Hybrid approach
+       ALL SiC     Sic + IGBTs

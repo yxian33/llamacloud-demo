@@ -1,0 +1,34 @@
+Metric     Driver ofnature       Indicator         Metric                                      Connection t0 GBF
+n;        change                                                                               targets
+
+           Climate change        GHG               Refer to ISSB's IFRS-S2 Climate-            Target-
+                                 emissions         related Disclosures Standard
+
+C1.0       Landifreshwater/      Total spatial     Total spatial footprint (km") (sum of):     Target 1 (A.2 Extent of
+           ocean-use             tootprint          Total surface area controlledl             natural ecosystems) ,
+           change                                   managed by the organisation , where        Target 2, Target 5
+                                                    the organisation has control (km?);        Target 11 (B.1 Services
+                                                    Total disturbed area (km?) ; and           provided by ecosystems)
+                                                    Total rehabilitatedlrestored area
+                                                    (km?) .
+
+C1.1                             Extent            Extent of landlfreshwaterlocean             Target 1 (A.2 Extent of
+                                 of landl         ecosystem use change (km") by:               natural ecosystems) .
+                                 freshwaterl        Type of ecosystem;" and                    Target 2, Target 5,
+                                 ocean-use          Type of business activity:                 Target 11 (B.1 Services
+                                 change                                                        provided by ecosystems)
+                                                   Extent of landlfreshwaterlocean
+                                                   ecosystem conserved or restored
+                                                   (km?) , split into:
+                                                    Voluntary; and
+                                                    Required by statutes or regulations_
+                                                   Extent of landffreshwaterlocean
+                                                   ecosystem that is sustainably managed
+                                                   (km?) by:
+                                                   Type of ecosystem;6 and
+                                                    Type of business activity:
+
+C2.0       Pollutiont            Pollutants        Pollutants released t0 soil (tonnes)        Target 7 (7.2 Pesticide
+           pollution removal     released to       by type, referring to sector-specitic       environment
+                                 soil split by     guidance on types of pollutants.            concentration), Target 11
+                                 type

@@ -1,0 +1,18 @@
+2012                 2014                      2015                 2016                   2018               2021
+Start cloud          Commercial                Commercial           Cloud host             Enterprise         Data manager
+computing            desktop                   hyper               product was             distributed        platform was
+                     virtualization            convergence         launched                Iatoraqed          launched
+business             products aDesk            products                                            was
+                     was launched
+   Established a     :Sangfor                   Sangfor's           #Launched its own      'EDS was           'DMP was launched,
+   virtualization     developed the              hyper-             cloud host product      launched as           which was based on
+   product line       SRAP protocol on           convergence          Sangfor Cloud, it       an                  self-service self -
+   and began to       aDesk, which can           and desktop          can make users        independent           operation and
+   deploy cloud       achieve efficient          cloud both           control its cloud     storage              maintenance etc:._
+   computing          stream                    ranked top           assets and also          product and        and provided user
+   business          Foetpgensioai              three in China,      provide users with       delivered to       with complicated data
+                                       data      with 13.6%         corresponding                  more than     management in the
+                      caching; dynamic;         and 31.5%            cloud hosting           20,000               form of cloud
+                      etc_                       market shares       service                  customers and       database services.
+                                                in 2022_                                     300 PB-level
+                                                                                             projects

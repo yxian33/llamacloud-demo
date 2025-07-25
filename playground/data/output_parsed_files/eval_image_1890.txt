@@ -1,0 +1,17 @@
+ ADNOC Gas                         4022       3023     4023E      CONS*  Actual  Yoy (%)  QoQ (%)
+
+   Volumes BBTU)                   857        948         816                    5%       -14%
+   Domestic Gas                    560          627       524                             -16%
+Export & Traded Liquids            252          268       234                             -13%0
+  Other Products                                                                           0%
+
+  EBITDA (Sm)                        1,926     863       1,842    549
+  Domestic Gas                     575        727         637                    11%      -120
+ Export & Traded Liquids               096      948       893                    19%       -6%
+  Other Products                   53            26                                        9700
+
+ Net income from ADNOC LNG (Sm)                53        110                     219      107%0
+  Group Net Income (Sm)            1,084      1,116      1,037    981            -4%       -7%
+ CFFO (pre-WC, Sm)                 803        1,776    1,678
+ FCF (Sm)                          415         1,570     1,415                   241%      -10%
+FCF (post dividends, Sm)           415         1,570     (210)

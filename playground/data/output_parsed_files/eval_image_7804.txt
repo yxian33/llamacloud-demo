@@ -1,0 +1,20 @@
+     China Vanke                                                      As of 16-Mar-2024
+                                                                          Currency =CNY
+
+32.50
+30.00
+27.50
+25.00
+22.50
+20.00
+17.50
+15.00
+12.50
+10.00
+ 7.50
+
+ 2.50
+
+     2021/07/01  2022/01/01  2022/07/01  2023/01/01            2023/07/01    2024/01/01
+                 Closing Price  Target Pricechange  RecommeroaticnChanges
+                                                     Scurce: LSEG, Nomin

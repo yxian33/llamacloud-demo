@@ -1,0 +1,7 @@
+Implied vol rich
+
+
+Implied vol cheap
+
+
+Implied-realised  Iw -Im  *realised calculated using Im NDF

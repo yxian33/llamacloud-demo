@@ -1,0 +1,19 @@
+           Cipla    As of 11-Feb-2024
+
+1500.00             Currency =INR
+1400.00
+1300.00
+1200.0C
+ 100.
+1000.
+ 900.
+ 800.
+ 700.
+ 600.
+
+
+ 200.
+
+     2021/07/01  2022/01/01  2022/07/01    2023/01/01  2023/07/01  2024/01/01
+     Closing Price   Target PriceChange    RecommeroaticnChanges
+                                                       Scurce: LSEG, Nomin

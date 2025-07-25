@@ -1,0 +1,8 @@
+300%
+200%
+100%
+ 0%
+-100% 8  3 1         1  1 8 8 1 8 3 3 8 8
+
+         Polysilicon prime for mono    Mono wafer -182mm
+         Mono PERC cell 182mm          Mono PERC module 182mm

@@ -1,0 +1,12 @@
+700           700
+600           600
+500           500
+       M
+400    Mm     400
+300           300
+200           200
+100           100
+
+
+   Market cap (USDmn) -LHS
+   Quarterly op profit (TWDmn) RHS

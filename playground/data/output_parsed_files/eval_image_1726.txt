@@ -1,0 +1,9 @@
+    CFTC buyside                                                                                                    100
+    CTA                                                                                                             80
+    Vol Target
+    ETF                                                                                                             60
+    Mutual Funds                                                                                                   40
+    Short Interest
+Pension Funds EOM rebal                                                                                            20
+  US Positioning Indicator
+    2020-03-09             2020-09-01  2021-02-24 2021-08-19 2022-02-11 2022-08-08 2023-01-31 2023-07-26 2024-01-18

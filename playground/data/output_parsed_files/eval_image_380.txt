@@ -1,0 +1,13 @@
+7800 + 7800 80OG Scale-out Network
+
+288 splnes
+
+BOOG Iinks                        7816 Splno
+576 leats                         7816 Leat
+165k GPUs
+         288 GPUs portQ    165k GPUs at 8COG]
+2-tier Topology: J3 leaf; J3 spine
+High radix TO enables very large 2-tier networks
+165K 80OG GPUs
+
+Analyst Day 2023           Up to 165k 800G GPUs    ARISTA

@@ -1,0 +1,7 @@
+(kbpd)    OIL oil production
+70
+65
+60
+55
+50
+45 3      2  3  8 8 2 3     Y 8  2  3

@@ -1,0 +1,21 @@
+         JYP Entertainment Corp    As of 16-Jan-2024
+                                   Currency =KRW
+
+140000.
+130000.
+120000.
+110000.
+10oooo.
+ 90ooo.
+ 8oooo.0o
+ 70ooo.oC
+ 60ooo.0o
+ soooo.oC
+ 400o0.
+ 30000.
+ 20ooo.OC
+ 1oooo.OC
+
+         2021/07/01  2022/01/01  2022/07/01  2023/01/01  2023/07/01  2021/07/01
+         Closing Price  Target Pricechange   RecommeroaticnChanges
+                                                         Scurce: LSEG, Nomin

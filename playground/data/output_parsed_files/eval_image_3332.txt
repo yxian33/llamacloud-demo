@@ -1,0 +1,18 @@
+           BuYING ASSETS                                    ExPANSION
+Rates:     Higher US 10y yields    (weak   1       Rates: Higher US 10y yields,       curve
+signal) , USSs30s steepener                       flattening (long dated)
+Equities: Higher equities                          Equities: Higher equities
+FX: Weaker USD vs EM; weaker USD vs                FX: Stronger USD vs JPY, EUR, weaker
+JPY                                        0       USD vs EM
+Como: Higher copper; higher oil                    Como: Higher oil and copper; lower gold
+Vol: Lower rates, FX and equity                    Vol: Lower equity, FX, higher rates
+           LOWER REAL YIELDS               B E     HIGHER REAL YIELDS
+
+           REcESSION                      0                 TIGHTENING
+Rates: Lower US 1Oy   yields, US2s1Os             Rates: Initially higher US 1Oy yields, then
+steeper                                   1       lower; US5s30s flatter
+Equities: Lower equities                          Equities: Lower equities
+FX: Stronger USD vs EM; weaker USD vs             FX: Stronger USD vs JPY, EUR and EM
+JPY                                               Como: Lower oil, lower gold
+Como: Lower oil, lower copper                     Vol: Higher rates, FX and equity
+Vol: Higher rates, FX and equity

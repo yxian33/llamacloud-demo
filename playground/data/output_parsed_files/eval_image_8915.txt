@@ -1,0 +1,14 @@
+Throughput vs. Price
+ Quality: General reasoning Index, Throurhput: Tokens per Second, Price: USD per IK Tokens
+       Kost atlraclive quadrant
+   Mistral  Perplexity  Together.4i  Anyscale  Deepinfra  Fireworks  Groq  Lepton
+
+                        Grod(0.27,423.511
+  I                            Groq
+  {
+  1                            DeepinfraLepion                       Firew Otks           Perplexity Mistral
+                                                          Togethar all
+
+       900              50 20  Sq JQ              Anyscale
+                                                  Co 5 0    S0 60  60 70                  S0 90  5100       51iq
+                                                  Price (USD Per 1M Tokens)

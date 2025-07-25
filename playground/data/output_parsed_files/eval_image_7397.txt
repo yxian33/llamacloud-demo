@@ -1,0 +1,32 @@
+  Date    Time            Countryl                             Description    Previous  Forecast   Consensus
+          GMT Local             region
+
+30-Jan-24 06.30  07.30          France     Consumer spending: Dec yly         -1.1%0
+
+30-Jan-24 06.30  07.30          France     GDP 04                             0.6%0     0.5%0      0.700
+
+30-Jan-24 08.00  09.00    Germany          GDP wda: Q4 (p) yly                -0.49                 ~0.20
+
+30-Jan-24 08.00  09.00       Spain         CPI harmonized: Jan (p) mlm        0.0%        -0.7%      0.6%
+
+30-Jan-24 08.00  09.00       Spain         CPI: Jan (p) mlm                   0.0%0      -0.490
+
+30-Jan-24 08.00  09.00     Spain          GDP; 04 (p) q/q                     0,300       0.300     0.200
+
+30-Jan-24 09.00  10.00       Italy         GDP (wda): 04 qq                   0.1%0       0.1%0     0.0%0
+
+30-Jan-24 09.30  09.30       UK           Money and credit data: Dec
+
+30-Jan-24 10.00  11.00     Eurozone        Economic confidence: Jan           96.4      96.4        96
+
+30-Jan-24 10.00  11.00     Eurozone        GDP (sa): 04 yly                   0.0%           0%     0.0%6
+
+30-Jan-24 23.50  08.50      Japan         Unemployment  rate: Dec             2.59         2.59
+
+31-Jan-24 01.30  09.30      China         Manufacturing PMI; Jan              49.0      49.5
+
+31-Jan-24 07:45  08.45          France     CPI harmonised: Jan (p) yly        4.100       3.500     3.6%0
+
+31-Jan-24 07.45  08.45          France    CPI: Jan (p) yly                    3.7%        3.200    3.200
+
+31-Jan-24 13.00  14.00    Germany         CPI harmonised: Jan (p) yly         3.890          0%     3.200

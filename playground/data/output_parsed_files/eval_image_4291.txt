@@ -1,0 +1,16 @@
+       UK energy transition CAPEX and OPEX savings in the balanced pathway,
+                            GBPb
+
+                                                       Other CAPEX (Eb)
+40                                                     MRC Fuel supply CAPEX (Eb)
+
+20                                                     Buildings CAPEX (Eb)
+                                JNetworks CAPEX (Eb)
+                                                       Electricity supply CAPEX (Eb)
+                                                       Surface transport CAPEX (Eb)
+                                                       Other OPEX (Eb)
+-40                                                    MRC / Fuel supply OPEX (Eb)
+                                                       Buildings OPEX (Eb)
+                                                       Electricity supply OPEX (Eb)
+
+  2020  2025  2030          2035  2040  2045  2050     Surface transport OPEX (Eb)

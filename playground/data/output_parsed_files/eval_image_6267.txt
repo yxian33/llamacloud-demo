@@ -1,0 +1,21 @@
+4500
+4000
+3500
+3000
+2500
+2000
+1500
+1000
+ 500
+  0
+
+    1QFY18
+    3QFY18    1QFY22
+ 1QFY16       3QFY22    3QFY24
+    3QFY16
+           1QFY17
+           3QFY17  1QFY19 1QFY2O 1QFY21
+                                 3QFY21  1QFY23
+                                         3QFY23
+                   3QFY19 3QFY20               1QFY24
+                          API sales (INR Mn)

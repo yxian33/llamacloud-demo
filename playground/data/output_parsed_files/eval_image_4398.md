@@ -1,0 +1,4 @@
+
+# Accrued Limited Warranty
+
+As part of its retail strategy, the Company provides a 100-day or 4,189-mile limited warranty to customers to repair certain broken or defective components of each used vehicle sold. As such, the Company accrues for such repairs based on actual claims incurred to-date and repair reserves based on historical trends. The liability was ~~$19~~ $16 million and ~~$16~~ $19 million, as of December 31, ~~2022~~ 2023 and ~~2021,~~ 2022, respectively, and is included in accounts payable and other accrued liabilities in the accompanying consolidated balance sheets. <ins>The expense was $87 million, $144 million, and $111 million for the years ended December 31, 2023, 2022, and 2021, respectively, and is included in selling, general and administrative expenses in the accompanying consolidated statements of operations.</ins>

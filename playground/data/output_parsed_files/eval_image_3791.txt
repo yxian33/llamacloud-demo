@@ -1,0 +1,22 @@
+         SK Innovation                                           08-Fek-2024
+                                                               Currency =KRW
+40oooo.
+375000.
+350ooo.OC
+ 25000.
+30oooo.
+275000.
+250000.
+225000.
+20oooo.
+175000.
+150000.
+125000.0C
+1coooo.OC
+ 7s00o.0C
+ s0ooo.
+ 25000.0C
+
+         2021/07/01  2022/01/01  2022/07/01  2023/01/01  2023/07/01  2024/01/01
+         Closing Price  Target PriceChange   RecommeroaticnChanges
+                                                         Scurce: LSEG, Nomin

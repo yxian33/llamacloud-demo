@@ -1,0 +1,26 @@
+    g 8 8 ?                        8 8 g ?
+    9
+
+        United Spirits                  51.2
+         Berger Paints                  48.7
+               EPL                      45.0
+         Indigo Paints                  41.7
+    Kansai Nerolac                      39.6
+               Colgate                  35.6
+      Asian Paints                    33.1
+         Tata Consumer                27.1  2
+        Bata India                    22.9
+       Godrej Consumer              17.5    4
+       Page Industries              16.9    9
+                Nestle              16.7
+        Akzo Nobel                  15.1    68
+    Dabur                           13.7
+            Marico                  11.7
+Jubilant Foodworks                  11.7
+             Emami                  11.2
+     Avenue Supermarts             6.2
+                   ITC             0.8
+        Hindustan Unilever     -0.5
+         Britannia              -13
+            Bajaj Consumer    28.8
+             Titan            -31.4

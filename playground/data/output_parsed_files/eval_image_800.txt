@@ -1,0 +1,10 @@
+The Physical System
+64 Racks           6,144 Fiber Strands    48 OCS
+
+
+Xo Fi
+
+Zia 1
+
+
+Goooc    Every cube (rack) connects to every OCS

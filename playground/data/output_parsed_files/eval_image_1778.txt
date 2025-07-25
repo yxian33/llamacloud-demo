@@ -1,0 +1,17 @@
+    Coherent standards for ZR and ZR+
+
+              Emerging Applicalion Ior PA-to:                Einemel Nex OIF appllcation scope
+
+    GBd       Qif 1600zR                                     OIF 1200ZR+
+
+      B00G    OIF 8002R     ITuioR 8006    OR Boco Pcs
+118-131GRd                  Flcx0-4o-DO      Flcio-BL-DPO    OR BDDG Pcs
+                                                             Flcxo-B0-DPO  ITUIOR 400G OPSK
+
+ 40OG         OIF AOozR     openzR+ AOOC     Non-Stndurd                   lero-ie-Do
+GOGBd
+
+              120km DCI     500rm1 mctro    1ooOkm regional  2ocokm        200Okm ULH
+
+
+    65    HUAWEI

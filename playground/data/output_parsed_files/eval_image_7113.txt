@@ -1,0 +1,30 @@
+                                                                               Nature-related assessment and disclosure approaches
+
+ Characteristic                                  European:               Global Reporting      International                                           Science Based Targets     Taskforce on Nature:;
+                           CDP                   Sustainability          Initiative(GRI)       Sustainability                 Natural Capital          Network (SBTN) target       related Financial
+                           disclosure system     Reporting Standards     Standards             Standards Board                Protocol                 setting guidance            Disclosure (TNFD)
+                                                (ESRS)                                          (ISSB) Standards?                                                                  framework
+                                                                        Direct operations                                                              Direct operations
+Coverage of value          Direct operations     Direct operations;      and upstream           Direct operations             Direct operations;       and upstream                Direct operations
+                           upstream and some     upstream and            and downstream         upstream and                  upstream and             (downstream may             upstream and
+ chain                     downstream           downstream               (downstream is         downstream                    downstream               be covered in future        downstream
+                                                                         optional in theGRI                                                            releases)
+                                                                         Biodiversity Standard)
+ Use of location                                                                                                              Flexible ~tailored
+ information in the       Yes                    Yes                    Yes                    Yes                            to the choice of the     Yes                        Yes
+ assessment                                                                                                                   business
+ Assessment                Both dependencies     Both dependencies       Impacts, limited       Both dependencies             Both dependencies        Impacts only                Both dependencies
+ of business                                                             assessment 0ft                                                                (dependencies may be
+ dependencies and         andimpacts            andimpacts               dependencies          andimpacts                     and impacts              covered in the future)     and impacts
+ impacts on nature
+ Disclosure                                                                                     Both dependencies
+   business                Both dependencies     Both dependencies                              and impacts (subject                                  Impacts only                 Both dependencies
+ dependencies and          and impacts           and impacts             Impactsonly @          to financial materiality;     Disclosure optional      (dependencies may be        and impacts
+ impacts on nature                                                                              except for certain                                     covered in the future)
+                                                                                                climate impacts)
+ Assessment of             Both risks and        Both risks and                                 Both risks and                Both risks and                                       Both risks and
+ nature-related risks     opportunities          opportunities           Not covered            opportunities                 opportunities            Not covered                 opportunities
+ and opportunities
+ Disclosure on nature-     Both risks and        Both risks and          Not covered            Both risksand                 Disclosure optional      Not covered                 Both risks and
+ related risks and         opportunities         opportunities                                  opportunities                                                                      opportunities
+ opportunities

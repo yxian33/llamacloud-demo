@@ -1,0 +1,21 @@
+            Shree Cement
+                        20-Fek-2024
+
+35000.                  Currency =INR
+32500.00
+30ooo.00
+27500.0C                Ml
+25000.00
+22500.00
+20ooo.OC
+17500.00
+15000.00
+12500.00
+10ooo.0o
+ 7500.00
+ sooo.0o
+ 2500.00
+
+            2021/07/01  2022/01/01  2022/07/01  2023/01/01  2023/07/01  2024/01/01
+            Closing Price  Target PriceChange   RecommeroaticnChanges
+                                                            Scurce: LSEG, Nomin

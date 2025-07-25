@@ -1,0 +1,20 @@
+Broadcom IP Enables XPU Critical Components
+
+
+         200 GE IF           1 Compute
+                               Processing Unit Architecture (Customer Owned)
+               MAX             Design Flow & Performance Optimization (Broadcom Owned)                Enoh
+               MAX
+  HBM    3 3  Compute Die    3 2 HBM    2 Memory                                                          Hew
+
+  HBM                            HBM      Integration & Performance (Broadcom Owned)
+               MAX
+
+  8      3     MAX           3 {  8     3 Network IO                                                  NODE       NODE
+              Compute Die                 Architecture & Implementation (Broadcom Owned)              NODE       NODE
+
+  HBM                             HBM     Full Solution Chiplets (Hardware, Firmware , & Software)    NODE 3     NODE
+               MAX        SRAM Die
+               MAX           3           4 Package
+              pCle IIF                    2.5D, 3D, & Silicon Photonics Architecture & Implementation
+                                         (Broadcom Owned); Vertical Integration Advantage

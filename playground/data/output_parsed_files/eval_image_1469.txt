@@ -1,0 +1,23 @@
+          Sona BLW Precision Forgings    As of 23-Jan-2024
+                                         Currency =INR
+850.0C
+800.00
+750.0C
+Z00.0C    Wn"
+650.0C
+600.00
+550.0C
+s00.OC
+450.      MMI
+400.OC
+350.0C
+300.00
+250.0C
+200.00
+150.00
+100.00
+ 50.0C
+
+          2021/07/01  2022/01/01  2022/07/01  2023/01/01  2023/07/01  202+/01/01
+          Closing Price  Target PriceChange   RecommeroaticnChanges
+                                                          Scurce: LSEG, Nomin

@@ -1,0 +1,13 @@
+         % Fullness
+         Avg Europe inventory level
+
+  120    Avginventory a year ago    107
+  100    80    71  74  74
+   80          58        68    64      55
+   60                46
+   40                33
+   20
+0                              2 ] E
+
+
+ 8    J

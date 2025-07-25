@@ -1,0 +1,12 @@
+ 25.0
+
+20.0
+
+ 15.0
+
+ 10.0
+
+
+  Jan  Feb Mar Apr May Jun Jul      Aug Sep Oct Nov Dec
+       NWEU 2024       NWEU 5YAvg               US GC 2024
+       USGC 5YAvg      Asia 2024                Asia 5Y Avg

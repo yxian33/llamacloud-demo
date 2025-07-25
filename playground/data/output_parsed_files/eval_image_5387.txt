@@ -1,0 +1,16 @@
+WA 12
+     MT4             ND 3    ME 2
+OR 8  ID 4  WY 3     SD 3    MN 10 WI 10  M  NY 28
+
+
+CA 54 NV 6  UT 6    NE 3  IA 6  IL 19 IN 11 OH 17  PA 19
+                    CO 10  KS 6  MO 10   KY 8  WV VA 13
+
+
+AZ11  NM 5    OK7  AR 6  TN 11  NC 16
+                                SC 9
+
+                         MS 6 AL 9 GA 16
+              TX 40    LA (
+
+AK 3                                    30

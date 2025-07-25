@@ -1,0 +1,23 @@
+      Contemporary Amperex Technology                      As of 16-Mar-2024
+                                                               Currency =CNY
+
+400.
+375.
+350.0C
+325.0C
+300.00
+275.
+250.0C
+225.00
+200.
+175.
+150.00
+125.00
+100.0o
+ 75.00
+ 50.0C
+ 25.00
+
+      2021/07/01  2022/01/01  2022/07/01  2023/01/01  2023/07/01  2024/01/01
+                  Closing Price  Target Pricechange  RecommeroaticnChanges
+                                                      Scurce: LSEG, Nomin

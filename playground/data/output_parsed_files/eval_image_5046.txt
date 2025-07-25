@@ -1,0 +1,26 @@
+  EXXONMOBIL                         SINOPEC                            DOW                               INDORAMA VENTURES
+  USA                                China                              USA                               Thailand
+    ExonMobil                                        Sllopec                          Dow                 INDORAMA
+
+Circularity     GHG              SUP  Circularity      GHG        SUP   Circularity      GHG         SUP  Circularity       GHG         SUP
+   score)       (MMT CO2e)      (MMT)    (score)     (MMT COZe)  (MMT)    (score)     (MMT CO2e)    (MMT)    (score)     (MMT CO2e)    (MMT)
+                17.8        6.0                      22.1        5.8                     15.6     5.3                       21.7     46
+
+  SAUDI ARAMCO                       LYONDELLBASELL                     PETROCHINA                        RELIANCE INDUSTRIES
+  Saudi Arabia                       USA                                China                             India
+
+    angoul gSolji                    Iyondellbasell                                                                       Reliance
+         saudi aramco                                                                 Petrochina                     lndustties Limited
+
+  Circularity     GHG            SUP  Circularity      GHG        SUP    Circularity  GHG            SUP  Circularity    GHG            SUP
+    Score         (MMT COZe)    (MMT)     score)     (MMT COZe)  (MMT)      score)    (MMT COZe)    (MMT)     score)     (MMT COZe)    (MMT)
+                  14.9        45          C          13.4        44                   14.9          42        D-            10.8     30
+
+  INEOS                              ALPEK SA DE CV                     BRASKEM                           BOREALIS
+  United Kingdom                     Mexico                             Brazil                            Austna
+         INECS                                       alpek              Braskem                                          BOREALIS
+                                                                                                                         Keep Discovering
+
+  Circularity       GHG          SUP  Circularity      GHG        SUP   Circularity      GHG         SUP  Circularity       GHG         SUP
+   (score           (MMT COZe)  (MMT )    (score}    (MMT COZe)  (MMT )    (score}    (MMT Coze)    (MMT )    (score}    (MMT COZe)    (MMT )
+                    9.3         2.8       C-         12.6        2.8    C-            7             26        C-            7.2      22

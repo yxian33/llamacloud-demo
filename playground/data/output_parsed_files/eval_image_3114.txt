@@ -1,0 +1,24 @@
+         LG Electronics    As of 25-Jan-2024
+                           Currency =KRW
+
+275000.0C
+
+250000.
+225000.00
+
+200ooo.
+
+ 75000.
+
+150000.
+125000.
+1ooooo.0o
+
+ 75000.00
+
+ soooo.0o
+ 25000.00
+
+         2021/07/01  2022/01/01  2022/07/01  2023/01/01  2023/07/01  2024/01/01
+         Closing Price  Target Pricechange   RecommeroaticnChanges
+                                                         Scurce: LSEG, Nomin

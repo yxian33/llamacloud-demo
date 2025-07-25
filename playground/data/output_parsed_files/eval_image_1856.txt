@@ -1,0 +1,22 @@
+         Eclat Textile    As of 07-Mar-2024
+                          Currency
+800.
+ 750.00
+ 700.0C
+ 650.0C
+ 600.
+ 550.
+ 500.    kln}
+ 450.
+ 400.00
+ 350.0C
+ 300.0C
+ 250.
+ 200.00
+ 150.00
+ 100.00
+  50.0C
+
+         2021/07/01  2022/01/01  2022/07/01  2023/01/01  2023/07/01  2024/01/01
+                     Closing Price  Target Pricechange  RecommeroaticnChanges
+                                                         Scurce: LSEG, Nomin

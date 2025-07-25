@@ -1,0 +1,10 @@
+       Nomura $ BPO ranking framework
+  Company  Exposure t0Jow  Strength ot  Specialisation    Overall
+           impact service lines  financials  domain expertise
+Cenpac:
+EXLS
+WS
+EC
+VEP
+FSOL
+ECLX

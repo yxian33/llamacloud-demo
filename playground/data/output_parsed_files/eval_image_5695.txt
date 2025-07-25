@@ -1,0 +1,23 @@
+          NetEase    As of 01-Mar-2024
+
+225.00               Currency =pKD
+
+200.00
+
+175.00
+
+150.0C
+
+125.00
+
+100.00
+
+ 75.00
+
+ 50.00
+
+ 25.00
+
+          2021/07/01  2022/01/01  2022/07/01  2023/01/01  2023/07/01  2024/01/01
+          Closing Price  Target Pricechange   RecommeroaticnChanges
+                                                          Scurce: LSEG, Nomin

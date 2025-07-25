@@ -1,0 +1,23 @@
+       Eicher Motors    As of 13-Feb-2024
+                        Currency =INR
+4250.
+40oo.0o
+3750.0C
+3500.
+3250.0C
+3000.
+2750.
+2500.
+2250.0C
+20oo.OC
+1750.
+1500.
+1250.0C
+1000.
+
+ 500.
+ 250.00
+
+       2021/07/01  2022/01/01  2022/07/01  2023/01/01  2023/07/01  2024/01/01
+       Closing Price  Target PriceChange   RecommeroaticnChanges
+                                                       Scurce: LSEG, Nomin

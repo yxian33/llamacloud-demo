@@ -1,0 +1,13 @@
+ (USD)                     256Gb TLC NAND             (USD)
+
+ 4                         512Gb TLC NAND             5.5
+                           DDRS 16Gb spot (RHS)
+                            DDR4 6Gb spot (RHS)
+3
+                                                      4.5
+2
+
+                                                      3.5
+
+0         Mar-23                                      2.5
+Jan-23              May-23 Jul-23 Sep-23 Nov-23 Jan-24

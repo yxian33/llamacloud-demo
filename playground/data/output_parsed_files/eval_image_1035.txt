@@ -1,0 +1,26 @@
+ As of 3/27/2024
+                          IV %ile   AM 25d Put - Call Skew %ile  25delta Call
+ ETFs       Im ATM        [2 Yrs]   RV - IV  Im Skew  [2yrs]     Prob Payout
+                                                                 [1 Yr]
+ KRE US      28%                                                 25.
+ XLC US      18%                             7%                  26.89
+ XLRE US     17%                                                 23.8%
+ XLE US      16%                                                 24.0Pl
+ XOP US            20%                                           31.1%
+ KBE US      24%                                                 217%
+ XLF US      14%                                                 41.3%
+ XLU US                                                          2015%
+IWM US       18%              10                                 240Pl
+ SMH US      29%              38             3%                  37 .
+XLYUS                                                            33.1%
+IGV US       21               30                                 30.3%
+ JETS US     24                                                  31.1%
+ XRT US      20%                                                 28.19
+ XLK US      18%          24                 9%                  31.1%
+ XME US      22%                                                 34.2%
+ XLP US         9%                            3%                 28.19
+ XLV US            10%                                           32.2%
+ XLB US      13%                              0%                 37.4%
+ QQQ US      16%                                                 37.4%
+ XLI US      12%                                                 40.4%
+SPY US       11%                             9%                  40.2%

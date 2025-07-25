@@ -1,0 +1,24 @@
+  RD Roadmap
+
+    FPC Connector /      Develop and plan FPC products              Enhance the diversity of
+    WiringHarness                                                      Hu Lane products
+
+ Inline Series           Series of product
+Terminal Series          Non-waterproof inline(in development)
+                         Waterproof inline(planning)                       Meet the needs of auto OEM &
+   Pin Header            Miniaturized PIP & SMT products (planning)        module manufacturer
+     Series
+
+020 miniaturized         Waterproof series (in development)                          Meet the needs of module
+   connectors            Non-waterproof series (planning)                            miniaturization
+                         Pin Header series (planning)
+
+    FAKRAIHSD             FAKRA/HSDIHFM/ETHERNET(production)             Support ADAS system transmission networking
+                                                                         application. Meet the needs of auto
+
+High voltage               Mainly develop                    Complete selection of connectors
+ connector                 8OOV products                     for the full range of EV
+
+    Electrical Center     Consolidate the cost advantage of fuse box:     Meet the needs of auto OEM
+                          Active development of PCB junction box          Conform to integration/lightweightlintellectual
+                           2021                                                                     2030

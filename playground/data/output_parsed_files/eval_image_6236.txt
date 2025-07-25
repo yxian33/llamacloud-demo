@@ -1,0 +1,13 @@
+500    Per capita FMCG consumption ($)
+450                                   438
+400
+350
+300                                   255
+250
+200
+150    82  103  126
+100    27  46
+ 50
+
+       India rural  India  India urban Indonesia  China  Philippines  Thailand
+                    average

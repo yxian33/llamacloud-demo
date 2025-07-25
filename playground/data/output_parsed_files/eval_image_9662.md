@@ -1,0 +1,20 @@
+
+
+| Official account     | Instagram | Facebook |
+| -------------------- | --------- | -------- |
+| Pop Mart Global      | 319K      | 378K     |
+| Pop Mart US          | 55.9K     | na       |
+| PopMart Singapore    | 44.9K     | 9.4K     |
+| Pop Mart Thailand    | 24.6K     | 41K      |
+| Pop Mart Hong Kong   | 23.7K     | 16K      |
+| Pop Mart South Korea | 22.5K     | 2.3K     |
+| Pop Mart Taiwan      | 22.5K     | 20K      |
+| Pop Mart Japan       | 21.9K     | 11K      |
+| PopMart UK           | 21.5K     | 518      |
+| Pop Mart Malaysia    | 11.9K     | 3.9K     |
+| PopMart Australia    | 11.3K     | 6.3K     |
+| Pop Mart Macao       | 2.2K      | 1.4K     |
+| Pop Mart New Zealand | 21K       | na       |
+
+
+

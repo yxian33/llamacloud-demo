@@ -1,0 +1,10 @@
+80.3%  3m Implied vs
+]0.2%  realised skew; last
+       month
+  0.1%
+  0.0%
+  ~0.1%
+  -0.2%
+  -0.3%
+   -0.20%   ~-0.10%       0.00%  0.10%  0.20%
+  Higher spot  Lower spot               Implied skew

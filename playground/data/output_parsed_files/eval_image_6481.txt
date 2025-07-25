@@ -1,0 +1,25 @@
+       Infosys    As of 13-Mar-2024
+                  Currency =INR
+2500.
+
+2250.0C
+
+2000.
+
+1750.
+
+1500.
+
+1250.
+
+10oo.OC
+
+ 750.00
+
+ 500.
+
+ 250.00
+
+       2021/07/01  2022/01/01  2022/07/01  2023/01/01  2023/07/01  202+/01/01
+       Closing Price  Target Price Change  RecommeroaticnChanges
+                                                       Scurce: LSEG, Nomin

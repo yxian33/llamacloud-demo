@@ -1,0 +1,11 @@
+200     2s5s UST (bp)                            200
+150     Fitted 2ss UST (bp)                      150
+
+100                                              100
+
+ 50                                              50
+
+                                                 50
+
+100                                              -100
+ Jan-86 Jan-92 Jan-98 Jan-04 Jan-10 Jan-16 Jan-22

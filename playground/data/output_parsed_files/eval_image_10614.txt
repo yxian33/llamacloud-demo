@@ -1,0 +1,12 @@
+ (mmscmd)  Fertiliser  Power  Citygas  Refining petchem others
+ 200
+ 180
+ 160
+140
+ 120                                                    Hlll
+ 100
+  80
+ 60
+ 40
+ 20
+  0     3 3 2 2        3 3    0 84 3 8 2                3 3   2

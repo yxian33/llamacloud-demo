@@ -1,0 +1,13 @@
+Other
+Water  10%
+Purification
+10%
+            Rinsing
+            40%
+
+Fume
+Scrubbers
+20%
+
+            Cooling Systems
+            20%

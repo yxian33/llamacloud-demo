@@ -1,0 +1,14 @@
+Industry greenfield capacity addition
+30.0  Clinker  Cement  Costlt (S/t) (RHS)  100
+90
+25.0  80
+
+20.0  70
+60
+15.0  50
+40
+10.0  30
+
+ 5.0  20
+10
+ 0.0  0O  2  2  8  2  0

@@ -1,0 +1,11 @@
+ 50.0        Maybank total return (including dividends)
+     40.0     Maybank share price only return
+     30.0     KLFIN Index
+     20.0
+ 10.0
+  0.0        Ln
+-10.0
+    -20.0
+    -30.0
+    -40.0
+    -50.0

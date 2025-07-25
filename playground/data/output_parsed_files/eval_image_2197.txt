@@ -1,0 +1,24 @@
+                  Policy rate (%)   Next expected move               Cutting cycle (bp)  Year-end policy-rate Nominal neutral
+Country                                                                                  forecasts(%)             rate
+               Current    Cycle peak Size (bp)  Date                  Pacet*  Thus fal   2024    2025          (%, range)
+
+ Eurozone         4.00      4.00    -25                    Jun 24     30                 3.00        2.50     1.50-2.50
+
+ China            2.50     3.30     -25                 15 May 24             80         2.25        2.15     2.50-3.50
+
+ Latam
+
+ Chile            7.25     11.25    100              3 Apr 24         54      400        4.50        4.00      4.00-5.00
+
+ Mexico        11.25       11.25      25            21 Mar 24         47                 9.50        7.50     5.00-7.00
+ CEEMEA
+ CzechRep.        6.25      7.00      50            20 Mar 24         54      75         4.00        3.00     2.75-3.25
+
+ Poland           5.75     6.75       50        6 Nov 24              28      100        5.25        4.00     3.00-3.50
+
+ South Africa     8.25      8.25     -25        30 May 24             38                 7.25          75     6.50-7.00
+ EM Asia
+
+ Indonesia        6.00      6.00     -25            23 Jul 24         58                 4.50        4.25      4.00-4.50
+
+South Korea       3.50      3.50     -25            23 May 24                            2.75        2.50      2.00-3.00

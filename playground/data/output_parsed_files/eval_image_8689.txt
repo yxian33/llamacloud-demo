@@ -1,0 +1,14 @@
+ 600.  2090
+
+ 500.  159
+
+ 400.  10%
+
+ 300.0  590
+
+ 200.0  0%
+
+ 100.0  590
+
+Gasoline  Middle Distillates  Fuel Oil  Other Products  109
+Oct 2019  Oct 2023  Delta (RHS)

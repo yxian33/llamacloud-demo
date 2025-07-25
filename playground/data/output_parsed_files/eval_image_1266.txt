@@ -1,0 +1,22 @@
+       HCL Tech    As of 13-Mar-2024
+                   Currency =INR
+
+1600.
+1500.
+ 400.OC
+1300.
+
+10oo.0o
+ 900.
+ 800.
+ 700.
+ 600.OC
+ 500.
+
+ 300.
+ 200.00
+ 10o.OC
+
+       2021/07/01  2022/01/01  2022/07/01  2023/01/01  2023/07/01  202+/01/01
+       Closing Price  Target Price Change  RecommeroaticnChanges
+                                                       Scurce: LSEG, Nomin

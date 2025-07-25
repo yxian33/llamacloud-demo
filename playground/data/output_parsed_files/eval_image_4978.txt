@@ -1,0 +1,18 @@
+         EU gas & hydrogen demand and imports 2020 TYNDP distributed
+6000     energy scenario (TWh)
+                               Biomethane
+5000                           Power to methane
+
+4000                           Power to hydrogen
+
+3000                          Hydrogen imports
+
+ 2000                          Natural gas imports abated
+ 1000                          Natural gas domestic
+
+         3                     Natural gas imported
+         2020                  Imports
+         2025
+                 2030
+                 2035
+   History           2040  2050

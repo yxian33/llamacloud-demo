@@ -1,0 +1,10 @@
+   35
+   3.0
+1 25
+   2.0
+   15
+   1.0
+   05    1
+
+         Solar mdule: historical spot price    Solar mdule: end-2024e
+         Onshore wind turbine: historical bidding price    Onshore wind turbine: end-2024e

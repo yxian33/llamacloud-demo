@@ -1,0 +1,11 @@
+       AMAT revenue by geography
+  3,000
+
+  2,500
+[ 2,000
+2 1,500
+0 1,000
+  500
+
+
+  China  Korea  Taiwan  Japan  SE Asia  North America  Europe

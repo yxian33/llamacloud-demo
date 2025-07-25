@@ -1,0 +1,15 @@
+             Global PC shipments with segment detail
+
+   40,000,000
+   35,000,000
+   30,000,000
+
+3  25,000,000
+   20,000,000
+   15,000,000
+   10,000,000
+   5,000,000
+
+   J
+             Desktop PC  Commercial    Desktop PC   Consumer
+             Portable PC Commercial    Portable PC  Consumer

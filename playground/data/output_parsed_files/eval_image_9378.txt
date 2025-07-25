@@ -1,0 +1,18 @@
+40,000    Capacity vs Maximum Production by Region, 2023E                                       80%
+          (m units (LHS) and utilisation (RHS))
+35,000                                                                                          70%0
+
+30,000                                                                                          60%
+
+25,000                                                       5090
+
+20,000                                                                                          409
+
+15,000                                                                                          309
+
+10,000                                                                                          20%0
+
+ 5,000                                                       10%0
+
+          North America  Europe  JapaniKorea  Greater China  South Asia  South America  RoW     0%
+          Capacity               Production    Maximum Utilization (RHS)

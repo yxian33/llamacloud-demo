@@ -1,0 +1,8 @@
+   Amw
+
+
+-2 14  15  16  17  18  19        20  21                  22  23
+
+   Inverse of ELISA - Price/Earnings Ratio (Adjusted)*100
+   RF FINLAND GVT BMK BID YLD 10Y
+                                 Source: LSEG Datasiream

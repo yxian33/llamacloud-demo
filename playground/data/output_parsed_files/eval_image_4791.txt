@@ -1,0 +1,13 @@
+(KRW bn)    OLED IT rev. (LHS)    (%)
+100         OLED IT rev. proportion (RHS)                25
+
+ 80                                                      20
+
+ 60                                                      15
+
+ 40                                          10
+
+ 20                                                      5
+
+                                                         0
+       1Q24F  3024F  1Q25F        3025F      1Q26F  3Q26F

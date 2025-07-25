@@ -1,0 +1,12 @@
+ (miles bn)    US driving miles (LHS)
+350            Y-y (RHS)                      80%
+300                                           60%
+                                              40%
+250                                           20%
+200                                  0%
+ 150                                          -20%
+                                              -40%
+ 100                                          -60%
+
+        Jul-19  Jul-20  Jul-21  Jul-22  Jul-23
+ Jan-19        Jan-20  Jan-21  Jan-22  Jan-23

@@ -1,0 +1,21 @@
+ Company                                    Region       Climate    Forests    Water
+
+ Beiersdorf AG                              Europe
+
+ Danone                                     Europe
+
+ KAO Corporation                            Asia
+
+ Kering                                     Europe
+
+ Klabin SYA                                 South America
+
+ Lenzing AG                                 Europe
+
+ Loreal                                     Europe
+
+ Mayr-Melnhof Karton Aktiengesellschaft     Europe
+
+ Philip Morris International                North America
+
+Sekisui House, Ltd_                         Asia

@@ -1,0 +1,18 @@
+        TSMC revenue split by technology
+100%                                              0.s0um+
+90%                                              D0.25um+
+                                                  D0.15/0.18um
+80%                                              00.11/0.13um
+70%                                               O9Onm
+                                                  O65nm
+60%                                               O40nm
+50%                                               028nm
+                                                 Dz0nm
+40%                                               16/20nm
+30%                                               DiOnm
+20%                                               7nm
+                                                  Snm
+10%                                               3nm
+0% 5 8 8 8 8 8 5 8 8 2 F ~ 2 7 2 9 F 9 8 8 { N 8
+
+   6 6 6 & & 6 & 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6

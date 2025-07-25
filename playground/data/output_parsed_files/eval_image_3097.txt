@@ -1,0 +1,14 @@
+                AIS            3_5             true          dtac  ntNelecoal
+
+                Mobile          Mobile          Mobile             Mobile
+Services        Broadband       Broadband       Broadband          Broadband
+                VDO service     VDO service     VDO service        VDO service
+                Cloud & ICT     Cloud & ICT     Cloud & ICT        Cloud & ICT
+
+Mobile          45.3 mn                         51.1 mn
+Subscriber &    47.0%                           53.0%
+Market share
+
+FBB             2.3 mn          2.3 mn*         3.8 mn
+Subscriber &    22.5%           22.3%           36.9%
+Market share

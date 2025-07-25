@@ -1,0 +1,14 @@
+   Rolling PER        Average           Average +1STD
+   Average +2STD      Average -1STD     Average -2STD
+
+35
+30
+25
+
+20
+15
+10
+ 5
+
+ Jarl/20    Jan/21    Jan/22            Jan/23       Jan/24
+ -5

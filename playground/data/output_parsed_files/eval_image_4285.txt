@@ -1,0 +1,25 @@
+  10000    Automotivechip revs
+  9500
+  9000
+  8500
+  8000
+ L 7500
+  7000
+  6500
+
+ 2 6000
+  5500
+0 5000
+  4500
+  3500
+  3000
+  2500
+ 2000
+ 1500
+ 1000
+  500
+
+
+ Infineon(USD)  NXP  Renesas (USD)  TXN  ON  ADI (incl. Maxim)    813833
+
+                                                                  Rohm (USD)  Total

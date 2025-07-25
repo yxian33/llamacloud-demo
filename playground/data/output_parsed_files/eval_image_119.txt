@@ -1,0 +1,8 @@
+Water    Deposition  Lithography    Etch    Deposition  Planarization  Assembly /  Packaging  Completed IC
+making                                                                 Test
+
+                                    Repeat many times
+
+                     WAFER FAB PROCESS
+
+                     ASM FocUS IS ON DEPOSITION

@@ -1,0 +1,87 @@
+    2 2 8 2 2 8 8 8 6 8 8 ? 8
+             CH Autos/Comps
+           CH Software/Svcs
+               KR Utils
+          CH TechHard/Eqpmt
+                 INGaoco8ds
+    CH  Svs
+           TW Cons Drbi/App
+         KR Autos/Comps
+         IN Autos/Comps
+          Indo Food/Bvg[Tob
+               IN Utils
+           CH Cap Goods
+    PRCap
+                  Gap Goods
+               IN Banks
+               HK Utils
+              CH Pharma
+                   TW Banks
+           IN Materials
+        IN HHIPers Prod
+               PH Banks
+    TW Insurance
+            CH Div Fins
+                     TH Tpt
+        IN Telcos
+          CH HIC Eq Svs
+           CH Materials
+    KR TechHard/Eqpmt
+    TW  KR Div
+            TW Food/Bvg/Tob
+         CH Real Estate
+             Indo Banks
+            MY FoodiBvg Tob
+              IN Energy         4
+TH Cons Disc DistRetail
+              MY Telcos
+        MXASJ Local
+            IN FoodIBvg/Tob
+                TW Div Fins
+           SP Cap Goods         3
+           TW SemiCon/Eqpmt
+        KR Insurance
+        MY Utils                3
+               TH Banks
+                   HK Banks
+      KR Pharma/Biotech
+       IN Software/Svcs
+                  TH Telcos
+      IN Pharma/Biotech
+                  TW Telcos
+                     CH Tpt
+    KRFoodiBvHE?z
+        HK
+        SP Telcos
+               SP Banks
+        TW Materials
+               TH Materials
+                IN Div Fins
+ CH Cons Disc DistRetail
+                   MY Banks
+                     SP Tpt
+           KR Materials
+                    KRBengy    1
+        KR
+            CH Food/Bvg Tob
+                    CHUtils
+                   CH Banks
+            CH Cons DrbIApp
+             KR SemiConEcpg    c
+        KR HHIPers Prod
+        SP RIETS
+                     HK Tpt
+           HK Insurance
+                CH Med &Ent
+            HK Food/Bvg/Tob
+           HK Cap Goods
+                KR Med &Ent
+                  CH Telcos
+                HK Div Fins
+               CH Insurance
+            Indo Telcos
+              TH Energy
+        HK Cons Svcs
+              TH HIC Eq Svs
+           KR Software/Svcs
+                   22822328 g 8 28838

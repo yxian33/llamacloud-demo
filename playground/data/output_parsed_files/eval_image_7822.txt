@@ -1,0 +1,10 @@
+(KRW)    (USDIbbl:)
+ 150,000    LIG NexI(LHS)  WTI(RHS)                         150
+
+ 100,000                                                    100
+                                       50
+
+  50,000
+
+                                                            50
+   Dec-16   Dec-17  Dec-18  Dec-19  Dec-20  Dec-21  Dec-22  Dec-23

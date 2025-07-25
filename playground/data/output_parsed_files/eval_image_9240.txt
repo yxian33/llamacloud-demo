@@ -1,0 +1,21 @@
+             Shinsegae
+                      Currency =KRW
+375000.0C
+350000.
+325000.
+30oooo.
+275000.00    ~ Kl
+250000.
+225000.
+Zooooo.OC
+175000.0C
+ s0ooo.
+125000.0C
+1ooooo.OC
+ 7s000.00
+ s0ooo.
+ 25000.
+
+             2021/07/01  2022/01/01  2022/07/01  2023/01/01  2023/07/01  2024/01/01
+             Closing Price  Target PriceChange   RecommeroaticnChanges
+                                                             Scurce: LSEG, Nomin

@@ -1,0 +1,10 @@
+20.3%  Sy Implied vs
+  0.2% realised skew; last
+] 0.1% 3 months
+  0.0%
+  -0_ %
+  ~0.2%
+  -0.3%
+      ~0.15%        -0.05%    0.05%    0.15%
+                Higher forward         Implied skew
+                                  Lower forward

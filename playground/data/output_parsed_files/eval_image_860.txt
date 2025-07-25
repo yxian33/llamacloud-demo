@@ -1,0 +1,24 @@
+       Zomato    As of 13-Mar-2024
+
+                 Currency =INR
+180.00
+170.00
+ 160.0C
+ 150.00
+140.0C
+130.0C
+120.00
+110.00
+100.00
+90.00
+80.00
+70.OC
+60.00
+50.0C
+ 40.0
+30.0C
+20.0C
+10.0C
+       2021/07/01  2022/01/01  2022/07/01  2023/01/01  2023/07/01  202+/01/01
+                   Closing Price  Target Price Change  RecommeroaticnChanges
+                                                       Scurce: LSEG, Nomin

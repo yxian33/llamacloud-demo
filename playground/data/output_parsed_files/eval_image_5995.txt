@@ -1,0 +1,22 @@
+Export                                                                                                                                                                                               Forest Risk Commodity Supply Chain Exposure
+   Ticker              FRC Exposure Type| Biodiversi Adopt TNFD Executivi Board Biodi Zero Defor Value Chain  FRCs Revenue Exposure FRCs Direct Commodity Exposure | FRCs Potentially Supply Chain Expose At Rsk Cmdty Rev Pct Biodiv Frst Rsk (
+
+   BBG Dev Mkt LMS PR
+             Direct Revenue Involvement (121)
+   NESTLE SA-REG       A - Direct Revenue Involvement      Beef      Leather                                                           Da Palm Oil, Soy, Cocoa, Coffe Palm Oil, Soy,Rubber_ Cocoa     11.81
+   UNILEVER PLC        A - Direct Revenue Involvement      Beef      Leather                                                           Da Palm Oil, Soy, Cocoa, Timb Palm Oil, Soy, Rubber, Cocoa     36.27
+   MONDELEZ INTER-A    A - Direct Revenue Involvement     Cocoa Beef  Leath Palm Oil, Soy;                                                           Cocoa Beef Palm Oil, Soy,Cocoa, Coffee;          35.47
+   ITOCHU CORP             Direct Revenue Involvement      Timber     Pulp                                                            Paf Soy; Rubber, Cocoa, Coffee Palm Oil, Soy, Rubber, Cocoa      9.15
+   JAPAN TOBACCO       A - Direct Revenue Involvement     Beef       Leather   Da Timber                                                       Pulp  Paper    Palm Oil, Soy, Cocoa, Coffee;            6.09
+   DANONE                  Direct Revenue Involvement      Beef      Leather                                                          Da Palm Oil, Soy, Cocoa, Coffe Palm Oil, Soy, Rubber, Cocoa     53.50
+   KEURIG DR PEPPER        Direct Revenue Involvement     Coffee                                                                    Cocoa, Coffee, Timber     Pt Palm Oil, Soy,Cocoa, Coffee;         27.48
+   BRIDGESTONE CORP        Direct Revenue Involvement      Rubber,                                                                  Rubber,                        Palm Oil, Rubber , Coffee, Tin     93.03
+   CHOCOLADEFABR-PC    A - Direct Revenue Involvement      Cocoa,     Pulp                                                          Cocoa, Beef Leather       Dz Timber Pulp Paper                   100.00
+   MARUBENI CORP           Direct Revenue Involvement      Timber             Paf Soy, Coffee; Beef                                                           Leathe Palm Oil, Soy; Rubber_ Cocoa      2.91
+   MICHELIN            A - Direct Revenue Involvement      Rubber,                                                                  Rubber                     Palm Oil, Rubber Timber               100.00
+   WEYERHAEUSER CO         Direct Revenue Involvement     Timber      Pulp     Paj Timber                                                      Pulp  Paper     Timber   Pulp Paper                   95.27
+   UNICHARM CORP       A - Direct Revenue Involvement     Timber      Pulp     Paj Soy; Timber                                                  Pulp      Pape Palm Oil, Soy, Coffee, Beef               87
+   TYSON FOODS-A           Direct Revenue Involvement      Beef      Leather   Da Soy,Beef                                                     Leather    Dair Palm Oil, Soy, Coffee, Beef            46.74
+   UPM-KYMMENE OYJ     A - Direct Revenue Involvement      Timber     Pulp    Par Timber                                                        Pulp Paper     Timber   Pulp Paper                    79.32
+   PACKAGING CORP          Direct Revenue Involvement     Timber      Pulp    Par Timber                                                        Pulp Paper    Coffee, Timber Pulp     Pape           100.00
+   CONTINENTAL AG      A - Direct Revenue Involvement     Rubber,                                                                   Rubber;                    Soy,Rubber, Timber Pulp                35.27

@@ -1,0 +1,21 @@
+       Sun Pharmaceutical Industries    As of 22-Feb-2024
+                                        Currency =INR
+1600.00
+1500.
+1400.0C
+ 300.
+1200
+1100.0C
+1c00.
+ 900.
+ 800.
+ 700.
+ 600.0C
+
+ 300.
+ 200.
+ 100.
+
+       2021/07/01  2022/01/01  2022/07/01  2023/01/01  2023/07/01  2024/01/01
+       Closing Price  Target PriceChange   RecommeroaticnChanges
+                                                       Scurce: LSEG, Nomin

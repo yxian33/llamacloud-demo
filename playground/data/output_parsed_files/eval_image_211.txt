@@ -1,0 +1,12 @@
+Al Compute ASICs with CPO
+ Enable AIIML scaling with 2.5D multi-chip packaging and CPO
+
+ 2.5D CoWoS Package with Silicon Interposer                 chtor
+ Industry leading SerDes and DSP
+ CPO with 6.4Tbls IIO BW per chiplet (FR4)
+ High Bandwidth Memory (HBM)
+ MAX PHY MAX2 die-to-die communication
+                                                            asic
+
+
+ 3-SdB electrical channel (AISC-OE)    BROADCOM

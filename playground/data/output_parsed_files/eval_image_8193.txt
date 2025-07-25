@@ -1,0 +1,18 @@
+6000             [EUR per MW]       5000                                            [EUR per installation]
+5000                                                                                5000
+4000                        3500            500
+3000
+2000                        2000    1500    2500                                    2000                                            O0O
+
+1000
+                                                                                    500                                             600
+        Fossil;             Wind    Solar   Grid-scale  Electrolysia                        EV charging  Heat pump                  Fuel cell
+        nuclear;                            battery storage
+        hydro
+        Additions in 20221  74[GW]    220[GW]    12[GW]                             <1[GW]    ~6m[nst:]     22mlinet]               5K[iret]
+
+    CAGR 2023               1626      23%6       5626                               9202      310           16%                     420
+                                                 Mainly Sic                         Mainly IGBT
+
+        Net Zerc by 2050 _  Roadma? for tne Global Erergy Sector: May 20ZI; Sector Tracking reports September 2O2I; intemal analysis
+        Based on 270 GW pipeline (midpoint) >100S based cn NZE requirements of ES0GW

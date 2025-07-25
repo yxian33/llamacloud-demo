@@ -1,0 +1,73 @@
+    KR SemiCon Eqpmt
+              KR Tpt
+          IN Autos/Comps
+              CH Tpt
+               IN Energy
+     IN Pharm/Biotec
+            HK Utils
+            IN Utils
+            PH Banks
+    PH RE MgmtDvpt
+         HK Fin Svcs
+            MY Banks
+            ID Banks
+               ID Telcos
+       KR Pharma Biotech
+        KR Media/Ent
+        CH Media/Ent               3
+        IN Cap Goods
+            TW Banks               3
+            IN Banks               3
+      CH PharmBiotec               3
+         IN Fin Svcs
+            HK REITS
+   TW SemiCon/Eqpmt           3     1
+            HK Banks
+         HKCap Goods
+    IN Software/Svcs
+        CH Cap Goods                3
+           TW Telcos
+            SP Banks
+   TW TechHardEqpmt
+     KR Food Bvg Tob                1
+            CH Utils
+            CH Banks
+          KR Autos/Comps
+               TH Energy            2
+        TW Insurance
+        IN Food Bvg [Tob            3
+        SP Cap Goods
+        CH Cons Svcs                1
+            TH Banks
+            SP REITS
+           SP Telcos                8
+            KR Banks
+         CH HCIEquip                9
+           CH Energy
+           IN Telcos                8
+   KR TechHard Eqpmt
+     CH Cons DrblApp
+    CH TechHardEqpmt
+      CH FoodBvg/Tob
+      CH AutosiComps
+           Cap Goods         9
+        CH Insurance         9
+           CH Telcos         8
+    CH SemiCon/Eqpmt
+        HK Insurance
+         CH Fin Svcs        3
+    HK Food Bvg/Tob         3
+        CH Materials
+ CH Cons Disc DistRt
+        KR Insurance
+        IN Materials
+    HK RE MgmtDvpt
+        HK Cons Svcs
+    CH RE MgmtDvpt
+         KRCap Goods
+    KREnergy
+    KR Cons DrblApp
+    TH Materials?
+        TW Materials
+        KR Materials
+ID Cons Disc DistiRt               3

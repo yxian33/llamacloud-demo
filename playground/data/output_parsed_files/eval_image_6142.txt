@@ -1,0 +1,14 @@
+       AMAT's Semiconductor Systems Group rev breakout
+
+  6,000
+
+  5,000
+[ 4,000
+@ 3,000
+
+  2,000
+
+  1,000
+
+
+Foundry/Logic/Other    DRAM  NAND  Total SSG

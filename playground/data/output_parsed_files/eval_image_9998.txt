@@ -1,0 +1,22 @@
+                                         EPS Growth                            Cons. Valuations
+
+           Index        2022      2023E      2024E        2025E     CAGR 23-   24F PE       Current
+                                                                    25E                     12mth
+                                                                                            Fwd PER
+MSCI USA                   6.5        2.5     9.8           13.6    11,.7           21,3    20.7
+MSCI China                 2.4       12.3     14.1        14.7         14.4          9.0        8.8
+MSCI Hong Kong          (2.5)         0.7     11.7           9.3       10.5         11.5       11.3
+MSCI India                 7.8    24.8        13.6          14.8       14.2         22.2    22.5
+MSCI Indonesia            39.3       38.3          7.2      10.4        8.8         14.2       13.9
+MSCI Korea              (15.7)    (33.6)          62.2      26.4       43.2         11.8       11.3
+MSCI Malaysia           8.1        8.1             8.6       7.0        7.8         14.0       13.8
+MSCI Philippines        25.1      26.4             8.6    9.3           9.0    12.7            12.6
+MSCI Singapore           141.0    38.8             1.2       7.5        4.3         12.0       11.9
+MSCI Taiwan             (5.3)     (19.0)          17.8      20.4    19.1            16.8       16.3
+MSCI Thailand             25.2    (21.3)      14.7          13.8       14.3     16.1           15.8
+MSCI South East Asia     114.4    19.4        6.1            9.2        7.6         13.5       13.3
+MSCI Asia-ex-Japan         2.0     (0.2)          19.0      16.5       17.8         12.7       12.4
+Emerging Markets          15.6     (4.4)          16.3      15.3       15.8     12.1           11.8
+Dev Markets               10.4        0.9     7.8         12.0          9.9         18.7       18.2
+Hang Seng                  7.6        9.2          8.0       8.7        8.4          8.0        7.9
+CSI 300                    8.8    10.4            13.5      12.8       13.2     11.7           11.5

@@ -1,0 +1,19 @@
+       ICICI Bank    As of 03-Mar-2024
+
+                     Currency =INR
+
+1200.
+1100.0C
+10oo.0o
+ 900.00
+ 800.
+
+ 600.
+ 500.
+ 400.00
+ 300.00
+ 200.
+
+       2021/07/01  2022/01/01  2022/07/01  2023/01/01  2023/07/01  2024/01/01
+       Closing Price  Target PriceChange   RecommeroaticnChanges
+                                                       Scurce: LSEG, Nomin

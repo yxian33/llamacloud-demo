@@ -1,0 +1,13 @@
+(days)            inventory (RHS)         (KRW tn)
+70                inventory days (LHS)                    14
+
+65                                                        12
+
+60                                                        10
+
+55                                        8
+
+50                                                        6
+
+45                                                        4
+      1Q20  3020  1Q21  3021         1Q22  3022  1Q23 3023

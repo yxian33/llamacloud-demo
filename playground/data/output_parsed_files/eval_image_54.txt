@@ -1,0 +1,14 @@
+   Contribution (21-Mar)
+   8  8  8
+
+  GBP Bund corr    2
+
+USDHY_JPY corr          2
+
+   s&p 500
+
+   USD HY           8
+
+   other               8
+
+Reverse Goldilocks     8

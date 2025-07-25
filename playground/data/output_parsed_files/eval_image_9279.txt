@@ -1,0 +1,6 @@
+Wolfspeed.  WOLFSPEED Sic Discrete Power MOSFET
+            Voltage Range: 650V, 900V, 1OOOV, 1200V,1700v
+            Rds(on): 1Smn to 10OOmo
+
+
+  loutnrinti

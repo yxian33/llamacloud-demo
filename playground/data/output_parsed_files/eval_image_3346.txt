@@ -1,0 +1,12 @@
+ Price
+ (MYR)  Rel FTSE Bursa Malaysia KLCI Index
+
+ 160
+2.5  150
+2.25  140
+ 130
+ 120
+1,75  110
+
+1.5 8  8 8  1 1 8  8 8 1 8 4 4  100
+ 1 8 2  3  8  6 2

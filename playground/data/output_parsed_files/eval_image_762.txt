@@ -1,0 +1,14 @@
+ 0.04
+
+ 0.02
+
+
+-0.02
+
+-0.04
+
+~0.06
+
+ 2021    2022     2023    2024
+         VIX curve
+         1Oth percentile_ 5-yearrolling -window

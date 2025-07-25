@@ -1,0 +1,20 @@
+  E0 momentum indicator `  8  ? 8  8 5
+  Avg:  survey sentiment
+
+  HSBC E0 CTA  equity beta
+        sentiment     index
+        CFTC equities
+
+  Risk  parity    MASK*                                   5
+
+  j8            E0 alloc.                                 8
+        vIX       CAPCA                                   2
+  8    VogtargetHYNIX =IG*
+       Money market Eoalloc.
+
+Aggregate       3m flow*
+             UsMa fund Vix curve
+             contrarian buy  equity beta
+                             signal (RHS) ^
+
+                                           8 8   8  8  8 6

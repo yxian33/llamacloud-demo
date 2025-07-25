@@ -1,0 +1,22 @@
+         Korea Aerospace Industries                              09-Fek-2024
+                                                               Currency =KRW
+ 80ooo.OC
+ 75000.
+ 70ooo.0o
+ 65000.
+ 6oooo.OC
+ 5s000.
+ soooo.OC
+ 45000.00
+ 400o0.
+ 35000.
+aCdou
+ 25000.00
+ 2cooo.OC
+ 15000.0C
+ 1cooo.OC
+  s0oo.0o
+
+         2021/07/01  2022/01/01  2022/07/01  2023/01/01  2023/07/01  2024/01/01
+         Closing Price  Target PriceChange   RecommeroaticnChanges
+                                                         Scurce: LSEG, Nomin
