@@ -64,7 +64,7 @@ async def parse_image(parser, image_path, semaphore):
 async def main():
     parser = LlamaParse(
         api_key=LLAMA_INDEX_KEY,
-        num_workers=1,  # Keep this at 1 to avoid internal parallelism
+        num_workers=1
         language="en",
         parse_mode="parse_page_with_agent",
         model="anthropic-sonnet-4.0"
